@@ -25,19 +25,19 @@ points.
 
 ## Installation
 
-HoloClean was tested on Python versions 2.7, 3.6, and 3.7. 
+Record Fusion was tested on Python versions 2.7, 3.6, and 3.7. 
 It requires PostgreSQL version 9.4 or higher.
 
 
 ### 1. Install and configure PostgreSQL
 
-We describe how to install PostgreSQL and configure it for HoloClean
+We describe how to install PostgreSQL and configure it for Record Fusion
 (creating a database, a user, and setting the required permissions).
 
 #### Option 1: Native installation of PostgreSQL
 
 A native installation of PostgreSQL runs faster than docker containers.
-We explain how to install PostgreSQL then how to configure it for HoloClean use.
+We explain how to install PostgreSQL then how to configure it for Record Fusion use.
 
 ##### a. Installing PostgreSQL
 
@@ -49,9 +49,9 @@ $ apt-get install postgresql postgresql-contrib
 For macOS, you can find the installation instructions on
 [https://www.postgresql.org/download/macosx/](https://www.postgresql.org/download/macosx/)
 
-##### b. Setting up PostgreSQL for HoloClean
+##### b. Setting up PostgreSQL for Record Fusion
 
-By default, HoloClean needs a database `holo` and a user `holocleanuser` with permissions on it.
+By default, Record Fusion needs a database `holo` and a user `holocleanuser` with permissions on it.
 
 1. Start the PostgreSQL `psql` console from the terminal using \
 `$ psql --user <username>`. You can omit `--user <username>` to use current user.
@@ -69,7 +69,7 @@ ALTER SCHEMA public OWNER TO holocleanuser;
 You can connect to the `holo` database from the PostgreSQL `psql` console by running
 `psql -U holocleanuser -W holo`.
 
-HoloClean currently populates the database `holo` with auxiliary and meta tables.
+Record Fusion currently populates the database `holo` with auxiliary and meta tables.
 To clear the database simply connect as a `root` user or as `holocleanuser` and run
 ```sql
 DROP DATABASE holo;
@@ -78,7 +78,7 @@ CREATE DATABASE holo;
 
 #### Option 2: Using Docker
 If you are familiar with docker, an easy way to start using
-HoloClean is to start a PostgreSQL docker container.
+Record Fusion is to start a PostgreSQL docker container.
 
 To start a PostgreSQL docker container, run the following command:
 
@@ -97,11 +97,11 @@ You can then use `docker start pghc` and `docker stop pghc` to start/stop the co
 Note the port number which may conflict with existing PostgreSQL servers.
 Read more about this docker image [here](https://hub.docker.com/_/postgres/). 
 
-### 2. Setting up HoloClean
-HoloClean runs on Python 2.7 or 3.6+. We recommend running it from within
+### 2. Setting up Record Fusion
+Record Fusion runs on Python 2.7 or 3.6+. We recommend running it from within
 a virtual environment.
 
-#### Creating a virtual environment for HoloClean
+#### Creating a virtual environment for Record Fusion
 ##### Option 1: Conda Virtual Environment
 
 First, download Anaconda (not miniconda) from [this link](https://www.anaconda.com/download).
