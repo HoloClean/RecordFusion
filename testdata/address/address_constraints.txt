@@ -1,0 +1,2 @@
+t1&t2&EQ(t1.postcode,t2.postcode)&IQ(t1.latitude,t2.latitude)
+t1&t2&EQ(t1.postcode,t2.postcode)&IQ(t1.longitude,t2.longitude)

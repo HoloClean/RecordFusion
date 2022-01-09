@@ -1,0 +1,1001 @@
+hospital_number,Address1,City,CountyName,HospitalName,HospitalOwner,HospitalType,PhoneNumber,ProviderNumber,State,Stateavg,ZipCode,a
+1,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-card-2,35233,a
+2,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-inf-1,35233,a
+3,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-inf-2,35233,a
+4,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-inf-3,35233,a
+5,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-inf-4,35233,a
+6,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-inf-6,35233,a
+7,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-vte-1,35233,a
+8,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_scip-vte-2,35233,a
+9,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-1,35660,a
+10,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-2,35660,a
+11,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-3,35660,a
+12,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-4,35660,a
+13,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-5,35660,a
+14,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-7a,35660,a
+15,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_ami-8a,35660,a
+16,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_hf-1,35660,a
+17,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_hf-2,35660,a
+18,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_hf-3,35660,a
+19,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_hf-4,35660,a
+20,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-1,36302,a
+21,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-2,36302,a
+22,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-3,36302,a
+23,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-4,36302,a
+24,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-5,36302,a
+25,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-7a,36302,a
+26,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_ami-8a,36302,a
+27,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_hf-1,36302,a
+28,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_hf-2,36302,a
+29,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_hf-3,36302,a
+30,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_hf-4,36302,a
+31,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-2,36302,a
+32,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-3b,36302,a
+33,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-4,36302,a
+34,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-5c,36302,a
+35,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-6,36302,a
+36,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_pn-7,36302,a
+37,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-card-2,36302,a
+38,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-inf-1,36302,a
+39,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-inf-2,36302,a
+40,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-inf-3,36302,a
+41,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-inf-4,36302,a
+42,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-inf-6,36302,a
+43,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-vte-1,36302,a
+44,1108 ross clark circle,dothan,houston,southeast alabama medical center,government - hospital district or authority,acute care hospitals,3347938701,10001,al,al_scip-vte-2,36302,a
+45,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-1,35957,a
+46,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-2,35957,a
+47,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-3,35957,a
+48,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-4,35957,a
+49,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-5,35957,a
+50,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-7a,35957,a
+51,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_ami-8a,35957,a
+52,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_hf-1,35957,a
+53,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_hf-2,35957,a
+54,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_hf-3,35957,a
+55,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_hf-4,35957,a
+56,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-2,35957,a
+57,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-3b,35957,a
+58,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-4,35957,a
+59,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-5c,35957,a
+60,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-6,35957,a
+61,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_pn-7,35957,a
+62,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-card-2,35957,a
+63,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-inf-1,35957,a
+64,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-inf-2,35957,a
+65,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-inf-3,35957,a
+66,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-inf-4,35957,a
+67,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-inf-6,35957,a
+68,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-vte-1,35957,a
+69,2505 u s highway 431 north,boaz,marshall,marshall medical center south,government - hospital district or authority,acute care hospitals,2565938310,10005,al,al_scip-vte-2,35957,a
+70,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-1,35631,a
+71,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-2,35631,a
+72,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-3,35631,a
+73,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-4,35631,a
+74,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-5,35631,a
+75,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-7a,35631,a
+76,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_ami-8a,35631,a
+77,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_hf-1,35631,a
+78,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_hf-2,35631,a
+79,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_hf-3,35631,a
+80,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_hf-4,35631,a
+81,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-2,35631,a
+82,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-3b,35631,a
+83,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-4,35631,a
+84,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-5c,35631,a
+85,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-6,35631,a
+86,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_pn-7,35631,a
+87,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-card-2,35631,a
+88,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-inf-1,35631,a
+89,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-inf-2,35631,a
+90,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-inf-3,35631,a
+91,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-inf-4,35631,a
+92,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-inf-6,35631,a
+93,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-vte-1,35631,a
+94,205 marengo street,florence,lauderdale,eliza coffee memorial hospital,voluntary non-profit - other,acute care hospitals,2567688400,10006,al,al_scip-vte-2,35631,a
+95,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-1,36467,a
+96,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-2,36467,a
+97,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-3,36467,a
+98,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-4,36467,a
+99,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-5,36467,a
+100,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-7a,36467,a
+101,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_ami-8a,36467,a
+102,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_hf-1,36467,a
+103,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_hf-2,36467,a
+104,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_hf-3,36467,a
+105,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_hf-4,36467,a
+106,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-2,36467,a
+107,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-3b,36467,a
+108,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-4,36467,a
+109,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-5c,36467,a
+110,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-6,36467,a
+111,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_pn-7,36467,a
+112,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-card-2,36467,a
+113,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-inf-1,36467,a
+114,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-inf-2,36467,a
+115,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-inf-3,36467,a
+116,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-inf-4,36467,a
+117,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-inf-6,36467,a
+118,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-vte-1,36467,a
+119,702 n main st,opp,covington,mizell memorial hospital,voluntary non-profit - private,acute care hospitals,3344933541,10007,al,al_scip-vte-2,36467,a
+120,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-1,36049,a
+121,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-2,36049,a
+122,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-3,36049,a
+123,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-4,36049,a
+124,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-5,36049,a
+125,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-7a,36049,a
+126,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_ami-8a,36049,a
+127,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_hf-1,36049,a
+128,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_hf-2,36049,a
+129,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_hf-3,36049,a
+130,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_hf-4,36049,a
+131,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-2,36049,a
+132,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-3b,36049,a
+133,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-4,36049,a
+134,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-5c,36049,a
+135,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-6,36049,a
+136,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_pn-7,36049,a
+137,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-card-2,36049,a
+138,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-inf-1,36049,a
+139,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-inf-2,36049,a
+140,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-inf-3,36049,a
+141,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-inf-4,36049,a
+142,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-inf-6,36049,a
+143,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-vte-1,36049,a
+144,101 hospital circle,luverne,crenshaw,crenshaw community hospital,government - federal,acute care hospitals,3343353374,10008,al,al_scip-vte-2,36049,a
+145,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-1,35640,a
+146,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-2,35640,a
+147,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-3,35640,a
+148,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-4,35640,a
+149,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-5,35640,a
+150,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-7a,35640,a
+151,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_ami-8a,35640,a
+152,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_hf-1,35640,a
+153,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_hf-2,35640,a
+154,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_hf-3,35640,a
+155,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_hf-4,35640,a
+156,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-2,35640,a
+157,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-3b,35640,a
+158,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-4,35640,a
+159,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-5c,35640,a
+160,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-6,35640,a
+161,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_pn-7,35640,a
+162,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-card-2,35640,a
+163,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-inf-1,35640,a
+164,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-inf-2,35640,a
+165,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-inf-3,35640,a
+166,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-inf-4,35640,a
+167,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-inf-6,35640,a
+168,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-vte-1,35640,a
+169,201 pine street northwest,hartselle,morgan,hartselle medical center,proprietary,acute care hospitals,2567736511,10009,al,al_scip-vte-2,35640,a
+170,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-1,35976,a
+171,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-2,35976,a
+172,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-3,35976,a
+173,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-4,35976,a
+174,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-5,35976,a
+175,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-7a,35976,a
+176,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_ami-8a,35976,a
+177,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_hf-1,35976,a
+178,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_hf-2,35976,a
+179,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_hf-3,35976,a
+180,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_hf-4,35976,a
+181,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-2,35976,a
+182,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-3b,35976,a
+183,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-4,35976,a
+184,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-5c,35976,a
+185,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-6,35976,a
+186,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_pn-7,35976,a
+187,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-card-2,35976,a
+188,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-inf-1,35976,a
+189,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-inf-2,35976,a
+190,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-inf-3,35976,a
+191,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-inf-4,35976,a
+192,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-inf-6,35976,a
+193,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-vte-1,35976,a
+194,8000 alabama highway 69,guntersville,marshall,marshall medical center north,government - hospital district or authority,acute care hospitals,2565718000,10010,al,al_scip-vte-2,35976,a
+195,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-1,35235,a
+196,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-2,35235,a
+197,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-3,35235,a
+198,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-4,35235,a
+199,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-5,35235,a
+200,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-7a,35235,a
+201,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_ami-8a,35235,a
+202,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_hf-1,35235,a
+203,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_hf-2,35235,a
+204,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_hf-3,35235,a
+205,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_hf-4,35235,a
+206,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-2,35235,a
+207,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-3b,35235,a
+208,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-4,35235,a
+209,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-5c,35235,a
+210,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-6,35235,a
+211,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_pn-7,35235,a
+212,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-card-2,35235,a
+213,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-inf-1,35235,a
+214,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-inf-2,35235,a
+215,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-inf-3,35235,a
+216,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-inf-4,35235,a
+217,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-inf-6,35235,a
+218,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-vte-1,35235,a
+219,50 medical park east drive,birmingham,jefferson,st vincents east,voluntary non-profit - private,acute care hospitals,2058383122,10011,al,al_scip-vte-2,35235,a
+220,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-1,35968,a
+221,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-2,35968,a
+222,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-3,35968,a
+223,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-4,35968,a
+224,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-5,35968,a
+225,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-7a,35968,a
+226,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_ami-8a,35968,a
+227,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_hf-1,35968,a
+228,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_hf-2,35968,a
+229,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_hf-3,35968,a
+230,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_hf-4,35968,a
+231,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-2,35968,a
+232,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-3b,35968,a
+233,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-4,35968,a
+234,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-5c,35968,a
+235,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-6,35968,a
+236,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_pn-7,35968,a
+237,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-card-2,35968,a
+238,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-inf-1,35968,a
+239,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-inf-2,35968,a
+240,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-inf-3,35968,a
+241,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-inf-4,35968,a
+242,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-inf-6,35968,a
+243,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-vte-1,35968,a
+244,200 med center drive,fort payne,de kalb,dekalb regional medical center,voluntary non-profit - church,acute care hospitals,2568453150,10012,al,al_scip-vte-2,35968,a
+245,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-1,36784,a
+246,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-2,36784,a
+247,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-3,36784,a
+248,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-4,36784,a
+249,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-5,36784,a
+250,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-7a,36784,a
+251,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_ami-8a,36784,a
+252,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_hf-1,36784,a
+253,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_hf-2,36784,a
+254,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_hf-3,36784,a
+255,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_hf-4,36784,a
+256,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-2,36784,a
+257,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-3b,36784,a
+258,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-4,36784,a
+259,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-5c,36784,a
+260,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-6,36784,a
+261,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_pn-7,36784,a
+262,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-card-2,36784,a
+263,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-inf-1,36784,a
+264,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-inf-2,36784,a
+265,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-inf-3,36784,a
+266,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-inf-4,36784,a
+267,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-inf-6,36784,a
+268,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-vte-1,36784,a
+269,33700 highway 43,thomasville,clarke,southwest alabama medical center,government - federal,acute care hospitals,3346366221,10015,al,al_scip-vte-2,36784,a
+270,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-1,35007,a
+271,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-2,35007,a
+272,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-3,35007,a
+273,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-4,35007,a
+274,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-5,35007,a
+275,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-7a,35007,a
+276,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_ami-8a,35007,a
+277,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_hf-1,35007,a
+278,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_hf-2,35007,a
+279,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_hf-3,35007,a
+280,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_hf-4,35007,a
+281,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-2,35007,a
+282,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-3b,35007,a
+283,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-4,35007,a
+284,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-5c,35007,a
+285,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-6,35007,a
+286,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_pn-7,35007,a
+287,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-card-2,35007,a
+288,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-inf-1,35007,a
+289,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-inf-2,35007,a
+290,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-inf-3,35007,a
+291,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-inf-4,35007,a
+292,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-inf-6,35007,a
+293,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-vte-1,35007,a
+294,1000 first street north,alabaster,shelby,shelby baptist medical center,voluntary non-profit - church,acute care hospitals,2056208100,10016,al,al_scip-vte-2,35007,a
+295,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-1,35233,a
+296,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-2,35233,a
+297,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-3,35233,a
+298,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-4,35233,a
+299,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-5,35233,a
+300,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-7a,35233,a
+301,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_ami-8a,35233,a
+302,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_hf-1,35233,a
+303,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_hf-2,35233,a
+304,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_hf-3,35233,a
+305,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_hf-4,35233,a
+306,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-2,35233,a
+307,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-3b,35233,a
+308,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-4,35233,a
+309,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-5c,35233,a
+310,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-6,35233,a
+311,1720 university blvd,birmingham,jefferson,callahan eye foundation hospital,voluntary non-profit - private,acute care hospitals,2053258100,10018,al,al_pn-7,35233,a
+312,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_cac-2,36201,a
+313,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_cac-3,36201,a
+314,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-1,36201,a
+315,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-2,36201,a
+316,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-3,36201,a
+317,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-4,36201,a
+318,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-5,36201,a
+319,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-7a,36201,a
+320,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_ami-8a,36201,a
+321,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_hf-1,36201,a
+322,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_hf-2,36201,a
+323,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_hf-3,36201,a
+324,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_hf-4,36201,a
+325,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-2,36201,a
+326,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-3b,36201,a
+327,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-4,36201,a
+328,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-5c,36201,a
+329,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-6,36201,a
+330,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_pn-7,36201,a
+331,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-card-2,36201,a
+332,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_hf-2,36305,a
+333,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_hf-3,36305,a
+334,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_hf-4,36305,a
+335,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-2,36305,a
+336,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-3b,36305,a
+337,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-4,36305,a
+338,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-5c,36305,a
+339,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-6,36305,a
+340,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_pn-7,36305,a
+341,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-card-2,36305,a
+342,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-inf-1,36305,a
+343,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-inf-2,36305,a
+344,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-inf-3,36305,a
+345,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-inf-4,36305,a
+346,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-inf-6,36305,a
+347,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-vte-1,36305,a
+348,4370 west main street,dothan,houston,flowers hospital,proprietary,acute care hospitals,3347935000,10055,al,al_scip-vte-2,36305,a
+349,810 st vincents drive,birmingham,jefferson,st vincents hospital,voluntary non-profit - other,acute care hospitals,2059397000,10056,al,al_ami-1,35205,a
+350,810 st vincents drive,birmingham,jefferson,st vincents hospital,voluntary non-profit - other,acute care hospitals,2059397000,10056,al,al_ami-2,35205,a
+351,810 st vincents drive,birmingham,jefferson,st vincents hospital,voluntary non-profit - other,acute care hospitals,2059397000,10056,al,al_ami-3,35205,a
+352,810 st vincents drive,birmingham,jefferson,st vincents hospital,voluntary non-profit - other,acute care hospitals,2059397000,10056,al,al_ami-4,35205,a
+353,810 st vincents drive,birmingham,jefferson,st vincents hospital,voluntary non-profit - other,acute care hospitals,2059397000,10056,al,al_ami-5,35205,a
+354,1201 7th street se,decatur,morgan,decatur general hospital,government - hospital district or authority,acute care hospitals,2563412000,10085,al,al_scip-vte-2,35609,a
+355,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-1,35594,a
+356,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-2,35594,a
+357,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-3,35594,a
+358,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-4,35594,a
+359,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-5,35594,a
+360,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-7a,35594,a
+361,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_ami-8a,35594,a
+362,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_hf-1,35594,a
+363,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_hf-2,35594,a
+364,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_hf-3,35594,a
+365,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_hf-4,35594,a
+366,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-2,35594,a
+367,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-3b,35594,a
+368,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-4,35594,a
+369,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-5c,35594,a
+370,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-6,35594,a
+371,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_pn-7,35594,a
+372,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-card-2,35594,a
+373,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-inf-1,35594,a
+374,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-inf-2,35594,a
+375,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-inf-3,35594,a
+376,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-inf-4,35594,a
+377,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-inf-6,35594,a
+378,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-vte-1,35594,a
+379,1530 u s highway 43,winfield,marion,northwest medical center,proprietary,acute care hospitals,2054877736,10086,al,al_scip-vte-2,35594,a
+380,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-1,36617,a
+381,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-2,36617,a
+382,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-3,36617,a
+383,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-4,36617,a
+384,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-5,36617,a
+385,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-7a,36617,a
+386,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_ami-8a,36617,a
+387,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_hf-1,36617,a
+388,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_hf-2,36617,a
+389,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_hf-3,36617,a
+390,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_hf-4,36617,a
+391,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_pn-2,36617,a
+392,2451 fillingim street,mobile,mobile,univ of south alabama medical center,government - state,acute care hospitals,2514717110,10087,al,al_pn-3b,36617,a
+393,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-2,36067,a
+394,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-3,36067,a
+395,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-4,36067,a
+396,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-5,36067,a
+397,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-7a,36067,a
+398,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_ami-8a,36067,a
+399,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_hf-1,36067,a
+400,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_hf-2,36067,a
+401,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_hf-3,36067,a
+402,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_hf-4,36067,a
+403,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-2,36067,a
+404,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-3b,36067,a
+405,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-4,36067,a
+406,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-5c,36067,a
+407,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-6,36067,a
+408,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_pn-7,36067,a
+409,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_scip-card-2,36067,a
+410,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_scip-inf-1,36067,a
+411,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_scip-inf-2,36067,a
+412,124 s memorial dr,prattville,autauga,prattville baptist hospital,voluntary non-profit - private,acute care hospitals,3343614267,10108,al,al_scip-inf-3,36067,a
+413,15155 highway 43,russellville,franklin,russellville hospital,proprietary,acute care hospitals,2563321611,10158,al,al_scip-vte-1,35653,a
+414,15155 highway 43,russellville,franklin,russellville hospital,proprietary,acute care hospitals,2563321611,10158,al,al_scip-vte-2,35653,a
+415,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-1,35150,a
+416,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-2,35150,a
+417,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-3,35150,a
+418,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-4,35150,a
+419,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-5,35150,a
+420,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-7a,35150,a
+421,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_ami-8a,35150,a
+422,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_hf-1,35150,a
+423,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_hf-2,35150,a
+424,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_hf-3,35150,a
+425,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_hf-4,35150,a
+426,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-2,35150,a
+427,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-3b,35150,a
+428,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-4,35150,a
+429,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-5c,35150,a
+430,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-6,35150,a
+431,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_pn-7,35150,a
+432,315 w hickory st,sylacauga,talladega,coosa valley medical center,voluntary non-profit - other,acute care hospitals,2562495000,10164,al,al_scip-card-2,35150,a
+433,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_hf-1,99508,a
+434,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_hf-2,99508,a
+435,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_hf-3,99508,a
+436,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_hf-4,99508,a
+437,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-2,99508,a
+438,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-3b,99508,a
+439,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-4,99508,a
+440,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-5c,99508,a
+441,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-6,99508,a
+442,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_pn-7,99508,a
+443,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-card-2,99508,a
+444,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-inf-1,99508,a
+445,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-inf-2,99508,a
+446,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-inf-3,99508,a
+447,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-inf-4,99508,a
+448,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-inf-6,99508,a
+449,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-vte-1,99508,a
+450,2801 debarr road,anchorage,anchorage,alaska regional hospital,proprietary,acute care hospitals,9072761131,20017,ak,ak_scip-vte-2,99508,a
+451,po box 287,bethel,bethel,yukon kuskokwim delta reg hospital,government - federal,acute care hospitals,9075436300,20018,ak,ak_ami-1,99559,a
+452,po box 287,bethel,bethel,yukon kuskokwim delta reg hospital,government - federal,acute care hospitals,9075436300,20018,ak,ak_ami-2,99559,a
+453,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-2,35660,a
+454,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-3b,35660,a
+455,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-4,35660,a
+456,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-5c,35660,a
+457,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-6,35660,a
+458,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_pn-7,35660,a
+459,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-card-2,35660,a
+460,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-inf-1,35660,a
+461,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-inf-2,35660,a
+462,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-inf-3,35660,a
+463,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-inf-4,35660,a
+464,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-inf-6,35660,a
+465,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-vte-1,35660,a
+466,1300 south montgomery avenue,sheffield,jefferson,helen keller memorial hospital,government - hospital district or authority,acute care hospitals,2563864556,10019,al,al_scip-vte-2,35660,a
+467,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-1,36360,a
+468,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-2,36360,a
+469,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-3,36360,a
+470,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-4,36360,a
+471,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-5,36360,a
+472,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-7a,36360,a
+473,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_ami-8a,36360,a
+474,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_hf-1,36360,a
+475,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_hf-2,36360,a
+476,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_hf-3,36360,a
+477,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_hf-4,36360,a
+478,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-2,36360,a
+479,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-3b,36360,a
+480,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-4,36360,a
+481,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-5c,36360,a
+482,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-6,36360,a
+483,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_pn-7,36360,a
+484,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-card-2,36360,a
+485,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-inf-1,36360,a
+486,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-inf-2,36360,a
+487,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-inf-3,36360,a
+488,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-inf-4,36360,a
+489,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-inf-6,36360,a
+490,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-vte-1,36360,a
+491,126 hospital ave,ozark,dale,dale medical center,government - hospital district or authority,acute care hospitals,3347742601,10021,al,al_scip-vte-2,36360,a
+492,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-1,35960,a
+493,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-2,35960,a
+494,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-3,35960,a
+495,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-4,35960,a
+496,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-5,35960,a
+497,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-7a,35960,a
+498,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_ami-8a,35960,a
+499,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_hf-1,35960,a
+500,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_hf-2,35960,a
+501,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_hf-3,35960,a
+502,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_hf-4,35960,a
+503,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-2,35960,a
+504,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-3b,35960,a
+505,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-4,35960,a
+506,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-5c,35960,a
+507,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-6,35960,a
+508,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_pn-7,35960,a
+509,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-card-2,35960,a
+510,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-inf-1,35960,a
+511,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-inf-2,35960,a
+512,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-inf-3,35960,a
+513,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-inf-4,35960,a
+514,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-inf-6,35960,a
+515,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-vte-1,35960,a
+516,400 northwood dr,centre,cherokee,cherokee medical center,voluntary non-profit - private,acute care hospitals,2569275531,10022,al,al_scip-vte-2,35960,a
+517,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-1,36116,a
+518,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-2,36116,a
+519,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-3,36116,a
+520,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-4,36116,a
+521,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-5,36116,a
+522,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-7a,36116,a
+523,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_ami-8a,36116,a
+524,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_hf-1,36116,a
+525,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_hf-2,36116,a
+526,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_hf-3,36116,a
+527,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_hf-4,36116,a
+528,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-2,36116,a
+529,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-3b,36116,a
+530,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-4,36116,a
+531,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-5c,36116,a
+532,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-6,36116,a
+533,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_pn-7,36116,a
+534,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-card-2,36116,a
+535,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-inf-1,36116,a
+536,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-inf-2,36116,a
+537,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-inf-3,36116,a
+538,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-inf-4,36116,a
+539,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-inf-6,36116,a
+540,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-vte-1,36116,a
+541,2105 east south boulevard,montgomery,montgomery,baptist medical center south,voluntary non-profit - church,acute care hospitals,3342882100,10023,al,al_scip-vte-2,36116,a
+542,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-1,36106,a
+543,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-2,36106,a
+544,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-3,36106,a
+545,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-4,36106,a
+546,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-5,36106,a
+547,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-7a,36106,a
+548,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_ami-8a,36106,a
+549,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_hf-1,36106,a
+550,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_hf-2,36106,a
+551,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_hf-3,36106,a
+552,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_hf-4,36106,a
+553,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-2,36106,a
+554,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-3b,36106,a
+555,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-4,36106,a
+556,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-5c,36106,a
+557,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-6,36106,a
+558,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_pn-7,36106,a
+559,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-card-2,36106,a
+560,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-inf-1,36106,a
+561,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-inf-2,36106,a
+562,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-inf-3,36106,a
+563,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-inf-4,36106,a
+564,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-inf-6,36106,a
+565,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-vte-1,36106,a
+566,1725 pine street,montgomery,montgomery,jackson hospital & clinic inc,voluntary non-profit - private,acute care hospitals,3342938000,10024,al,al_scip-vte-2,36106,a
+567,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-1,36854,a
+568,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-2,36854,a
+569,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-3,36854,a
+570,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-4,36854,a
+571,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-5,36854,a
+572,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-7a,36854,a
+573,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_ami-8a,36854,a
+574,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_hf-1,36854,a
+575,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_hf-2,36854,a
+576,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_hf-3,36854,a
+577,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_hf-4,36854,a
+578,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-2,36854,a
+579,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-3b,36854,a
+580,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-4,36854,a
+581,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-5c,36854,a
+582,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-6,36854,a
+583,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_pn-7,36854,a
+584,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-card-2,36854,a
+585,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-inf-1,36854,a
+586,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-inf-2,36854,a
+587,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-inf-3,36854,a
+588,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-inf-4,36854,a
+589,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-inf-6,36854,a
+590,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-vte-1,36854,a
+591,4800 48th st,valley,chambers,g h lanier memorial hospital,voluntary non-profit - other,acute care hospitals,3347561400,10025,al,al_scip-vte-2,36854,a
+592,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-1,36323,a
+593,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-2,36323,a
+594,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-3,36323,a
+595,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-4,36323,a
+596,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-5,36323,a
+597,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-7a,36323,a
+598,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_ami-8a,36323,a
+599,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_hf-1,36323,a
+600,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_hf-2,36323,a
+601,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_hf-3,36323,a
+602,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_hf-4,36323,a
+603,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-2,36323,a
+604,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-3b,36323,a
+605,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-4,36323,a
+606,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-5c,36323,a
+607,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-6,36323,a
+608,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_pn-7,36323,a
+609,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-card-2,36323,a
+610,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-inf-1,36323,a
+611,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-inf-2,36323,a
+612,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-inf-3,36323,a
+613,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-inf-4,36323,a
+614,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-inf-6,36323,a
+615,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-vte-1,36323,a
+616,987 drayton street,elba,coffee,elba general hospital,voluntary non-profit - other,acute care hospitals,3348972257,10027,al,al_scip-vte-2,36323,a
+617,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-1,36801,a
+618,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-2,36801,a
+619,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-3,36801,a
+620,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-4,36801,a
+621,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-5,36801,a
+622,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-7a,36801,a
+623,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_ami-8a,36801,a
+624,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_hf-1,36801,a
+625,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_hf-2,36801,a
+626,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_hf-3,36801,a
+627,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_hf-4,36801,a
+628,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-2,36801,a
+629,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-3b,36801,a
+630,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-4,36801,a
+631,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-5c,36801,a
+632,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-6,36801,a
+633,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_pn-7,36801,a
+634,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-card-2,36801,a
+635,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-inf-1,36801,a
+636,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-inf-2,36801,a
+637,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-inf-3,36801,a
+638,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-inf-4,36801,a
+639,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-inf-6,36801,a
+640,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-vte-1,36801,a
+641,2000 pepperell parkway,opelika,lee,east alabama medical center and snf,government - hospital district or authority,acute care hospitals,3347493411,10029,al,al_scip-vte-2,36801,a
+642,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-1,36278,a
+643,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-2,36278,a
+644,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-3,36278,a
+645,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-4,36278,a
+646,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-5,36278,a
+647,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-7a,36278,a
+648,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_ami-8a,36278,a
+649,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_hf-1,36278,a
+650,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_hf-2,36278,a
+651,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_hf-3,36278,a
+652,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_hf-4,36278,a
+653,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-2,36278,a
+654,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-3b,36278,a
+655,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-4,36278,a
+656,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-5c,36278,a
+657,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-6,36278,a
+658,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_pn-7,36278,a
+659,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-card-2,36278,a
+660,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-inf-1,36278,a
+661,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-inf-2,36278,a
+662,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-inf-3,36278,a
+663,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-inf-4,36278,a
+664,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-inf-6,36278,a
+665,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-vte-1,36278,a
+666,209 north main street,wedowee,randolph,wedowee hospital,government - local,acute care hospitals,2563572111,10032,al,al_scip-vte-2,36278,a
+667,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-1,35233,a
+668,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-2,35233,a
+669,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-3,35233,a
+670,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-4,35233,a
+671,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-5,35233,a
+672,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-7a,35233,a
+673,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_ami-8a,35233,a
+674,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_hf-1,35233,a
+675,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_hf-2,35233,a
+676,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_hf-3,35233,a
+677,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_hf-4,35233,a
+678,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-2,35233,a
+679,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-3b,35233,a
+680,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-4,35233,a
+681,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-5c,35233,a
+682,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-6,35233,a
+683,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_pn-7,35233,a
+684,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-card-2,35233,a
+685,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-inf-1,35233,a
+686,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-inf-2,35233,a
+687,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-inf-3,35233,a
+688,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-inf-4,35233,a
+689,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-inf-6,35233,a
+690,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-vte-1,35233,a
+691,619 south 19th street,birmingham,jefferson,university of alabama hospital,government - state,acute care hospitals,2059344011,10033,al,al_scip-vte-2,35233,a
+692,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-1,36078,a
+693,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-2,36078,a
+694,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-3,36078,a
+695,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-4,36078,a
+696,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-5,36078,a
+697,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-7a,36078,a
+698,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_ami-8a,36078,a
+699,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_hf-1,36078,a
+700,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_hf-2,36078,a
+701,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_hf-3,36078,a
+702,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_hf-4,36078,a
+703,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-2,36078,a
+704,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-3b,36078,a
+705,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-4,36078,a
+706,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-5c,36078,a
+707,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-6,36078,a
+708,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_pn-7,36078,a
+709,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-card-2,36078,a
+710,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-inf-1,36078,a
+711,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-inf-2,36078,a
+712,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-inf-3,36078,a
+713,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-inf-4,36078,a
+714,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-inf-6,36078,a
+715,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-vte-1,36078,a
+716,805 friendship road,tallassee,elmore,community hospital inc,voluntary non-profit - private,acute care hospitals,3342836541,10034,al,al_scip-vte-2,36078,a
+717,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-1,35058,a
+718,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-2,35058,a
+719,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-3,35058,a
+720,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-4,35058,a
+721,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-5,35058,a
+722,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-7a,35058,a
+723,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_ami-8a,35058,a
+724,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_hf-1,35058,a
+725,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_hf-2,35058,a
+726,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_hf-3,35058,a
+727,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_hf-4,35058,a
+728,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-2,35058,a
+729,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-3b,35058,a
+730,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-4,35058,a
+731,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-5c,35058,a
+732,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-6,35058,a
+733,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_pn-7,35058,a
+734,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-card-2,35058,a
+735,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-inf-1,35058,a
+736,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-inf-2,35058,a
+737,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-inf-3,35058,a
+738,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-inf-4,35058,a
+739,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-inf-6,35058,a
+740,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-vte-1,35058,a
+741,1912 alabama highway 157,cullman,cullman,cullman regional medical center,government - hospital district or authority,acute care hospitals,2567372000,10035,al,al_scip-vte-2,35058,a
+742,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-1,36420,a
+743,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-2,36420,a
+744,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-3,36420,a
+745,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-4,36420,a
+746,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-5,36420,a
+747,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-7a,36420,a
+748,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_ami-8a,36420,a
+749,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_hf-1,36420,a
+750,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_hf-2,36420,a
+751,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_hf-3,36420,a
+752,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_hf-4,36420,a
+753,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-2,36420,a
+754,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-3b,36420,a
+755,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-4,36420,a
+756,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-5c,36420,a
+757,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-6,36420,a
+758,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_pn-7,36420,a
+759,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-card-2,36420,a
+760,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-inf-1,36420,a
+761,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-inf-2,36420,a
+762,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-inf-3,36420,a
+763,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-inf-4,36420,a
+764,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-inf-6,36420,a
+765,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-vte-1,36420,a
+766,849 south three notch street,andalusia,covington,andalusia regional hospital,proprietary,acute care hospitals,3342228466,10036,al,al_scip-vte-2,36420,a
+767,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_cac-1,36201,a
+768,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-inf-1,36201,a
+769,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-inf-2,36201,a
+770,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-inf-3,36201,a
+771,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-inf-4,36201,a
+772,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-inf-6,36201,a
+773,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-vte-1,36201,a
+774,301 east 18th st,anniston,calhoun,stringfellow memorial hospital,proprietary,acute care hospitals,2562358900,10038,al,al_scip-vte-2,36201,a
+775,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_cac-1,35801,a
+776,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_cac-2,35801,a
+777,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_cac-3,35801,a
+778,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-1,35801,a
+779,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-2,35801,a
+780,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-3,35801,a
+781,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-4,35801,a
+782,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-5,35801,a
+783,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-7a,35801,a
+784,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_ami-8a,35801,a
+785,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_hf-1,35801,a
+786,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_hf-2,35801,a
+787,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_hf-3,35801,a
+788,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_hf-4,35801,a
+789,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-2,35801,a
+790,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-3b,35801,a
+791,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-4,35801,a
+792,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-5c,35801,a
+793,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-6,35801,a
+794,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_pn-7,35801,a
+795,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-card-2,35801,a
+796,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-inf-1,35801,a
+797,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-inf-2,35801,a
+798,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-inf-3,35801,a
+799,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-inf-4,35801,a
+800,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-inf-6,35801,a
+801,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-vte-1,35801,a
+802,101 sivley rd,huntsville,madison,huntsville hospital,government - hospital district or authority,acute care hospitals,2562651000,10039,al,al_scip-vte-2,35801,a
+803,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-1,35903,a
+804,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-2,35903,a
+805,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-3,35903,a
+806,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-4,35903,a
+807,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-5,35903,a
+808,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-7a,35903,a
+809,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_ami-8a,35903,a
+810,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_hf-1,35903,a
+811,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_hf-2,35903,a
+812,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_hf-3,35903,a
+813,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_hf-4,35903,a
+814,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-2,35903,a
+815,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-3b,35903,a
+816,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-4,35903,a
+817,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-5c,35903,a
+818,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-6,35903,a
+819,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_pn-7,35903,a
+820,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-card-2,35903,a
+821,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-inf-1,35903,a
+822,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-inf-2,35903,a
+823,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-inf-3,35903,a
+824,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-inf-4,35903,a
+825,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-inf-6,35903,a
+826,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-vte-1,35903,a
+827,1007 goodyear avenue,gadsden,etowah,gadsden regional medical center,proprietary,acute care hospitals,2564944000,10040,al,al_scip-vte-2,35903,a
+828,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-1,35045,a
+829,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-2,35045,a
+830,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-3,35045,a
+831,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-4,35045,a
+832,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-5,35045,a
+833,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-7a,35045,a
+834,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_ami-8a,35045,a
+835,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_hf-1,35045,a
+836,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_hf-2,35045,a
+837,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_hf-3,35045,a
+838,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_hf-4,35045,a
+839,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-2,35045,a
+840,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-3b,35045,a
+841,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-4,35045,a
+842,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-5c,35045,a
+843,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-6,35045,a
+844,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_pn-7,35045,a
+845,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-card-2,35045,a
+846,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-inf-1,35045,a
+847,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-inf-2,35045,a
+848,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-inf-3,35045,a
+849,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-inf-4,35045,a
+850,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-inf-6,35045,a
+851,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-vte-1,35045,a
+852,1010 lay dam road,clanton,chilton,chilton medical center,voluntary non-profit - private,acute care hospitals,2057552500,10043,al,al_scip-vte-2,35045,a
+853,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-1,35570,a
+854,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-2,35570,a
+855,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-3,35570,a
+856,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-4,35570,a
+857,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-5,35570,a
+858,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-7a,35570,a
+859,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_ami-8a,35570,a
+860,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_hf-1,35570,a
+861,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_hf-2,35570,a
+862,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_hf-3,35570,a
+863,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_hf-4,35570,a
+864,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-2,35570,a
+865,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-3b,35570,a
+866,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-4,35570,a
+867,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-5c,35570,a
+868,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-6,35570,a
+869,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_pn-7,35570,a
+870,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-card-2,35570,a
+871,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-inf-1,35570,a
+872,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-inf-2,35570,a
+873,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-inf-3,35570,a
+874,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-inf-4,35570,a
+875,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-inf-6,35570,a
+876,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-vte-1,35570,a
+877,1256 military street south,hamilton,marion,marion regional medical center,voluntary non-profit - private,acute care hospitals,2059216200,10044,al,al_scip-vte-2,35570,a
+878,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-1,35555,a
+879,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-2,35555,a
+880,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-3,35555,a
+881,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-4,35555,a
+882,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-5,35555,a
+883,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-7a,35555,a
+884,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_ami-8a,35555,a
+885,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_hf-1,35555,a
+886,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_hf-2,35555,a
+887,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_hf-3,35555,a
+888,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_hf-4,35555,a
+889,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-2,35555,a
+890,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-3b,35555,a
+891,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-4,35555,a
+892,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-5c,35555,a
+893,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-6,35555,a
+894,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_pn-7,35555,a
+895,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-card-2,35555,a
+896,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-inf-1,35555,a
+897,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-inf-2,35555,a
+898,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-inf-3,35555,a
+899,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-inf-4,35555,a
+900,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-inf-6,35555,a
+901,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-vte-1,35555,a
+902,1653 temple avenue north,fayette,fayette,fayette medical center,voluntary non-profit - other,acute care hospitals,2059325966,10045,al,al_scip-vte-2,35555,a
+903,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_cac-1,35901,a
+904,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_cac-2,35901,a
+905,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_cac-3,35901,a
+906,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-1,35901,a
+907,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-2,35901,a
+908,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-3,35901,a
+909,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-4,35901,a
+910,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-5,35901,a
+911,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-7a,35901,a
+912,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_ami-8a,35901,a
+913,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_hf-1,35901,a
+914,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_hf-2,35901,a
+915,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_hf-3,35901,a
+916,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_hf-4,35901,a
+917,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-2,35901,a
+918,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-3b,35901,a
+919,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-4,35901,a
+920,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-5c,35901,a
+921,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-6,35901,a
+922,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_pn-7,35901,a
+923,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-card-2,35901,a
+924,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-inf-1,35901,a
+925,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-inf-2,35901,a
+926,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-inf-3,35901,a
+927,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-inf-4,35901,a
+928,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-inf-6,35901,a
+929,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-vte-1,35901,a
+930,600 south third street,gadsden,etowah,riverview regional medical center,proprietary,acute care hospitals,2565435200,10046,al,al_scip-vte-2,35901,a
+931,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-1,36033,a
+932,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-2,36033,a
+933,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-3,36033,a
+934,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-4,36033,a
+935,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-5,36033,a
+936,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-7a,36033,a
+937,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_ami-8a,36033,a
+938,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_hf-1,36033,a
+939,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_hf-2,36033,a
+940,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_hf-3,36033,a
+941,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_hf-4,36033,a
+942,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-2,36033,a
+943,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-3b,36033,a
+944,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-4,36033,a
+945,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-5c,36033,a
+946,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-6,36033,a
+947,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_pn-7,36033,a
+948,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-card-2,36033,a
+949,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-inf-1,36033,a
+950,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-inf-2,36033,a
+951,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-inf-3,36033,a
+952,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-inf-4,36033,a
+953,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-inf-6,36033,a
+954,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-vte-1,36033,a
+955,515 miranda st,georgiana,butler,georgiana hospital,voluntary non-profit - private,acute care hospitals,3343762205,10047,al,al_scip-vte-2,36033,a
+956,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-1,36330,a
+957,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-2,36330,a
+958,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-3,36330,a
+959,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-4,36330,a
+960,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-5,36330,a
+961,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-7a,36330,a
+962,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_ami-8a,36330,a
+963,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_hf-1,36330,a
+964,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_hf-2,36330,a
+965,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_hf-3,36330,a
+966,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_hf-4,36330,a
+967,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-2,36330,a
+968,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-3b,36330,a
+969,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-4,36330,a
+970,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-5c,36330,a
+971,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-6,36330,a
+972,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_pn-7,36330,a
+973,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-card-2,36330,a
+974,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-inf-1,36330,a
+975,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-inf-2,36330,a
+976,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-inf-3,36330,a
+977,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-inf-4,36330,a
+978,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-inf-6,36330,a
+979,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-vte-1,36330,a
+980,400 n edwards street,enterprise,coffee,medical center enterprise,proprietary,acute care hospitals,3343470584,10049,al,al_scip-vte-2,36330,a
+981,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-1,35121,a
+982,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-2,35121,a
+983,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-3,35121,a
+984,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-4,35121,a
+985,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-5,35121,a
+986,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-7a,35121,a
+987,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_ami-8a,35121,a
+988,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_hf-1,35121,a
+989,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_hf-2,35121,a
+990,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_hf-3,35121,a
+991,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_hf-4,35121,a
+992,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-2,35121,a
+993,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-3b,35121,a
+994,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-4,35121,a
+995,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-5c,35121,a
+996,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-6,35121,a
+997,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_pn-7,35121,a
+998,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_scip-card-2,35121,a
+999,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_scip-inf-1,35121,a
+1000,150 gilbreath drive,oneonta,blount,st vincents blount,voluntary non-profit - private,acute care hospitals,2052743000,10050,al,al_scip-inf-2,35121,a

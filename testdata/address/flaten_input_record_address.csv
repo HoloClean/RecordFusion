@@ -1,0 +1,2983 @@
+tid,attribute,correct_val
+111630919,legal_name,Young Women's Christian Association of Brooklyn
+111630919,address,30 third avenue
+111630919,postcode,11217
+111630919,borough,BROOKLYN 
+111630919,latitude,40.68581
+111630919,longitude,-73.980385
+111633484,legal_name,Edith and Carl Marks Jewish Community House of Bensonhurst
+111633484,address,7802 Bay parkway
+111633484,postcode,11214
+111633484,borough,BROOKLYN 
+111633484,latitude,40.606369
+111633484,longitude,-73.989235
+111646313,legal_name,St. Mel's Athletic Association
+111646313,address,26-15 154th Street
+111646313,postcode,11354
+111646313,borough,QUEENS   
+111646313,latitude,40.773753
+111646313,longitude,-73.809762
+111666228,legal_name,Corpus Christi Church
+111666228,address,31-30 61St Street
+111666228,postcode,11377
+111666228,borough,QUEENS   
+111666228,latitude,40.756999
+111666228,longitude,-73.901802
+112202799,legal_name,Sacred Heart School
+112202799,address,8405 78 Avenue
+112202799,postcode,11385
+112202799,borough,QUEENS   
+112202799,latitude,40.705684
+112202799,longitude,-73.864905
+112224539,legal_name,"Elmcor Youth and Adult Activities, Inc."
+112224539,address,33-16 108th Street
+112224539,postcode,11368
+112224539,borough,QUEENS   
+112224539,latitude,40.757429
+112224539,longitude,-73.860938
+112436149,legal_name,Queens Economic Development Corporation
+112436149,address,120-55 Queens Blvd
+112436149,postcode,11424
+112436149,borough,QUEENS   
+112436149,latitude,40.713329
+112436149,longitude,-73.828601
+112518141,legal_name,"Greater Ridgewood Youth Council, Inc."
+112518141,address,59-03 Summerfield Street
+112518141,postcode,11385-5936
+112518141,borough,QUEENS   
+112518141,latitude,40.700894
+112518141,longitude,-73.893211
+112601112,legal_name,"Otsar Family Services, Inc."
+112601112,address,2334 West 13th Street
+112601112,postcode,11223
+112601112,borough,BROOKLYN 
+112601112,latitude,40.590437
+112601112,longitude,-73.983059
+112728233,legal_name,United Jewish Organizations (UJO of Williamsburg)
+112728233,address,32 Penn St
+112728233,postcode,11249
+112728233,borough,BROOKLYN 
+112728233,latitude,40.700432
+112728233,longitude,-73.961086
+113146598,legal_name,"Queens Lesbian and Gay Pride Committee, Inc."
+113146598,address,111-55 77th Avenue
+113146598,postcode,11375
+113146598,borough,QUEENS   
+113146598,latitude,40.715679
+113146598,longitude,-73.834172
+113235349,legal_name,CUNY School of Law Foundation Inc on behalf of CLRN
+113235349,address,CUNY School of Law Foundation- CLRN
+113235349,postcode,11367
+113235349,borough,QUEENS   
+113235349,latitude,40.747818
+113235349,longitude,-73.943583
+113362754,legal_name,"J'Ouvert City International, Inc."
+113362754,address,13 Atlantic Commons
+113362754,postcode,11217
+113362754,borough,BROOKLYN 
+113362754,latitude,40.684192
+113362754,longitude,-73.972655
+113556789,legal_name,Unity Plaza Long Island Baptist Senior Club
+113556789,address,576 Alabama Avenue
+113556789,postcode,11207
+113556789,borough,BROOKLYN 
+113556789,latitude,40.66191
+113556789,longitude,-73.89623
+113558558,legal_name,Farragut Tenants Association
+113558558,address,"192 Sands Street, Apt. 14B"
+113558558,postcode,11201
+113558558,borough,BROOKLYN 
+113558558,latitude,40.699757
+113558558,longitude,-73.982603
+131624228,legal_name,Young Mens Christian Association of Greater New York
+131624228,address,5 West 63Rd Street 6th Floor
+131624228,postcode,10023
+131624228,borough,MANHATTAN
+131624228,latitude,40.770689
+131624228,longitude,-73.980465
+131740011,legal_name,Wildlife Conservation Society
+131740011,address,2300 Southern Boulevard
+131740011,postcode,10460
+131740011,borough,BRONX    
+131740011,latitude,40.850669
+131740011,longitude,-73.88242
+131740451,legal_name,Fordham University
+131740451,address,441 E Fordham Road
+131740451,postcode,10458
+131740451,borough,BRONX    
+131740451,latitude,40.860733
+131740451,longitude,-73.889535
+131988190,legal_name,Research Foundation of the City University of New York
+131988190,address,101 West 31st Street
+131988190,postcode,10001
+131988190,borough,MANHATTAN
+131988190,latitude,40.748084
+131988190,longitude,-73.989588
+132600199,legal_name,Legal Services NYC
+132600199,address,40 Worth Street
+132600199,postcode,10013
+132600199,borough,MANHATTAN
+132600199,latitude,40.717363
+132600199,longitude,-74.006897
+132612524,legal_name,"Fund for the City of New York, Inc."
+132612524,address,121 Avenue Of the Americas
+132612524,postcode,10013
+132612524,borough,MANHATTAN
+132612524,latitude,40.723903
+132612524,longitude,-74.00469
+132620896,legal_name,Jewish Association for Services for the Aged (JASA)
+132620896,address,247 West 37th Street
+132620896,postcode,10018
+132620896,borough,MANHATTAN
+132620896,latitude,40.753475
+132620896,longitude,-73.990594
+132725580,legal_name,"Shadow Box Theatre, Inc., The"
+132725580,address,325 West End Avenue
+132725580,postcode,10023
+132725580,borough,MANHATTAN
+132725580,latitude,40.782036
+132725580,longitude,-73.98287
+132903183,legal_name,"Green Guerillas, Inc."
+132903183,address,232 East 11th St
+132903183,postcode,10003
+132903183,borough,MANHATTAN
+132903183,latitude,40.730817
+132903183,longitude,-73.987433
+132997301,legal_name,St Lukes-Roosevelt Hospital Center Center for Comprehensive Care
+132997301,address,411 W114 Street
+132997301,postcode,10025
+132997301,borough,MANHATTAN
+132997301,latitude,40.804891
+132997301,longitude,-73.960498
+133098397,legal_name,Neighborhood Housing Services Of New York City Inc.
+133098397,address,1012 Gates Avenue
+133098397,postcode,11221
+133098397,borough,BROOKLYN 
+133098397,latitude,40.689338
+133098397,longitude,-73.923346
+133130146,legal_name,"Gay Men's Health Crisis, Inc"
+133130146,address,446 W 33rd Street
+133130146,postcode,10001
+133130146,borough,MANHATTAN
+133130146,latitude,40.753552
+133130146,longitude,-73.998784
+133323168,legal_name,"Caribbean Women's Health Association, Inc."
+133323168,address,3512 Church Avenue
+133323168,postcode,11203
+133323168,borough,BROOKLYN 
+133323168,latitude,40.651069
+133323168,longitude,-73.944541
+133363579,legal_name,"Doing Art Together, Inc."
+133363579,address,127 West 127th Street Rm 107  109
+133363579,postcode,10027
+133363579,borough,MANHATTAN
+133363579,latitude,40.809488
+133363579,longitude,-73.945496
+133442022,legal_name,Urban Justice Center
+133442022,address,123 William Street
+133442022,postcode,10038
+133442022,borough,MANHATTAN
+133442022,latitude,40.709112
+133442022,longitude,-74.006889
+133530299,legal_name,"Comunilife, Inc."
+133530299,address,214 W 29th Street
+133530299,postcode,10001
+133530299,borough,MANHATTAN
+133530299,latitude,40.748148
+133530299,longitude,-73.993623
+133857387,legal_name,"Brotherhood/Sister Sol, The"
+133857387,address,512 West 143Rd Street
+133857387,postcode,10031
+133857387,borough,MANHATTAN
+133857387,latitude,40.824482
+133857387,longitude,-73.949867
+133888641,legal_name,"Jazz at Lincoln Center, Inc."
+133888641,address,33 West 60th Steet
+133888641,postcode,10023
+133888641,borough,MANHATTAN
+133888641,latitude,40.769303
+133888641,longitude,-73.983003
+133893536,legal_name,Sophie Davis School of Biomedical Education
+133893536,address,160 Convent Avenue
+133893536,postcode,10031
+133893536,borough,MANHATTAN
+133893536,latitude,40.819196
+133893536,longitude,-73.950221
+133912967,legal_name,West Harlem Community Preservation Organization
+133912967,address,240 West 116th Street
+133912967,postcode,10026
+133912967,borough,MANHATTAN
+133912967,latitude,40.803758
+133912967,longitude,-73.953827
+134091062,legal_name,"Reading Excellence and Discovery (READ Foundation, Inc.)"
+134091062,address,80 Maiden Lane
+134091062,postcode,10038
+134091062,borough,MANHATTAN
+134091062,latitude,40.707116
+134091062,longitude,-74.007329
+136202692,legal_name,"Chinese American Planning Council, Inc."
+136202692,address,150 Elizabeth St
+136202692,postcode,10012
+136202692,borough,MANHATTAN
+136202692,latitude,40.7203
+136202692,longitude,-73.995083
+136400571,legal_name,New York City Housing Authority
+136400571,address,4-05 Astoria Blvd
+136400571,postcode,11102
+136400571,borough,QUEENS   
+136400571,latitude,40.772947
+136400571,longitude,-73.933467
+160743902,legal_name,American Cancer Society
+160743902,address,173 Old Town Road
+160743902,postcode,10305
+160743902,borough,STATEN IS
+160743902,latitude,40.596005
+160743902,longitude,-74.087544
+200092728,legal_name,Families United for Racial and Economic Equality (FUREE)
+200092728,address,81 Willoughby St 701
+200092728,postcode,11201
+200092728,borough,BROOKLYN 
+200092728,latitude,40.692184
+200092728,longitude,-73.985753
+203042280,legal_name,Reach for the Stars Learning Center
+203042280,address,103 Quentin Road
+203042280,postcode,11229
+203042280,borough,BROOKLYN 
+203042280,latitude,40.605547
+203042280,longitude,-73.982753
+203296091,legal_name,"Marcus Garvey Park Alliance, Inc."
+203296091,address,144 West 120th Street
+203296091,postcode,10027
+203296091,borough,MANHATTAN
+203296091,latitude,40.805131
+203296091,longitude,-73.949127
+237259702,legal_name,"Maspeth Town Hall, Inc."
+237259702,address,53-37 72nd Street
+237259702,postcode,11378
+237259702,borough,QUEENS   
+237259702,latitude,40.730174
+237259702,longitude,-73.892364
+237401867,legal_name,InterSchool Orchestras of New York Inc.
+237401867,address,1556 Third Avenue
+237401867,postcode,10128
+237401867,borough,MANHATTAN
+237401867,latitude,40.779761
+237401867,longitude,-73.953313
+237442256,legal_name,"New York Junior Tennis League, Inc."
+237442256,address,58-12 Queens Blvd
+237442256,postcode,11377
+237442256,borough,QUEENS   
+237442256,latitude,40.741828
+237442256,longitude,-73.907281
+521053406,legal_name,"Open Space Institute, Inc."
+521053406,address,1350 Broadway Suite 201
+521053406,postcode,10018
+521053406,borough,MANHATTAN
+521053406,latitude,40.751306
+521053406,longitude,-73.987656
+690210637,legal_name,Department of Education
+690210637,address,65 Court Street
+690210637,postcode,11201
+690210637,borough,BROOKLYN 
+690210637,latitude,40.692012
+690210637,longitude,-73.991227
+01-0837208,legal_name,Nostrand Residents Association
+01-0837208,address,"2343 Batchelder Street, 1F"
+01-0837208,postcode,11235
+01-0837208,borough,BROOKLYN 
+01-0837208,latitude,40.595374
+01-0837208,longitude,-73.938012
+02-0694269,legal_name,"Connect, Inc."
+02-0694269,address,P.O. Box 20217 Greeley Square Station
+02-0694269,postcode,10001
+02-0694269,borough,MANHATTAN
+02-0694269,latitude,40.74865
+02-0694269,longitude,-73.988317
+02-0720786,legal_name,"Striking Viking Story Pirates, Inc."
+02-0720786,address,250 West 40th Street
+02-0720786,postcode,10018
+02-0720786,borough,MANHATTAN
+02-0720786,latitude,40.75535
+02-0720786,longitude,-73.989334
+020632575-,legal_name,"Northeastern Conference of Seventh Day Adventists, Inc."
+020632575-,address,115-50 Merrick Boulevard
+020632575-,postcode,11434
+020632575-,borough,QUEENS   
+020632575-,latitude,40.688961
+020632575-,longitude,-73.777172
+020694269-,legal_name,"Connect, Inc."
+020694269-,address,PO Box 20217 Greeley Square Station
+020694269-,postcode,10001
+020694269-,borough,MANHATTAN
+020694269-,latitude,40.74865
+020694269-,longitude,-73.988317
+020720786-,legal_name,"Striking Viking Story Pirates, Inc."
+020720786-,address,251 West 40th Street
+020720786-,postcode,10018
+020720786-,borough,MANHATTAN
+020720786-,latitude,40.755366
+020720786-,longitude,-73.989323
+030553092-,legal_name,Man Up Inc.
+030553092-,address,821b Van Siclen Avenue
+030553092-,postcode,11207
+030553092-,borough,BROOKLYN 
+030553092-,latitude,40.659778
+030553092-,longitude,-73.88511
+04-3784543,legal_name," 71st Precinct Community Council, Inc."
+04-3784543,address,421 Empire Boulevard
+04-3784543,postcode,11225
+04-3784543,borough,BROOKLYN 
+04-3784543,latitude,40.664113
+04-3784543,longitude,-73.947763
+043252955-,legal_name,"Per Scholas, Inc."
+043252955-,address,804 East 138th Street
+043252955-,postcode,10454
+043252955-,borough,BRONX    
+043252955-,latitude,40.803798
+043252955-,longitude,-73.910377
+06-1252230,legal_name,"Vietnam Veterans of America, Chapter 421"
+06-1252230,address,PO Box 100097
+06-1252230,postcode,10310
+06-1252230,borough,STATEN IS
+06-1252230,latitude,40.569992
+06-1252230,longitude,-74.123345
+06-1517218,legal_name,Young Women's Leadership Network
+06-1517218,address,"322 Eighth Avenue, 14th Floor"
+06-1517218,postcode,10001
+06-1517218,borough,MANHATTAN
+06-1517218,latitude,40.747294
+06-1517218,longitude,-73.997023
+11-1723800,legal_name,St. Margaret's Senior Program
+11-1723800,address,66-05 79th Street
+11-1723800,postcode,11379
+11-1723800,borough,QUEENS   
+11-1723800,latitude,40.71551
+11-1723800,longitude,-73.874358
+11-1733454,legal_name,"Child Center of New York, Inc."
+11-1733454,address,60-02 Queens Boulevard
+11-1733454,postcode,11377
+11-1733454,borough,QUEENS   
+11-1733454,latitude,40.741499
+11-1733454,longitude,-73.904485
+11-1773636,legal_name,"Brooklyn Philharmonic Symphony Orchestra, Inc."
+11-1773636,address,"55 Washington Street, Suite 656"
+11-1773636,postcode,11201
+11-1773636,borough,BROOKLYN 
+11-1773636,latitude,40.70273
+11-1773636,longitude,-73.989602
+11-1839567,legal_name,Lutheran Medical Center
+11-1839567,address,150 55th Street
+11-1839567,postcode,11220
+11-1839567,borough,BROOKLYN 
+11-1839567,latitude,40.646941
+11-1839567,longitude,-74.02093
+11-1966067,legal_name,"South Queens Boys and Girls Club, Inc."
+11-1966067,address,110-04 Atlantic Avenue
+11-1966067,postcode,11419
+11-1966067,borough,QUEENS   
+11-1966067,latitude,40.691903
+11-1966067,longitude,-73.835613
+11-2047151,legal_name,"Catholic Charities Neighborhood Services, Inc."
+11-2047151,address,191 Joralemon Street
+11-2047151,postcode,11201
+11-2047151,borough,BROOKLYN 
+11-2047151,latitude,40.692671
+11-2047151,longitude,-73.991785
+11-2077266,legal_name,St. Albans Congregational Church
+11-2077266,address,172-17 Linden Boulevard 
+11-2077266,postcode,11434
+11-2077266,borough,QUEENS   
+11-2077266,latitude,40.691941
+11-2077266,longitude,-73.778064
+11-2202799,legal_name,Sacred Heart School
+11-2202799,address,84-05 78th Avenue
+11-2202799,postcode,11385
+11-2202799,borough,QUEENS   
+11-2202799,latitude,40.705684
+11-2202799,longitude,-73.864905
+11-2204831,legal_name,"Parkville Youth Organization, Inc."
+11-2204831,address,5908 20th Avenue
+11-2204831,postcode,11204
+11-2204831,borough,BROOKLYN 
+11-2204831,latitude,40.619848
+11-2204831,longitude,-73.982414
+11-2219193,legal_name,"TADA! Youth Theater & Dance Alliance, Inc."
+11-2219193,address,"15 W 28th Street, 3rd Fl"
+11-2219193,postcode,10001
+11-2219193,borough,MANHATTAN
+11-2219193,latitude,40.74515
+11-2219193,longitude,-73.988383
+11-2247307,legal_name,"Advocates for Children of New York, Inc."
+11-2247307,address,"151 West 30th Street, 5th Floor"
+11-2247307,postcode,10001
+11-2247307,borough,MANHATTAN
+11-2247307,latitude,40.74789
+11-2247307,longitude,-73.991053
+11-2268359  ,legal_name,"Southside United Housing Development Fund, Inc."
+11-2268359  ,address,213 South 4th Street
+11-2268359  ,postcode,11211
+11-2268359  ,borough,BROOKLYN 
+11-2268359  ,latitude,40.710664
+11-2268359  ,longitude,-73.959594
+11-2278998,legal_name,Queens Museum of Art
+11-2278998,address,"Queens Museum of Art, New York City Building"
+11-2278998,postcode,11368
+11-2278998,borough,QUEENS   
+11-2278998,latitude,40.746001
+11-2278998,longitude,-73.846887
+11-2306447,legal_name,Transfiguration Church Roman Catholic
+11-2306447,address,263 Marcy Avenue
+11-2306447,postcode,11211
+11-2306447,borough,BROOKLYN 
+11-2306447,latitude,40.705165
+11-2306447,longitude,-73.956012
+11-2375583,legal_name,"Queens Community House, Inc."
+11-2375583,address,108-25 62nd Drive
+11-2375583,postcode,11375
+11-2375583,borough,QUEENS   
+11-2375583,latitude,40.73591
+11-2375583,longitude,-73.850212
+11-2396324,legal_name,"King Manor Association of Long Island, Inc."
+11-2396324,address,150-03 Jamaica Avenue
+11-2396324,postcode,11432
+11-2396324,borough,QUEENS   
+11-2396324,latitude,40.702376
+11-2396324,longitude,-73.803607
+11-2412584,legal_name,"Brooklyn Housing and Family Services, Inc."
+11-2412584,address,415 Albermarle Road
+11-2412584,postcode,11218
+11-2412584,borough,BROOKLYN 
+11-2412584,latitude,40.64551
+11-2412584,longitude,-73.976296
+11-2415837,legal_name,"Center Against Domestic Violence, The"
+11-2415837,address,"25 Chapel Street, Suite 904"
+11-2415837,postcode,11201
+11-2415837,borough,BROOKLYN 
+11-2415837,latitude,40.697254
+11-2415837,longitude,-73.986015
+11-2423857,legal_name,"Haitian Americans United for Progress, Inc."
+11-2423857,address,221-05 Linden Boulevard
+11-2423857,postcode,11411
+11-2423857,borough,QUEENS   
+11-2423857,latitude,40.694826
+11-2423857,longitude,-73.739107
+11-2432846,legal_name,"Southern Queens Park Association, Inc."
+11-2432846,address,177-01 Baisley Boulevard
+11-2432846,postcode,11434
+11-2432846,borough,QUEENS   
+11-2432846,latitude,40.686284
+11-2432846,longitude,-73.768455
+11-2453853,legal_name,"Ridgewood Bushwick Senior Citizens Council, Inc."
+11-2453853,address,555 Bushwick Avenue
+11-2453853,postcode,11206
+11-2453853,borough,BROOKLYN 
+11-2453853,latitude,40.699372
+11-2453853,longitude,-73.935647
+11-2480339,legal_name,Church Avenue Merchants Block Association (CAMBA)
+11-2480339,address,"1720 Church Avenue, 2nd Floor"
+11-2480339,postcode,11226
+11-2480339,borough,BROOKLYN 
+11-2480339,latitude,40.649339
+11-2480339,longitude,-73.963307
+11-2480945,legal_name,Calvary Baptist Church
+11-2480945,address,111-10 Guy R. Brewer Boulevard
+11-2480945,postcode,11433
+11-2480945,borough,QUEENS   
+11-2480945,latitude,40.691583
+11-2480945,longitude,-73.787621
+11-2482974,legal_name,"Quality Services for the Autism Community (QSAC), Inc."
+11-2482974,address,"253 West 35th Street, 16th Floor"
+11-2482974,postcode,10001
+11-2482974,borough,MANHATTAN
+11-2482974,latitude,40.752289
+11-2482974,longitude,-73.991612
+11-2498292,legal_name,Gowanus Canal Community Development Corporation
+11-2498292,address,509 Court Street
+11-2498292,postcode,11231
+11-2498292,borough,BROOKLYN 
+11-2498292,latitude,40.675461
+11-2498292,longitude,-73.99921
+11-2507910,legal_name,"Federation of Italian American Organizations of Brooklyn, Ltd. "
+11-2507910,address,7403 18th Avenue
+11-2507910,postcode,11204
+11-2507910,borough,BROOKLYN 
+11-2507910,latitude,40.61389
+11-2507910,longitude,-73.995465
+11-2601112,legal_name,"Otsar Family Services, Inc."
+11-2601112,address,2324 West 13th Street
+11-2601112,postcode,11223
+11-2601112,borough,BROOKLYN 
+11-2601112,latitude,40.590588
+11-2601112,longitude,-73.983088
+11-2623993,legal_name,"United Black Men of Queens Foundation, Inc."
+11-2623993,address,189-26 Linden Boulevard 
+11-2623993,postcode,11412
+11-2623993,borough,QUEENS   
+11-2623993,latitude,40.691769
+11-2623993,longitude,-73.761953
+11-2643410,legal_name,"Jackson Heights-Elmhurst Kehillah, Inc."
+11-2643410,address,37-06 77th Street
+11-2643410,postcode,11372
+11-2643410,borough,QUEENS   
+11-2643410,latitude,40.748907
+11-2643410,longitude,-73.88902
+11-2652182,legal_name,Flushing Town Hall
+11-2652182,address,137-35 Northern Boulevard
+11-2652182,postcode,11354
+11-2652182,borough,QUEENS   
+11-2652182,latitude,40.763478
+11-2652182,longitude,-73.829992
+11-2665181,legal_name,"Jewish Community Council of Greater Coney Island, Inc. "
+11-2665181,address,3001 West 37th Street
+11-2665181,postcode,11224
+11-2665181,borough,BROOKLYN 
+11-2665181,latitude,40.573177
+11-2665181,longitude,-74.002509
+11-2668901,legal_name,"Cadets Baseball Club, Inc."
+11-2668901,address,394 Manor Road
+11-2668901,postcode,10314
+11-2668901,borough,STATEN IS
+11-2668901,latitude,40.618207
+11-2668901,longitude,-74.123589
+11-2777066,legal_name,SCO Family of Services
+11-2777066,address,1 Alexander Place
+11-2777066,postcode,11542
+11-2777066,borough,STATEN IS
+11-2777066,latitude,40.557749
+11-2777066,longitude,-74.180507
+11-2837894,legal_name,"AIDS Center of Queens County, Inc."
+11-2837894,address,161-21 Jamaica Avenue
+11-2837894,postcode,11432
+11-2837894,borough,QUEENS   
+11-2837894,latitude,40.704249
+11-2837894,longitude,-73.797921
+11-2870422,legal_name,Queens Comprehensive Perinatal Council
+11-2870422,address,106-46 Guy R. Brewer Boulevard
+11-2870422,postcode,11433
+11-2870422,borough,QUEENS   
+11-2870422,latitude,40.698984
+11-2870422,longitude,-73.793025
+11-2872641,legal_name,"Zeta Zeta Lambda Alpha Phi Alpha Youth Programs, Inc."
+11-2872641,address,92-08 173rd St. 
+11-2872641,postcode,11433
+11-2872641,borough,QUEENS   
+11-2872641,latitude,40.707509
+11-2872641,longitude,-73.786589
+11-2944783,legal_name,Sunnyside Chamber of Commerce
+11-2944783,address,"31-10 Thomson Avenue, Suite M222"
+11-2944783,postcode,11101
+11-2944783,borough,QUEENS   
+11-2944783,latitude,40.744902
+11-2944783,longitude,-73.935022
+11-2953522,legal_name,International African Arts Festival
+11-2953522,address,1360 Fulton Street
+11-2953522,postcode,11236
+11-2953522,borough,BROOKLYN 
+11-2953522,latitude,40.680186
+11-2953522,longitude,-73.94593
+11-2982841,legal_name,York College Performing Arts Center
+11-2982841,address,94-20 Guy R. Brewer Boulevard 
+11-2982841,postcode,11451
+11-2982841,borough,QUEENS   
+11-2982841,latitude,40.702532
+11-2982841,longitude,-73.795578
+11-3030795,legal_name,"Clergy United for Community Empowerment, Inc."
+11-3030795,address,89-31 161st Street
+11-3030795,postcode,11432
+11-3030795,borough,QUEENS   
+11-3030795,latitude,40.706034
+11-3030795,longitude,-73.799751
+11-3137355,legal_name,"St. Albans Multipurpose Community Center, Inc."
+11-3137355,address,190-04 119th Avenue
+11-3137355,postcode,11412
+11-3137355,borough,QUEENS   
+11-3137355,latitude,40.688997
+11-3137355,longitude,-73.75968
+11-3146598,legal_name,"Queens Lesbian and Gay Pride Committee, Inc."
+11-3146598,address,407 Rugby Road
+11-3146598,postcode,11226
+11-3146598,borough,BROOKLYN 
+11-3146598,latitude,40.639804
+11-3146598,longitude,-73.965096
+11-3199040,legal_name,Bergen Basin Community Development Corporation d/b/a Millennium Development
+11-3199040,address,2303 Bergen Avenue
+11-3199040,postcode,11234
+11-3199040,borough,BROOKLYN 
+11-3199040,latitude,40.618831
+11-3199040,longitude,-73.899992
+11-3223904,legal_name,Rugby Family Services 
+11-3223904,address,4905 Snyder Avenue 
+11-3223904,postcode,11203
+11-3223904,borough,BROOKLYN 
+11-3223904,latitude,40.650068
+11-3223904,longitude,-73.931031
+11-3232246,legal_name,Our Lady of the Blessed Sacrament Church
+11-3232246,address,34-24 203rd Street
+11-3232246,postcode,11360
+11-3232246,borough,QUEENS   
+11-3232246,latitude,40.767026
+11-3232246,longitude,-73.784922
+11-3235349,legal_name,Community Legal Resource Network (CLRN)
+11-3235349,address,65-21 Main Street
+11-3235349,postcode,11367
+11-3235349,borough,QUEENS   
+11-3235349,latitude,40.738266
+11-3235349,longitude,-73.824932
+11-3271472,legal_name,Noel Pointer Foundation
+11-3271472,address,239 Bergen street
+11-3271472,postcode,11217
+11-3271472,borough,BROOKLYN 
+11-3271472,latitude,40.684381
+11-3271472,longitude,-73.984435
+11-3302911,legal_name,Battered Women's Resource Center
+11-3302911,address,"328 Flatbush Avenue, Suite 342"
+11-3302911,postcode,11238
+11-3302911,borough,BROOKLYN 
+11-3302911,latitude,40.676707
+11-3302911,longitude,-73.972128
+11-3306111,legal_name,"Business Outreach Center Network, Inc."
+11-3306111,address,85 South Oxford Street
+11-3306111,postcode,11217
+11-3306111,borough,BROOKLYN 
+11-3306111,latitude,40.686918
+11-3306111,longitude,-73.973563
+11-3307754,legal_name,"Creative Outlet Dance Theatre of Brooklyn, Inc."
+11-3307754,address,"80 hanson Place, Suite 303"
+11-3307754,postcode,11217
+11-3307754,borough,BROOKLYN 
+11-3307754,latitude,40.685488
+11-3307754,longitude,-73.974421
+11-3320584,legal_name,"Queens Health Coalition, Inc."
+11-3320584,address,163-13 Depot Road
+11-3320584,postcode,11358
+11-3320584,borough,QUEENS   
+11-3320584,latitude,40.761972
+11-3320584,longitude,-73.802706
+11-3341395,legal_name,"George Walker, Jr. Community Coalition, The"
+11-3341395,address,119 Jamaica Avenue
+11-3341395,postcode,11207
+11-3341395,borough,BROOKLYN 
+11-3341395,latitude,40.678878
+11-3341395,longitude,-73.895925
+11-3372980,legal_name,"Young People's Chorus of New York City, Inc."
+11-3372980,address,1395 Lexington Avenue
+11-3372980,postcode,10128
+11-3372980,borough,MANHATTAN
+11-3372980,latitude,40.783051
+11-3372980,longitude,-73.952978
+11-3409359,legal_name,Top Development Corporation
+11-3409359,address,1274 Utica Avenue 
+11-3409359,postcode,11203
+11-3409359,borough,BROOKLYN 
+11-3409359,latitude,40.641355
+11-3409359,longitude,-73.929282
+11-3416416,legal_name,"Associazioni Siciliane Unite de New York, Inc."
+11-3416416,address,1986 West 6th Street
+11-3416416,postcode,11223
+11-3416416,borough,BROOKLYN 
+11-3416416,latitude,40.599324
+11-3416416,longitude,-73.978052
+11-3475993,legal_name,Boro Park Jewish Community Council
+11-3475993,address,4912 14th Avenue
+11-3475993,postcode,11219
+11-3475993,borough,BROOKLYN 
+11-3475993,latitude,40.63357
+11-3475993,longitude,-73.99006
+11-3526774,legal_name,Museum of Contemporary African Diaspora Arts
+11-3526774,address,80 hanson Place
+11-3526774,postcode,11217
+11-3526774,borough,BROOKLYN 
+11-3526774,latitude,40.685488
+11-3526774,longitude,-73.974421
+11-3556789,legal_name,Unity Plaza Long Island Baptist Senior Club
+11-3556789,address,576 Alabama Avenue
+11-3556789,postcode,11207
+11-3556789,borough,BROOKLYN 
+11-3556789,latitude,40.66191
+11-3556789,longitude,-73.89623
+11-3558558,legal_name,Farragut Tenants Association
+11-3558558,address,251 Nassau Street
+11-3558558,postcode,11201
+11-3558558,borough,BROOKLYN 
+11-3558558,latitude,40.698326
+11-3558558,longitude,-73.981878
+11-3561651,legal_name,"Mixteca Organization, Inc."
+11-3561651,address,245 23rd Street 
+11-3561651,postcode,11232
+11-3561651,borough,BROOKLYN 
+11-3561651,latitude,40.659942
+11-3561651,longitude,-73.994096
+11-3599459,legal_name,Oasis Community Corporation
+11-3599459,address,"20 Jay Street, Suite 802"
+11-3599459,postcode,11201
+11-3599459,borough,BROOKLYN 
+11-3599459,latitude,40.704313
+11-3599459,longitude,-73.986587
+11-3804421,legal_name,"A Better Jamaica, Inc."
+11-3804421,address,114-73 178th Street
+11-3804421,postcode,11434
+11-3804421,borough,QUEENS   
+11-3804421,latitude,40.693113
+11-3804421,longitude,-73.771003
+11-6080521,legal_name,Queens College Foundation
+11-6080521,address,65-30 Kissena Boulevard
+11-6080521,postcode,11367
+11-6080521,borough,QUEENS   
+11-6080521,latitude,40.736707
+11-6080521,longitude,-73.814703
+11-6260710,legal_name,Bethlehem Evangelical Lutheran Church (d/b/a Bay Ridge Center)
+11-6260710,address,336 73rd Street
+11-6260710,postcode,11220
+11-6260710,borough,BROOKLYN 
+11-6260710,latitude,40.632557
+11-6260710,longitude,-74.026131
+111018985-,legal_name,Long Island College Hospital
+111018985-,address,339 Hicks Street
+111018985-,postcode,11201
+111018985-,borough,BROOKLYN 
+111018985-,latitude,40.691093
+111018985-,longitude,-73.997804
+111631816-,legal_name,St. Mary's Roman Catholic Church
+111631816-,address,8401 23rd Avenue
+111631816-,postcode,11214
+111631816-,borough,BROOKLYN 
+111631816-,latitude,40.601656
+111631816-,longitude,-73.990468
+111633509-,legal_name,"Central Queens YM & YWHA, Inc."
+111633509-,address,67-09 108th Street
+111633509-,postcode,11375
+111633509-,borough,QUEENS   
+111633509-,latitude,40.728702
+111633509-,longitude,-73.847414
+111639802-,legal_name,Holy Child Jesus Sports
+111639802-,address,111-02 86th Avenue
+111639802-,postcode,11418
+111639802-,borough,QUEENS   
+111639802-,latitude,40.698724
+111639802-,longitude,-73.8379
+111639827-,legal_name,Our Lady of Grace
+111639827-,address,100-05 159th Avenue
+111639827-,postcode,11414
+111639827-,borough,QUEENS   
+111639827-,latitude,40.660142
+111639827-,longitude,-73.833197
+111711014-,legal_name,"Safe Space, Inc."
+111711014-,address,295 Lafayette Street
+111711014-,postcode,10012
+111711014-,borough,MANHATTAN
+111711014-,latitude,40.724537
+111711014-,longitude,-73.995761
+111733454-,legal_name,"Child Center of New York, Inc., The"
+111733454-,address,60-02 Queens Boulevard
+111733454-,postcode,11377
+111733454-,borough,QUEENS   
+111733454-,latitude,40.741499
+111733454-,longitude,-73.904485
+111773636-,legal_name,"Brooklyn Philharmonic Symphony Orchestra, Inc."
+111773636-,address,55 Washington Street
+111773636-,postcode,11201
+111773636-,borough,BROOKLYN 
+111773636-,latitude,40.70273
+111773636-,longitude,-73.989602
+111817497-,legal_name,"Queensboro Council for Social Welfare, Inc."
+111817497-,address,"221-10 Jamaica Avenue, Suite 107"
+111817497-,postcode,11428
+111817497-,borough,QUEENS   
+111817497-,latitude,40.71974
+111817497-,longitude,-73.73296
+111839567-,legal_name,Lutheran Medical Center
+111839567-,address,150 55th Street
+111839567-,postcode,11220
+111839567-,borough,BROOKLYN 
+111839567-,latitude,40.646941
+111839567-,longitude,-74.02093
+111904329-,legal_name,Brooklyn College at the City University of New York
+111904329-,address,2900 Bedford Avenue
+111904329-,postcode,11210
+111904329-,borough,BROOKLYN 
+111904329-,latitude,40.631691
+111904329-,longitude,-73.952656
+112047151-,legal_name,"Catholic Charities Neighborhood Services, Inc."
+112047151-,address,191 Joralemon Street
+112047151-,postcode,11201
+112047151-,borough,BROOKLYN 
+112047151-,latitude,40.692671
+112047151-,longitude,-73.991785
+112077266-,legal_name,St. Albans Congregational Church
+112077266-,address,172-17 Linden Boulevard
+112077266-,postcode,11434
+112077266-,borough,QUEENS   
+112077266-,latitude,40.691941
+112077266-,longitude,-73.778064
+112106191-,legal_name,Queens Symphony Orchestra
+112106191-,address,65-30 Kissena Blvd 
+112106191-,postcode,11367
+112106191-,borough,QUEENS   
+112106191-,latitude,40.736707
+112106191-,longitude,-73.814703
+112149962-,legal_name,Bedford Stuyvesant Community Legal Services Corporation
+112149962-,address,"1360 Fulton Street, Suite 601"
+112149962-,postcode,11216
+112149962-,borough,BROOKLYN 
+112149962-,latitude,40.680186
+112149962-,longitude,-73.94593
+112202799-,legal_name,Sacred Heart School
+112202799-,address,84-05 78th Avenue
+112202799-,postcode,11385
+112202799-,borough,QUEENS   
+112202799-,latitude,40.705684
+112202799-,longitude,-73.864905
+112290832-,legal_name,"Hellenic American Neighborhood Action Committee, Inc. (HANAC)"
+112290832-,address,49 West 45th Street
+112290832-,postcode,10036
+112290832-,borough,MANHATTAN
+112290832-,latitude,40.756087
+112290832-,longitude,-73.981072
+112300840-,legal_name,"Fort Greene Senior Citizens Council, Inc."
+112300840-,address,966 Fulton Street
+112300840-,postcode,11238-1244
+112300840-,borough,BROOKLYN 
+112300840-,latitude,40.669208
+112300840-,longitude,-73.864514
+112306447-,legal_name,"Southside Community Mission, Inc."
+112306447-,address,280 Marcy Avenue
+112306447-,postcode,11211
+112306447-,borough,BROOKLYN 
+112306447-,latitude,40.705055
+112306447-,longitude,-73.955919
+112326974-,legal_name,"Steinway Child and Family Services, Inc."
+112326974-,address,22-15 43rd Avenue
+112326974-,postcode,11101
+112326974-,borough,QUEENS   
+112326974-,latitude,40.749987
+112326974-,longitude,-73.944311
+112375583-,legal_name,"Queens Community House, Inc."
+112375583-,address,108-25 62nd Drive
+112375583-,postcode,11375
+112375583-,borough,QUEENS   
+112375583-,latitude,40.73591
+112375583-,longitude,-73.850212
+112412205-,legal_name,"Bedford Stuyvesant Family Health Center, Inc. "
+112412205-,address,1413 Fulton Street
+112412205-,postcode,11216
+112412205-,borough,BROOKLYN 
+112412205-,latitude,40.680141
+112412205-,longitude,-73.94478
+112412584-,legal_name,"Brooklyn Housing and Family Services, Inc."
+112412584-,address,415 Albemarle Road
+112412584-,postcode,11218
+112412584-,borough,BROOKLYN 
+112412584-,latitude,40.64551
+112412584-,longitude,-73.976296
+112420752-,legal_name,Midwood Development Corporation
+112420752-,address,1416 Avenue M
+112420752-,postcode,11230
+112420752-,borough,BROOKLYN 
+112420752-,latitude,40.617962
+112420752-,longitude,-73.960396
+112432846-,legal_name,"Southern Queens Park Association, Inc."
+112432846-,address,177-01 Baisley Boulevard
+112432846-,postcode,11434
+112432846-,borough,QUEENS   
+112432846-,latitude,40.686284
+112432846-,longitude,-73.768455
+112435523-,legal_name,"Brighton Neighborhood Association, Inc."
+112435523-,address,1002 Brighton Beach Ave
+112435523-,postcode,11235
+112435523-,borough,BROOKLYN 
+112435523-,latitude,40.578014
+112435523-,longitude,-73.959505
+112436149-,legal_name,Queens Economic Development Corporation
+112436149-,address,"120-55 Queens Boulevard, Suite 309"
+112436149-,postcode,11424
+112436149-,borough,QUEENS   
+112436149-,latitude,40.713329
+112436149-,longitude,-73.828601
+112442042-,legal_name,"Vannguard Urban Improvement Association, Inc."
+112442042-,address,613-619 Throop Avenue
+112442042-,postcode,11216
+112442042-,borough,BROOKLYN 
+112442042-,latitude,40.680919
+112442042-,longitude,-73.940518
+112451752-,legal_name,"Pratt Area Community Council, Inc."
+112451752-,address,201 Dekalb Avenue
+112451752-,postcode,11205
+112451752-,borough,BROOKLYN 
+112451752-,latitude,40.689566
+112451752-,longitude,-73.971524
+112453853-,legal_name,"Ridgewood Bushwick Senior Citizens Council, Inc."
+112453853-,address,555 Bushwick Avenue
+112453853-,postcode,11206
+112453853-,borough,BROOKLYN 
+112453853-,latitude,40.699372
+112453853-,longitude,-73.935647
+112475743-,legal_name,"Fifth Avenue Committee, Inc."
+112475743-,address,621 DeGraw Street
+112475743-,postcode,11217
+112475743-,borough,BROOKLYN 
+112475743-,latitude,40.678948
+112475743-,longitude,-73.982857
+112507910-,legal_name,"Federation of Italian American Organizations of Brooklyn, Ltd. "
+112507910-,address,7403 18th Avenue
+112507910-,postcode,11204
+112507910-,borough,BROOKLYN 
+112507910-,latitude,40.61389
+112507910-,longitude,-73.995465
+112518141-,legal_name,"Greater Ridgewood Youth Council, Inc."
+112518141-,address,62-04 Myrtle Avenue
+112518141-,postcode,11385
+112518141-,borough,QUEENS   
+112518141-,latitude,40.700894
+112518141-,longitude,-73.893211
+112594790-,legal_name,"Resources for Children with Special Needs, Inc."
+112594790-,address,"116 East 16th Street, 5th Floor"
+112594790-,postcode,10003
+112594790-,borough,MANHATTAN
+112594790-,latitude,40.73548
+112594790-,longitude,-73.98828
+112608983-,legal_name,Black Veterans for Social Justice
+112608983-,address,665 Willoughby Avenue
+112608983-,postcode,11206
+112608983-,borough,BROOKLYN 
+112608983-,latitude,40.694636
+112608983-,longitude,-73.942633
+112614265-,legal_name,El Puente de Williamsburg
+112614265-,address,211 South 4th Street
+112614265-,postcode,11211
+112614265-,borough,BROOKLYN 
+112614265-,latitude,40.710686
+112614265-,longitude,-73.959655
+112643410-,legal_name,"Jackson Heights-Elmhurst Kehillah, Inc."
+112643410-,address,37-06 77th street
+112643410-,postcode,11372
+112643410-,borough,QUEENS   
+112643410-,latitude,40.748907
+112643410-,longitude,-73.88902
+112652182-,legal_name,Flushing Town Hall
+112652182-,address,137-35 Northern Boulevard
+112652182-,postcode,11354
+112652182-,borough,QUEENS   
+112652182-,latitude,40.763478
+112652182-,longitude,-73.829992
+112665181-,legal_name,"Jewish Community Council of Greater Coney Island, Inc."
+112665181-,address,3001 West 37th Street
+112665181-,postcode,11224
+112665181-,borough,BROOKLYN 
+112665181-,latitude,40.573177
+112665181-,longitude,-74.002509
+112697931-,legal_name,"St. Rosalia-Regina Pacis Neighborhood Improvement Assoc., Inc."
+112697931-,address,6614 11th Avenue
+112697931-,postcode,11219
+112697931-,borough,BROOKLYN 
+112697931-,latitude,40.627905
+112697931-,longitude,-74.006708
+112726558-,legal_name,"Dancewave, Inc."
+112726558-,address,45 Fourth Avenue
+112726558-,postcode,11217
+112726558-,borough,BROOKLYN 
+112726558-,latitude,40.683029
+112726558-,longitude,-73.979239
+112777066-,legal_name,SCO Family of Services
+112777066-,address,1 Alexander Place
+112777066-,postcode,11542
+112777066-,borough,STATEN IS
+112777066-,latitude,40.557749
+112777066-,longitude,-74.180507
+112837894-,legal_name,"AIDS Center of Queens County, Inc."
+112837894-,address,161-21 Jamaica Avenue
+112837894-,postcode,11432
+112837894-,borough,QUEENS   
+112837894-,latitude,40.704249
+112837894-,longitude,-73.797921
+112864728-,legal_name,"Council of Jewish Organizations of Flatbush, Inc."
+112864728-,address,1550 Coney Island Avenue
+112864728-,postcode,11230
+112864728-,borough,BROOKLYN 
+112864728-,latitude,40.619517
+112864728-,longitude,-73.964188
+112870422-,legal_name,Queens Comprehensive Perinatal Council
+112870422-,address,106-46 Guy R. Brewer Boulevard
+112870422-,postcode,11433
+112870422-,borough,QUEENS   
+112870422-,latitude,40.698984
+112870422-,longitude,-73.793025
+112872641-,legal_name,"Zeta Zeta Lambda Alpha Phi Alpha Youth Programs, Inc."
+112872641-,address,92-08 173rd St. 
+112872641-,postcode,11433
+112872641-,borough,QUEENS   
+112872641-,latitude,40.707509
+112872641-,longitude,-73.786589
+112883503-,legal_name,Salvadori Educational Center on the Built Environment
+112883503-,address,475 Riverside Drive
+112883503-,postcode,10115
+112883503-,borough,MANHATTAN
+112883503-,latitude,40.811101
+112883503-,longitude,-73.964168
+112903423-,legal_name,"Caribbean American Chamber of Commerce and Industry, Inc."
+112903423-,address,"63 Flushing Avenue, Unit 239, Building #5"
+112903423-,postcode,11205
+112903423-,borough,BROOKLYN 
+112903423-,latitude,40.69802
+112903423-,longitude,-73.974986
+112953522-,legal_name,International African Arts Festival
+112953522-,address,1360 Fulton Street
+112953522-,postcode,11216
+112953522-,borough,BROOKLYN 
+112953522-,latitude,40.680186
+112953522-,longitude,-73.94593
+112956108-,legal_name,Kings Majestic Corporation
+112956108-,address,651 Fulton Street
+112956108-,postcode,11217
+112956108-,borough,BROOKLYN 
+112956108-,latitude,40.688192
+112956108-,longitude,-73.979108
+112986161-,legal_name,"Shorefront Jewish Community Council, Inc."
+112986161-,address,3049 Brighton 6th Street
+112986161-,postcode,11235
+112986161-,borough,BROOKLYN 
+112986161-,latitude,40.578435
+112986161-,longitude,-73.961751
+113027538-,legal_name,"Ifetayo Cultural Arts Academy, Inc."
+113027538-,address,629 East 35th Street
+113027538-,postcode,11203
+113027538-,borough,BROOKLYN 
+113027538-,latitude,40.639738
+113027538-,longitude,-73.943567
+113030795-,legal_name,"Clergy United for Community Empowerment, Inc. (formerly SQCCE)"
+113030795-,address,89-31 161st Street
+113030795-,postcode,11432
+113030795-,borough,QUEENS   
+113030795-,latitude,40.706034
+113030795-,longitude,-73.799751
+113065859-,legal_name,Brooklyn Chinese American Association
+113065859-,address,5002 8th Avenue
+113065859-,postcode,11220
+113065859-,borough,BROOKLYN 
+113065859-,latitude,40.641028
+113065859-,longitude,-74.003816
+113068515-,legal_name,"Kings Bay YM-YWHA, Inc."
+113068515-,address,3495 nostrand avenue
+113068515-,postcode,11229
+113068515-,borough,BROOKLYN 
+113068515-,latitude,40.598817
+113068515-,longitude,-73.94157
+113071518-,legal_name,"Samuel Field YM & YWHA, Inc."
+113071518-,address,58-20 Little Neck Parkway
+113071518-,postcode,11362
+113071518-,borough,QUEENS   
+113071518-,latitude,40.761577
+113071518-,longitude,-73.723122
+113185372-,legal_name,Arthur Ashe Institute for Urban Health
+113185372-,address,"450 Clarkson Avenue, Box 1232"
+113185372-,postcode,11203
+113185372-,borough,BROOKLYN 
+113185372-,latitude,40.655743
+113185372-,longitude,-73.944598
+113188470-,legal_name,"Maura Clarke-Ita Ford Center, Inc."
+113188470-,address,138 Bleeker Street
+113188470-,postcode,11211
+113188470-,borough,BROOKLYN 
+113188470-,latitude,40.696077
+113188470-,longitude,-73.920273
+113190985-,legal_name,"Family Renaissance, Inc."
+113190985-,address,123 Linden Boulevard
+113190985-,postcode,11226
+113190985-,borough,BROOKLYN 
+113190985-,latitude,40.652415
+113190985-,longitude,-73.954227
+113210593-,legal_name,"Society of the Educational Arts, Inc."
+113210593-,address,107 Suffolk Street
+113210593-,postcode,10002
+113210593-,borough,MANHATTAN
+113210593-,latitude,40.718943
+113210593-,longitude,-73.986122
+113223904-,legal_name,Rugby Family Services 
+113223904-,address,4905 Snyder Avenue 
+113223904-,postcode,11203
+113223904-,borough,BROOKLYN 
+113223904-,latitude,40.650068
+113223904-,longitude,-73.931031
+113228052-,legal_name,"Puppetry In Practice, Inc."
+113228052-,address,1923 Haring Street
+113228052-,postcode,11229
+113228052-,borough,BROOKLYN 
+113228052-,latitude,40.60445
+113228052-,longitude,-73.941619
+113235349-,legal_name,"City University of New York School of Law Foundation, Inc., The"
+113235349-,address,CUNY School of Law a CLRN
+113235349-,postcode,11367
+113235349-,borough,QUEENS   
+113235349-,latitude,40.747818
+113235349-,longitude,-73.943583
+113279032-,legal_name,"Bayside Little League, Inc."
+113279032-,address,25-50 Francis Lewis Blvd
+113279032-,postcode,11358
+113279032-,borough,QUEENS   
+113279032-,latitude,40.773555
+113279032-,longitude,-73.796646
+113302911-,legal_name,Battered Women's Resource Center
+113302911-,address,"328 Flatbush Avenue, Suite 342"
+113302911-,postcode,11238
+113302911-,borough,BROOKLYN 
+113302911-,latitude,40.676707
+113302911-,longitude,-73.972128
+113307754-,legal_name,Creative Outlet Dance Theatre of Brooklyn
+113307754-,address,80 Hanson Place
+113307754-,postcode,11217
+113307754-,borough,BROOKLYN 
+113307754-,latitude,40.685488
+113307754-,longitude,-73.974421
+113372980-,legal_name,"Young People's Chorus of New York City, Inc."
+113372980-,address,1995 Broadway Suite 305
+113372980-,postcode,10023
+113372980-,borough,MANHATTAN
+113372980-,latitude,40.77524
+113372980-,longitude,-73.982186
+113423612-,legal_name,Christopher Rose Community Empowerment Campaign
+113423612-,address,772 Vermont Street
+113423612-,postcode,11207
+113423612-,borough,BROOKLYN 
+113423612-,latitude,40.660922
+113423612-,longitude,-73.890241
+113427213-,legal_name,Groundswell Community Mural Project
+113427213-,address,339 Douglass Street
+113427213-,postcode,11217
+113427213-,borough,BROOKLYN 
+113427213-,latitude,40.679555
+113427213-,longitude,-73.982355
+113451703-,legal_name,"Fractured Atlas Productions, Inc."
+113451703-,address,248 W 35th St
+113451703-,postcode,10001
+113451703-,borough,MANHATTAN
+113451703-,latitude,40.75224
+113451703-,longitude,-73.99154
+113451990-,legal_name,"United Hindu Cultural Council of USA, North America, Inc."
+113451990-,address,118-09 Sutter Avenue
+113451990-,postcode,11420
+113451990-,borough,QUEENS   
+113451990-,latitude,40.674319
+113451990-,longitude,-73.820497
+113475993-,legal_name,Boro Park Jewish Community Council
+113475993-,address,4912 14th Ave 3rd Floor
+113475993-,postcode,11219
+113475993-,borough,BROOKLYN 
+113475993-,latitude,40.63357
+113475993-,longitude,-73.99006
+113505513-,legal_name,"Amethyst Women's Project, Inc."
+113505513-,address,1907 Mermaid Avenue
+113505513-,postcode,11224
+113505513-,borough,BROOKLYN 
+113505513-,latitude,40.576497
+113505513-,longitude,-73.986036
+113518348-,legal_name,"Tomche Shabbos of Boro Park and Flatbush, Inc."
+113518348-,address,4712 Fort Hamilton Parkway
+113518348-,postcode,11219
+113518348-,borough,BROOKLYN 
+113518348-,latitude,40.639225
+113518348-,longitude,-73.996404
+113526774-,legal_name,"Museum of Contemporary African Diasporan Arts, Inc."
+113526774-,address,80 Hanson Place
+113526774-,postcode,11217
+113526774-,borough,BROOKLYN 
+113526774-,latitude,40.685488
+113526774-,longitude,-73.974421
+113528680-,legal_name,"Wayside Out-Reach Development, Inc."
+113528680-,address,460 Dumont Avenue
+113528680-,postcode,11212
+113528680-,borough,BROOKLYN 
+113528680-,latitude,40.66514
+113528680-,longitude,-73.902222
+113549224-,legal_name,"Central Brooklyn Jazz Consortium, Inc."
+113549224-,address,1958 Fulton St
+113549224-,postcode,11233
+113549224-,borough,BROOKLYN 
+113549224-,latitude,40.678793
+113549224-,longitude,-73.920384
+113556789-,legal_name,"Unity Plaza Resident Association, Inc."
+113556789-,address,580 Blake Avenue
+113556789-,postcode,11207
+113556789-,borough,BROOKLYN 
+113556789-,latitude,40.667436
+113556789-,longitude,-73.897457
+113561651-,legal_name,"Mixteca Organization, Inc."
+113561651-,address,245 23rd Street
+113561651-,postcode,11215
+113561651-,borough,BROOKLYN 
+113561651-,latitude,40.659942
+113561651-,longitude,-73.994096
+113602492-,legal_name,"Central Jewish Council, Inc."
+113602492-,address,127  Ruteldge Street
+113602492-,postcode,11211
+113602492-,borough,BROOKLYN 
+113602492-,latitude,40.631716
+113602492-,longitude,-73.983633
+116080521-,legal_name,"Queens College Foundation, Inc."
+116080521-,address,65-30 Kissena Boulevard
+116080521-,postcode,11367
+116080521-,borough,QUEENS   
+116080521-,latitude,40.736707
+116080521-,longitude,-73.814703
+13-1562242,legal_name,Henry Street Settlement
+13-1562242,address,265 Henry Street
+13-1562242,postcode,10002
+13-1562242,borough,MANHATTAN
+13-1562242,latitude,40.713857
+13-1562242,longitude,-73.984532
+13-1624014,legal_name,"Girl Scout Council of Greater New York, Inc."
+13-1624014,address,43 West 23rd Street
+13-1624014,postcode,10010
+13-1624014,borough,MANHATTAN
+13-1624014,latitude,40.74217
+13-1624014,longitude,-73.991021
+13-1624096,legal_name,Mount Sinai Hospital
+13-1624096,address,320 East 94th Street
+13-1624096,postcode,10128
+13-1624096,borough,MANHATTAN
+13-1624096,latitude,40.782643
+13-1624096,longitude,-73.947349
+13-1624211,legal_name,"Visiting Nurse Service of New York Home Care, Inc./Early Steps Family Center"
+13-1624211,address,5 Penn Plaza
+13-1624211,postcode,10001
+13-1624211,borough,MANHATTAN
+13-1624211,latitude,40.751861
+13-1624211,longitude,-73.993716
+13-1624228,legal_name,Young Men's Christian Association of Greater New York - Long Island City
+13-1624228,address,"5 West 63rd Street, 6th Floor "
+13-1624228,postcode,10023
+13-1624228,borough,MANHATTAN
+13-1624228,latitude,40.770689
+13-1624228,longitude,-73.980465
+13-1740011,legal_name,Wildlife Conservation Society
+13-1740011,address,2300 Southern Boulevard
+13-1740011,postcode,10460
+13-1740011,borough,BRONX    
+13-1740011,latitude,40.850669
+13-1740011,longitude,-73.88242
+13-1775772,legal_name,Turtle Bay Music School
+13-1775772,address,244 East 52nd Street
+13-1775772,postcode,10044
+13-1775772,borough,MANHATTAN
+13-1775772,latitude,40.75663
+13-1775772,longitude,-73.968814
+13-1923626,legal_name,Carnegie Hall Corporation
+13-1923626,address,881 Seventh Avenue
+13-1923626,postcode,10019
+13-1923626,borough,MANHATTAN
+13-1923626,latitude,40.764941
+13-1923626,longitude,-73.980445
+13-1981482,legal_name,Presbyterian Senior Services
+13-1981482,address,"2095 Broadway, Suite 409"
+13-1981482,postcode,10023
+13-1981482,borough,MANHATTAN
+13-1981482,latitude,40.779346
+13-1981482,longitude,-73.981921
+13-1988190,legal_name,Research Foundation of the City University of New York
+13-1988190,address,230 West 41st Street
+13-1988190,postcode,10036
+13-1988190,borough,MANHATTAN
+13-1988190,latitude,40.755802
+13-1988190,longitude,-73.988482
+13-1991118,legal_name,"Dancewave, Inc."
+13-1991118,address,45 Fourth Avenue
+13-1991118,postcode,11217
+13-1991118,borough,BROOKLYN 
+13-1991118,latitude,40.683029
+13-1991118,longitude,-73.979239
+13-2548904,legal_name,"United Block Association, Inc."
+13-2548904,address,"3333 Broadway, Tower E Basement"
+13-2548904,postcode,10031
+13-2548904,borough,MANHATTAN
+13-2548904,latitude,40.83328
+13-2548904,longitude,-73.94174
+13-2572034,legal_name,"Stanley M. Isaacs Neighborhood Center, Inc."
+13-2572034,address,415 East 93rd Street
+13-2572034,postcode,10128
+13-2572034,borough,MANHATTAN
+13-2572034,latitude,40.780904
+13-2572034,longitude,-73.945112
+13-2584273,legal_name,Alvin Ailey Dance Foundation
+13-2584273,address,405 West 55th Street
+13-2584273,postcode,10019
+13-2584273,borough,MANHATTAN
+13-2584273,latitude,40.766839
+13-2584273,longitude,-73.987163
+13-2600199,legal_name,Legal Services NYC 
+13-2600199,address,350 Broadway
+13-2600199,postcode,10013
+13-2600199,borough,MANHATTAN
+13-2600199,latitude,40.716954
+13-2600199,longitude,-74.003943
+13-2612524,legal_name,"Fund for the City of New York, Inc."
+13-2612524,address,"121 Avenue of the Americas, 6th Floor"
+13-2612524,postcode,10013
+13-2612524,borough,MANHATTAN
+13-2612524,latitude,40.723903
+13-2612524,longitude,-74.00469
+13-2615433,legal_name,Solomon R. Guggenheim Foundation
+13-2615433,address,1071 Fifth Avenue
+13-2615433,postcode,10128
+13-2615433,borough,MANHATTAN
+13-2615433,latitude,40.782925
+13-2615433,longitude,-73.959391
+13-2621497,legal_name,"Planned Parenthood of New York City, Inc."
+13-2621497,address,26 Bleecker Street
+13-2621497,postcode,10012
+13-2621497,borough,MANHATTAN
+13-2621497,latitude,40.725564
+13-2621497,longitude,-73.993488
+13-2622748,legal_name,"MFY Legal Services, Inc."
+13-2622748,address,"299 Broadway, 4th Floor"
+13-2622748,postcode,10007
+13-2622748,borough,MANHATTAN
+13-2622748,latitude,40.715046
+13-2622748,longitude,-74.005591
+13-2642091,legal_name,Dance Theater of Harlem
+13-2642091,address,466 W 152nd Street
+13-2642091,postcode,10031
+13-2642091,borough,MANHATTAN
+13-2642091,latitude,40.829244
+13-2642091,longitude,-73.943446
+13-2645436,legal_name,"Fortune Society, Inc., The"
+13-2645436,address,29-76 Northern Boulevard
+13-2645436,postcode,11101
+13-2645436,borough,QUEENS   
+13-2645436,latitude,40.750433
+13-2645436,longitude,-73.935323
+13-2655001,legal_name,Health and Hospitals Corporation
+13-2655001,address,2094 Pitkin Avenue
+13-2655001,postcode,11212
+13-2655001,borough,BROOKLYN 
+13-2655001,latitude,40.671977
+13-2655001,longitude,-73.895248
+13-2683678,legal_name,"New Heritage Theatre Group, Inc."
+13-2683678,address,253 West 138th Street
+13-2683678,postcode,10030
+13-2683678,borough,MANHATTAN
+13-2683678,latitude,40.81812
+13-2683678,longitude,-73.944398
+13-2738818,legal_name,"Metropolitan New York Coordinating Council on Jewish Poverty, Inc."
+13-2738818,address,"80 Maiden Lane, 21st Floor"
+13-2738818,postcode,10038
+13-2738818,borough,MANHATTAN
+13-2738818,latitude,40.707116
+13-2738818,longitude,-74.007329
+13-2755323,legal_name,"Council of Belmont Organizations, Inc."
+13-2755323,address,630 East 183rd Street
+13-2755323,postcode,10458
+13-2755323,borough,BRONX    
+13-2755323,latitude,40.852761
+13-2755323,longitude,-73.8882
+13-2780116,legal_name,Convent Avenue Baptist Church
+13-2780116,address,420 West 145th Street
+13-2780116,postcode,10031
+13-2780116,borough,MANHATTAN
+13-2780116,latitude,40.824436
+13-2780116,longitude,-73.945733
+13-2813350,legal_name,Greenhope Services for Women
+13-2813350,address,448 East 119th Street
+13-2813350,postcode,10035
+13-2813350,borough,MANHATTAN
+13-2813350,latitude,40.79746
+13-2813350,longitude,-73.93289
+13-2867442,legal_name,"New York City Center, Inc."
+13-2867442,address,131 West 56th Street
+13-2867442,postcode,10019
+13-2867442,borough,MANHATTAN
+13-2867442,latitude,40.764186
+13-2867442,longitude,-73.978929
+13-2884976,legal_name,William F. Ryan Health Center
+13-2884976,address,110 West 97th Street
+13-2884976,postcode,10025
+13-2884976,borough,MANHATTAN
+13-2884976,latitude,40.79381
+13-2884976,longitude,-73.967655
+13-2886423,legal_name,"North Shore Rescue Squad No. 1, Inc."
+13-2886423,address,228 Granite Avenue
+13-2886423,postcode,10303
+13-2886423,borough,STATEN IS
+13-2886423,latitude,40.631006
+13-2886423,longitude,-74.149084
+13-2906037,legal_name,"Big Apple Circus, Ltd."
+13-2906037,address,"505 Eighth Avenue, 19th Floor"
+13-2906037,postcode,10018
+13-2906037,borough,MANHATTAN
+13-2906037,latitude,40.753047
+13-2906037,longitude,-73.99285
+13-2912963,legal_name,SCAN-NY
+13-2912963,address,345 East 102nd Street
+13-2912963,postcode,10029
+13-2912963,borough,MANHATTAN
+13-2912963,latitude,40.787394
+13-2912963,longitude,-73.942709
+13-2925233,legal_name,"Learning Through an Expanded Arts Program, Inc."
+13-2925233,address,"441 West End Avenue, Suite 2G"
+13-2925233,postcode,10024
+13-2925233,borough,MANHATTAN
+13-2925233,latitude,40.78576
+13-2925233,longitude,-73.980146
+13-2939069,legal_name,"Staten Island Ice Hockey Association, Inc."
+13-2939069,address,1395 Arden Avenue
+13-2939069,postcode,10312
+13-2939069,borough,STATEN IS
+13-2939069,latitude,40.537279
+13-2939069,longitude,-74.167112
+13-2977495,legal_name,"Art Lab, Inc. The Art School at Snug Harbor"
+13-2977495,address,1000 Richmond Terrace
+13-2977495,postcode,10301
+13-2977495,borough,STATEN IS
+13-2977495,latitude,40.645232
+13-2977495,longitude,-74.104674
+13-2987263  ,legal_name,Institute for the Puerto Rican Hispanic Elderly
+13-2987263  ,address,"105 East 22nd Street, Suite 615"
+13-2987263  ,postcode,10010
+13-2987263  ,borough,MANHATTAN
+13-2987263  ,latitude,40.739265
+13-2987263  ,longitude,-73.986215
+13-2989768,legal_name,Washington Heights-Inwood Coalition
+13-2989768,address,652 West 187th Street
+13-2989768,postcode,10033
+13-2989768,borough,MANHATTAN
+13-2989768,latitude,40.853696
+13-2989768,longitude,-73.932537
+13-2997301,legal_name,"St. Luke's-Roosevelt Hospital Center, Center for Comprehensive Care"
+13-2997301,address,"1111 Amsterdam Avenue, Stuyvesant Buliding, 7th Floor"
+13-2997301,postcode,10025
+13-2997301,borough,MANHATTAN
+13-2997301,latitude,40.805841
+13-2997301,longitude,-73.961751
+13-3015965,legal_name,"Dance Theater Etctera, Inc."
+13-3015965,address,480 Van Brunt Street
+13-3015965,postcode,11231
+13-3015965,borough,BROOKLYN 
+13-3015965,latitude,40.674431
+13-3015965,longitude,-74.016345
+13-3021180,legal_name,"Second Stage Theatre, Inc."
+13-3021180,address,305 West 43rd Street
+13-3021180,postcode,10036
+13-3021180,borough,MANHATTAN
+13-3021180,latitude,40.758127
+13-3021180,longitude,-73.989799
+13-3047206,legal_name,Marquis Studios
+13-3047206,address,"45 Main Street, Suite 849"
+13-3047206,postcode,11201
+13-3047206,borough,BROOKLYN 
+13-3047206,latitude,40.702799
+13-3047206,longitude,-73.990677
+13-3062521,legal_name,"Love Gospel Assembly - Promise Land Community, Inc."
+13-3062521,address,2315 Grand Concourse
+13-3062521,postcode,10468
+13-3062521,borough,BRONX    
+13-3062521,latitude,40.857921
+13-3062521,longitude,-73.899672
+13-3083068,legal_name,"Community Healthcare Network, Inc."
+13-3083068,address,79 Madison Avenue
+13-3083068,postcode,10016
+13-3083068,borough,MANHATTAN
+13-3083068,latitude,40.744096
+13-3083068,longitude,-73.985619
+13-3087407,legal_name,Inwood Community Services
+13-3087407,address,651 Academy Street
+13-3087407,postcode,10034
+13-3087407,borough,MANHATTAN
+13-3087407,latitude,40.866001
+13-3087407,longitude,-73.924777
+13-3109387,legal_name,Mosholu Preservation Corporation
+13-3109387,address,3400 Reservior Oval East
+13-3109387,postcode,10467
+13-3109387,borough,BRONX    
+13-3109387,latitude,40.878889
+13-3109387,longitude,-73.87581
+13-3130146,legal_name,"Gay Men's Health Crisis, Inc."
+13-3130146,address,119 West 24th Street
+13-3130146,postcode,10001
+13-3130146,borough,MANHATTAN
+13-3130146,latitude,40.74391
+13-3130146,longitude,-73.993104
+13-3131914,legal_name,"Self-Help for Women with Breast or Ovarian Cancer (SHARE, Inc.)"
+13-3131914,address,1501 Broadway
+13-3131914,postcode,10036
+13-3131914,borough,MANHATTAN
+13-3131914,latitude,40.757103
+13-3131914,longitude,-73.986193
+13-3156738,legal_name,"Chinese Christian Herald Crusades, Inc."
+13-3156738,address,156-03 Horace Harding Expressway
+13-3156738,postcode,11367
+13-3156738,borough,QUEENS   
+13-3156738,latitude,40.738948
+13-3156738,longitude,-73.812113
+13-3164464,legal_name,"Samaritans of New York, Inc."
+13-3164464,address,61 Gramercy Park North
+13-3164464,postcode,10010
+13-3164464,borough,MANHATTAN
+13-3164464,latitude,40.738634
+13-3164464,longitude,-73.986634
+13-3170676,legal_name,"City Harvest, Inc."
+13-3170676,address,8 East 109th Street
+13-3170676,postcode,10029
+13-3170676,borough,MANHATTAN
+13-3170676,latitude,40.795967
+13-3170676,longitude,-73.949119
+13-3179546,legal_name,"Food Bank for New York City, The"
+13-3179546,address,355 Food Center Drive
+13-3179546,postcode,10474
+13-3179546,borough,BRONX    
+13-3179546,latitude,40.807629
+13-3179546,longitude,-73.871471
+13-3183344,legal_name,Sinergia
+13-3183344,address,3300 Coney Island Avenue
+13-3183344,postcode,11235
+13-3183344,borough,BROOKLYN 
+13-3183344,latitude,40.575607
+13-3183344,longitude,-73.959463
+13-3184179,legal_name,"Woodycrest Center for Human Development, Inc."
+13-3184179,address,153 West 165th Street
+13-3184179,postcode,10452
+13-3184179,borough,BRONX    
+13-3184179,latitude,40.834544
+13-3184179,longitude,-73.928932
+13-3248928,legal_name,Alice Austen House
+13-3248928,address,2 Hylan Boulevard
+13-3248928,postcode,10305
+13-3248928,borough,STATEN IS
+13-3248928,latitude,40.615561
+13-3248928,longitude,-74.06322
+13-3253232,legal_name,"Musica De Camara, Inc."
+13-3253232,address,1215 Fifth Avenue
+13-3253232,postcode,10029
+13-3253232,borough,MANHATTAN
+13-3253232,latitude,40.79181
+13-3253232,longitude,-73.9529
+13-3254484,legal_name,"BronxWorks, Inc."
+13-3254484,address,60 East Tremont Avenue
+13-3254484,postcode,10453
+13-3254484,borough,BRONX    
+13-3254484,latitude,40.851176
+13-3254484,longitude,-73.908192
+13-3261148,legal_name,"Bronx River Art Center, Inc."
+13-3261148,address,1087 East Tremont Avenue
+13-3261148,postcode,10460
+13-3261148,borough,BRONX    
+13-3261148,latitude,40.840027
+13-3261148,longitude,-73.878633
+13-3263537,legal_name,"Community Agency for Senior Citizens, Inc."
+13-3263537,address,56 Bay Street
+13-3263537,postcode,10301
+13-3263537,borough,STATEN IS
+13-3263537,latitude,40.640624
+13-3263537,longitude,-74.075704
+13-3286250,legal_name,"New York Asian Women's Center, Inc."
+13-3286250,address,"39 Bowery, PMB 375"
+13-3286250,postcode,10002
+13-3286250,borough,MANHATTAN
+13-3286250,latitude,40.715738
+13-3286250,longitude,-73.996367
+13-3391212,legal_name,"Lehman College Art Gallery, Inc."
+13-3391212,address,250 Bedford Park Boulevard West
+13-3391212,postcode,10468
+13-3391212,borough,BRONX    
+13-3391212,latitude,40.875028
+13-3391212,longitude,-73.89286
+13-3402057,legal_name,"Alianza Dominicana, Inc."
+13-3402057,address,2410 Amsterdam Avenue
+13-3402057,postcode,10033
+13-3402057,borough,MANHATTAN
+13-3402057,latitude,40.847177
+13-3402057,longitude,-73.93159
+13-3425081,legal_name,West Shore Little League
+13-3425081,address,340 Walker Street
+13-3425081,postcode,10303
+13-3425081,borough,STATEN IS
+13-3425081,latitude,40.631687
+13-3425081,longitude,-74.15074
+13-3428736,legal_name,"Italian Club of Staten Island, Inc."
+13-3428736,address,1290 Richmond Avenue
+13-3428736,postcode,10304
+13-3428736,borough,STATEN IS
+13-3428736,latitude,40.616995
+13-3428736,longitude,-74.156372
+13-3442022,legal_name,Urban Justice Center
+13-3442022,address,"123 William Street, 16th Floor"
+13-3442022,postcode,10038
+13-3442022,borough,MANHATTAN
+13-3442022,latitude,40.709112
+13-3442022,longitude,-74.006889
+13-3471350,legal_name,"New York City Coalition Against Hunger, Inc."
+13-3471350,address,"50 Broad Street, Suite 1520"
+13-3471350,postcode,10004
+13-3471350,borough,MANHATTAN
+13-3471350,latitude,40.705689
+13-3471350,longitude,-74.011455
+13-3556132,legal_name,Community Health Action of Staten Island (formerly SI AIDS Taskforce)
+13-3556132,address,56 Bay Street
+13-3556132,postcode,10301
+13-3556132,borough,STATEN IS
+13-3556132,latitude,40.640624
+13-3556132,longitude,-74.075704
+13-3556768,legal_name,"Momentum Project, Inc., The"
+13-3556768,address,"322 Eighth Avenue, 3rd Floor"
+13-3556768,postcode,10001
+13-3556768,borough,MANHATTAN
+13-3556768,latitude,40.747294
+13-3556768,longitude,-73.997023
+13-3586505,legal_name,"Travis Fourth of July Celebration Committee, Inc., The"
+13-3586505,address,17 Cannon Avenue
+13-3586505,postcode,10314
+13-3586505,borough,STATEN IS
+13-3586505,latitude,40.594949
+13-3586505,longitude,-74.185642
+13-3593885,legal_name,"Domincan Women's Development Center, Inc."
+13-3593885,address,519 W 189th Street
+13-3593885,postcode,10040
+13-3593885,borough,MANHATTAN
+13-3593885,latitude,40.853427
+13-3593885,longitude,-73.927961
+13-3598671,legal_name,Hunter College
+13-3598671,address,695 Park Avenue
+13-3598671,postcode,10065
+13-3598671,borough,MANHATTAN
+13-3598671,latitude,40.768973
+13-3598671,longitude,-73.965367
+13-3611138,legal_name,Harlem Artist Development League Especially for You - H.A.D.L.E.Y. Players
+13-3611138,address,204 West 134th Street
+13-3611138,postcode,10030
+13-3611138,borough,MANHATTAN
+13-3611138,latitude,40.814867
+13-3611138,longitude,-73.944766
+13-3699201,legal_name,"Iris House - A Center For Women Living with HIV/AIDS, Inc."
+13-3699201,address,"2348 Adam Clayton Powell, Jr. Boulevard"
+13-3699201,postcode,10035
+13-3699201,borough,MANHATTAN
+13-3699201,latitude,40.797347
+13-3699201,longitude,-73.937535
+13-3709095,legal_name,"Episcopal Social Services of New York, Inc."
+13-3709095,address,305 Seventh Avenue
+13-3709095,postcode,10021
+13-3709095,borough,MANHATTAN
+13-3709095,latitude,40.746817
+13-3709095,longitude,-73.993655
+13-3720645,legal_name,Military Order of the Purple Heart
+13-3720645,address,77 Armstrong Avenue
+13-3720645,postcode,10308
+13-3720645,borough,STATEN IS
+13-3720645,latitude,40.536709
+13-3720645,longitude,-74.148237
+13-3753011,legal_name,"StoryCorps, Inc."
+13-3753011,address,80 Hanson Place
+13-3753011,postcode,11217
+13-3753011,borough,BROOKLYN 
+13-3753011,latitude,40.685488
+13-3753011,longitude,-73.974421
+13-3759661,legal_name,"DreamYard Project, Inc."
+13-3759661,address,1085 Washington Avenue
+13-3759661,postcode,10456
+13-3759661,borough,BRONX    
+13-3759661,latitude,40.827978
+13-3759661,longitude,-73.908755
+13-3778489,legal_name,New Destiny Housing Corporation 
+13-3778489,address,1140 Broadway 
+13-3778489,postcode,10001
+13-3778489,borough,MANHATTAN
+13-3778489,latitude,40.743907
+13-3778489,longitude,-73.988979
+13-3782555,legal_name,Northern Manhattan Perinatal Partnership
+13-3782555,address,127 West 127th Street
+13-3782555,postcode,10027
+13-3782555,borough,MANHATTAN
+13-3782555,latitude,40.809488
+13-3782555,longitude,-73.945496
+13-3788986,legal_name,Animal Care and Control of New York City
+13-3788986,address,11 Park Place
+13-3788986,postcode,10007
+13-3788986,borough,MANHATTAN
+13-3788986,latitude,40.712828
+13-3788986,longitude,-74.008296
+13-3798344,legal_name,Jewish Children's Museum
+13-3798344,address,792 Eastern Parkway
+13-3798344,postcode,11213
+13-3798344,borough,BROOKLYN 
+13-3798344,latitude,40.669369
+13-3798344,longitude,-73.941736
+13-3893536,legal_name,Sophie Davis School of Biomedical Education
+13-3893536,address,"160 Convent Avenue, Harris Hall Room 106"
+13-3893536,postcode,10031
+13-3893536,borough,MANHATTAN
+13-3893536,latitude,40.819196
+13-3893536,longitude,-73.950221
+13-3938080,legal_name,"Center for Arts Education, The"
+13-3938080,address,"225 West 34th Street, 14 Penn Plaza, Suite 1112"
+13-3938080,postcode,10011
+13-3938080,borough,MANHATTAN
+13-3938080,latitude,40.751483
+13-3938080,longitude,-73.991764
+13-3943630,legal_name,South Asian Youth Action
+13-3943630,address,54-05 Seabury Street
+13-3943630,postcode,11373
+13-3943630,borough,QUEENS   
+13-3943630,latitude,40.735303
+13-3943630,longitude,-73.877474
+13-3975090,legal_name,"Agudath Israel of America Community Services, Inc."
+13-3975090,address,42 Broadway
+13-3975090,postcode,10004
+13-3975090,borough,MANHATTAN
+13-3975090,latitude,40.70627
+13-3975090,longitude,-74.012909
+13-4099045,legal_name,"Aging In America Community Services, Inc."
+13-4099045,address,1500 Pelham Parkway South
+13-4099045,postcode,10461
+13-4099045,borough,BRONX    
+13-4099045,latitude,40.857026
+13-4099045,longitude,-73.843125
+13-4131863,legal_name,Grace Foundation of New York
+13-4131863,address,264 Watchogue Road
+13-4131863,postcode,10314
+13-4131863,borough,STATEN IS
+13-4131863,latitude,40.616066
+13-4131863,longitude,-74.13813
+13-4156022,legal_name,Federation of County Networks
+13-4156022,address,127 West 127th Street
+13-4156022,postcode,10027
+13-4156022,borough,MANHATTAN
+13-4156022,latitude,40.809488
+13-4156022,longitude,-73.945496
+13-5562191,legal_name,"Children's Aid Society, The"
+13-5562191,address,105 East 22nd Street
+13-5562191,postcode,10010
+13-5562191,borough,MANHATTAN
+13-5562191,latitude,40.739265
+13-5562191,longitude,-73.986215
+13-5562204,legal_name,"Greenwich House, Inc."
+13-5562204,address,224 West 30th Street
+13-5562204,postcode,10001
+13-5562204,borough,MANHATTAN
+13-5562204,latitude,40.748848
+13-5562204,longitude,-73.993377
+13-5562256,legal_name,"Jewish Community Center of Staten Island, Inc."
+13-5562256,address,475 Victory Boulevard
+13-5562256,postcode,10301
+13-5562256,borough,STATEN IS
+13-5562256,latitude,40.630635
+13-5562256,longitude,-74.088475
+13-5562256,legal_name,Beatrice Victor Senior Olympics 
+13-5562256,address,1466 Manor Road
+13-5562256,postcode,10314
+13-5562256,borough,STATEN IS
+13-5562256,latitude,40.594454
+13-5562256,longitude,-74.125677
+13-5562308,legal_name,New York University
+13-5562308,address,70 Washington Square South
+13-5562308,postcode,10012
+13-5562308,borough,MANHATTAN
+13-5562308,latitude,40.729766
+13-5562308,longitude,-73.997027
+13-5563010,legal_name,Seamen's Society for Children and Families
+13-5563010,address,50 Bay Street
+13-5563010,postcode,10301
+13-5563010,borough,STATEN IS
+13-5563010,latitude,40.640901
+13-5563010,longitude,-74.075766
+13-5564937,legal_name,"Jewish Board of Family and Children's Services, Inc. (aka Pride of Judea)"
+13-5564937,address,135 West 50th Street
+13-5564937,postcode,10020
+13-5564937,borough,MANHATTAN
+13-5564937,latitude,40.760374
+13-5564937,longitude,-73.981533
+13-5596811,legal_name,"Police Athletic League, Inc."
+13-5596811,address,34 1/2 East 12th Street
+13-5596811,postcode,10003
+13-5596811,borough,MANHATTAN
+13-5596811,latitude,40.733809
+13-5596811,longitude,-73.992549
+13-5596825,legal_name,"Society of the Third Street Music School Settlement, Inc."
+13-5596825,address,235 East 11th Street
+13-5596825,postcode,10003
+13-5596825,borough,MANHATTAN
+13-5596825,latitude,40.730806
+13-5596825,longitude,-73.987364
+13-5596836,legal_name,Womens Prision Association 
+13-5596836,address,110 Second Avenue 
+13-5596836,postcode,10003
+13-5596836,borough,MANHATTAN
+13-5596836,latitude,40.727685
+13-5596836,longitude,-73.988317
+13-5598710,legal_name,Good Shepherd Services
+13-5598710,address,305 Seventh Avenue
+13-5598710,postcode,10001
+13-5598710,borough,MANHATTAN
+13-5598710,latitude,40.746817
+13-5598710,longitude,-73.993655
+13-5600383,legal_name,"Big Brothers Big Sisters of New York City, Inc."
+13-5600383,address,223 East 30th Street
+13-5600383,postcode,10016
+13-5600383,borough,MANHATTAN
+13-5600383,latitude,40.742923
+13-5600383,longitude,-73.979253
+13-5645885,legal_name,Center for New York City Law at New York Law School
+13-5645885,address,47 Worth Street
+13-5645885,postcode,10028
+13-5645885,borough,MANHATTAN
+13-5645885,latitude,40.717376
+13-5645885,longitude,-74.006887
+13-5675643,legal_name,Edwin Gould Services for Children & Families
+13-5675643,address,"151 Lawrence Street, 5th Floor"
+13-5675643,postcode,10006
+13-5675643,borough,MANHATTAN
+13-5675643,latitude,40.708356
+13-5675643,longitude,-74.014814
+13-6146854,legal_name,"Jewish Museum, The"
+13-6146854,address,1109 Fifth Avenue
+13-6146854,postcode,10128
+13-6146854,borough,MANHATTAN
+13-6146854,latitude,40.785298
+13-6146854,longitude,-73.957263
+13-6202692,legal_name,"Chinese American Planning Council, Inc."
+13-6202692,address,150 Elizabeth Street
+13-6202692,postcode,10012
+13-6202692,borough,MANHATTAN
+13-6202692,latitude,40.7203
+13-6202692,longitude,-73.995083
+13-6400571,legal_name,New York City Housing Authority
+13-6400571,address,90 Church Street
+13-6400571,postcode,10007
+13-6400571,borough,MANHATTAN
+13-6400571,latitude,40.712586
+13-6400571,longitude,-74.009775
+131562242-,legal_name,Henry Street Settlement
+131562242-,address,265 Henry Street
+131562242-,postcode,10002
+131562242-,borough,MANHATTAN
+131562242-,latitude,40.713857
+131562242-,longitude,-73.984532
+131623850-,legal_name,"Kips Bay Boys and Girls Club, Inc."
+131623850-,address,1835 Martin Luther King Jr. Blvd
+131623850-,postcode,10453
+131623850-,borough,BRONX    
+131623850-,latitude,40.851483
+131623850-,longitude,-73.914448
+131623989-,legal_name,"East Side House, Inc."
+131623989-,address,337 Alexander Avenue
+131623989-,postcode,10454
+131623989-,borough,BRONX    
+131623989-,latitude,40.812322
+131623989-,longitude,-73.923486
+131624000-,legal_name,"Federation Employment and Guidance Service (FEGS), Inc."
+131624000-,address,315 Hudson Street
+131624000-,postcode,10013
+131624000-,borough,MANHATTAN
+131624000-,latitude,40.72631
+131624000-,longitude,-74.00749
+131624015-,legal_name,Boy Scouts of America - Greater New York Council
+131624015-,address,350 Fifth Avenue Suite 430
+131624015-,postcode,10118
+131624015-,borough,MANHATTAN
+131624015-,latitude,40.748342
+131624015-,longitude,-73.984643
+131624096-,legal_name,Mount Sinai School of Medicine of New York University
+131624096-,address,1 Gustave Levy Place
+131624096-,postcode,10029
+131624096-,borough,MANHATTAN
+131624096-,latitude,40.790443
+131624096-,longitude,-73.953793
+131624225-,legal_name,Albert Einstein College of Medicine of Yeshiva University
+131624225-,address,1410 Pelham Parkway South
+131624225-,postcode,10461
+131624225-,borough,BRONX    
+131624225-,latitude,40.857424
+131624225-,longitude,-73.846963
+131624228-,legal_name,Young Men's Christian Association of Greater New York
+131624228-,address,Association Office - 5 West 63rd Street 6th Floor
+131624228-,postcode,10023-7162
+131624228-,borough,BROOKLYN 
+131624228-,latitude,40.636511
+131624228-,longitude,-73.951539
+131635255-,legal_name,Bohemian Brethren Presbyterian Church a.k.a. Jan Hus Presbyterian Church
+131635255-,address,351 East 74th Street
+131635255-,postcode,10021
+131635255-,borough,MANHATTAN
+131635255-,latitude,40.76962
+131635255-,longitude,-73.956197
+131635308-,legal_name,Young Men's and Young Women's Hebrew Association of Washington Heights and Inwood
+131635308-,address,54 Nagle Avenue
+131635308-,postcode,10040
+131635308-,borough,MANHATTAN
+131635308-,latitude,40.859993
+131635308-,longitude,-73.929129
+131656674-,legal_name,New York Academy of Medicine
+131656674-,address,1216 5th Avenue
+131656674-,postcode,10029
+131656674-,borough,MANHATTAN
+131656674-,latitude,40.792101
+131656674-,longitude,-73.952174
+131740011-,legal_name,Wildlife Conservation Society
+131740011-,address,2300 Southern Boulevard
+131740011-,postcode,10460
+131740011-,borough,BRONX    
+131740011-,latitude,40.850669
+131740011-,longitude,-73.88242
+131773642-,legal_name,St. Margarets Episcopal Church
+131773642-,address,940 East 156th Street
+131773642-,postcode,10455
+131773642-,borough,BRONX    
+131773642-,latitude,40.81646
+131773642-,longitude,-73.900226
+131930700-,legal_name,"Riverdale Mental Health Association, Inc."
+131930700-,address,5686 Riverdale Avenue
+131930700-,postcode,10471
+131930700-,borough,BRONX    
+131930700-,latitude,40.906434
+131930700-,longitude,-73.904204
+131943516-,legal_name,"Strycker's Bay Neighborhood Council, Inc."
+131943516-,address,72 West 109th Street
+131943516-,postcode,10025
+131943516-,borough,MANHATTAN
+131943516-,latitude,40.800901
+131943516-,longitude,-73.960832
+131981482-,legal_name,Presbyterian Senior Services
+131981482-,address,2095 Broadway
+131981482-,postcode,10023
+131981482-,borough,MANHATTAN
+131981482-,latitude,40.779346
+131981482-,longitude,-73.981921
+131988190-,legal_name,"Center for Law and Social Justice, Medgar Evers College"
+131988190-,address,1534 Bedford Avenue
+131988190-,postcode,11225
+131988190-,borough,BROOKLYN 
+131988190-,latitude,40.670781
+131988190-,longitude,-73.955044
+132584273-,legal_name,Alvin Ailey Dance Foundation
+132584273-,address,405 West 55th Street
+132584273-,postcode,10019
+132584273-,borough,MANHATTAN
+132584273-,latitude,40.766839
+132584273-,longitude,-73.987163
+132600199-,legal_name,Legal Services NYC - Bronx
+132600199-,address,579 Courtlandt Avenue
+132600199-,postcode,10451
+132600199-,borough,BRONX    
+132600199-,latitude,40.817397
+132600199-,longitude,-73.919178
+132612524-,legal_name,"Fund for the City of New York, Inc."
+132612524-,address,121 Avenue of the Americas
+132612524-,postcode,10013
+132612524-,borough,MANHATTAN
+132612524-,latitude,40.723903
+132612524-,longitude,-74.00469
+132613958-,legal_name,Legal Services NYC - Manhattan Legal Services
+132613958-,address,1 West 125th Street
+132613958-,postcode,10027
+132613958-,borough,MANHATTAN
+132613958-,latitude,40.806522
+132613958-,longitude,-73.942493
+132620896-,legal_name,Jewish Association for Services for the Aged (JASA)
+132620896-,address,132 west 31st Street
+132620896-,postcode,10001
+132620896-,borough,MANHATTAN
+132620896-,latitude,40.748345
+132620896-,longitude,-73.990245
+132621497-,legal_name,"Planned Parenthood of New York City, Inc."
+132621497-,address,"349 E 149th Street, 2nd Floor"
+132621497-,postcode,10451
+132621497-,borough,BRONX    
+132621497-,latitude,40.81667
+132621497-,longitude,-73.919959
+132622748-,legal_name,"MFY Legal Services, Inc."
+132622748-,address,299 Broadway 4th Floor
+132622748-,postcode,10007
+132622748-,borough,MANHATTAN
+132622748-,latitude,40.715046
+132622748-,longitude,-74.005591
+132642091-,legal_name,"Dance Theatre of Harlem, Inc."
+132642091-,address,466 West 152nd St.
+132642091-,postcode,10031
+132642091-,borough,MANHATTAN
+132642091-,latitude,40.829244
+132642091-,longitude,-73.943446
+132645436-,legal_name,"Fortune Society, Inc., The"
+132645436-,address,29-76 Northern Boulevard
+132645436-,postcode,11101
+132645436-,borough,QUEENS   
+132645436-,latitude,40.750433
+132645436-,longitude,-73.935323
+132655001-,legal_name,Harlem Hospital
+132655001-,address,506 Lenox Avenue
+132655001-,postcode,10037
+132655001-,borough,MANHATTAN
+132655001-,latitude,40.814358
+132655001-,longitude,-73.940659
+132725580-,legal_name,Shadow Box Theatre
+132725580-,address,325 West End Avenue
+132725580-,postcode,10023
+132725580-,borough,MANHATTAN
+132725580-,latitude,40.782036
+132725580-,longitude,-73.98287
+132735153-,legal_name,Children's Arts Carnival
+132735153-,address,62 Hamilton Terrace
+132735153-,postcode,10031
+132735153-,borough,MANHATTAN
+132735153-,latitude,40.823075
+132735153-,longitude,-73.946309
+132736022-,legal_name,South Bronx Overall Economic Development Corporation
+132736022-,address,"555 Bergen Avenue, 3rd Floor"
+132736022-,postcode,10455
+132736022-,borough,BRONX    
+132736022-,latitude,40.815959
+132736022-,longitude,-73.916354
+132744533-,legal_name,"Bronx Jewish Community Council, Inc."
+132744533-,address,2930 Wallace Ave
+132744533-,postcode,10467
+132744533-,borough,BRONX    
+132744533-,latitude,40.868896
+132744533-,longitude,-73.864342
+132761376-,legal_name,Children's Museum of Manhattan
+132761376-,address,212 West 83 Street
+132761376-,postcode,10024
+132761376-,borough,MANHATTAN
+132761376-,latitude,40.785946
+132761376-,longitude,-73.976961
+132780116-,legal_name,Convent Avenue Baptist Church
+132780116-,address,420 West 144th Street
+132780116-,postcode,10031
+132780116-,borough,MANHATTAN
+132780116-,latitude,40.82381
+132780116-,longitude,-73.946345
+132806160-,legal_name,Northwest Bronx Community and Clergy Coalition for Sistas and Brothas United
+132806160-,address,103 East 196th Street
+132806160-,postcode,10468
+132806160-,borough,BRONX    
+132806160-,latitude,40.868324
+132806160-,longitude,-73.893988
+132813350-,legal_name,Greenhope Services for Women
+132813350-,address,435 East 119th Street
+132813350-,postcode,10035
+132813350-,borough,MANHATTAN
+132813350-,latitude,40.797569
+132813350-,longitude,-73.933103
+132867881-,legal_name,"Little Sisters of the Assumption Family Health Service, Inc."
+132867881-,address,333 East 115th Street
+132867881-,postcode,10029
+132867881-,borough,MANHATTAN
+132867881-,latitude,40.795741
+132867881-,longitude,-73.936919
+132881858-,legal_name,"Circuit Productions, Inc "
+132881858-,address,"635 Carroll Street, Suite 2"
+132881858-,postcode,11215
+132881858-,borough,BROOKLYN 
+132881858-,latitude,40.674746
+132881858-,longitude,-73.980277
+132884976-,legal_name,"William F. Ryan Community Health Center, Inc."
+132884976-,address,110 West 97th Street
+132884976-,postcode,10025-6450
+132884976-,borough,MANHATTAN
+132884976-,latitude,40.72147
+132884976-,longitude,-73.980093
+132890779-,legal_name,"National Dance Institute, Inc."
+132890779-,address,"594 Broadway, Room 805"
+132890779-,postcode,10012
+132890779-,borough,MANHATTAN
+132890779-,latitude,40.72496
+132890779-,longitude,-73.997157
+132903183-,legal_name,"Green Guerillas, Inc."
+132903183-,address,232 E 11th Street
+132903183-,postcode,10003
+132903183-,borough,MANHATTAN
+132903183-,latitude,40.730817
+132903183-,longitude,-73.987433
+132906037-,legal_name,"Big Apple Circus, Ltd."
+132906037-,address,"One MetroTech Center-North, 3rd Floor"
+132906037-,postcode,11201
+132906037-,borough,BROOKLYN 
+132906037-,latitude,40.694059
+132906037-,longitude,-73.985741
+132912963-,legal_name,Supportive Childrens Advocacy Network (SCAN)
+132912963-,address,345 East 102nd Street
+132912963-,postcode,10029
+132912963-,borough,MANHATTAN
+132912963-,latitude,40.787394
+132912963-,longitude,-73.942709
+132915659-,legal_name,"Good Old Lower East Side, Inc."
+132915659-,address,170 Avenue B
+132915659-,postcode,10010
+132915659-,borough,MANHATTAN
+132915659-,latitude,40.727278
+132915659-,longitude,-73.979622
+132921483-,legal_name,"United Activities Unlimited, Inc."
+132921483-,address,1000 Richmond Terr Bldg P 3rd fl
+132921483-,postcode,10301
+132921483-,borough,STATEN IS
+132921483-,latitude,40.645232
+132921483-,longitude,-74.104674
+132946970-,legal_name,"Safe Horizon, Inc."
+132946970-,address,2 Lafayette Street
+132946970-,postcode,10007
+132946970-,borough,MANHATTAN
+132946970-,latitude,40.713723
+132946970-,longitude,-74.003586
+132947657-,legal_name,"Services and Advocacy for GLBT Elders, Inc. (SAGE)"
+132947657-,address,305 7th Ave
+132947657-,postcode,10001
+132947657-,borough,MANHATTAN
+132947657-,latitude,40.746817
+132947657-,longitude,-73.993655
+132953240-,legal_name,"Arts Connection, Inc."
+132953240-,address,520 Eighth Avenue
+132953240-,postcode,10018
+132953240-,borough,MANHATTAN
+132953240-,latitude,40.753612
+132953240-,longitude,-73.992417
+132972415-,legal_name,Northern Manhattan Improvement Corporation
+132972415-,address,76 Wadsworth Avenue
+132972415-,postcode,10033
+132972415-,borough,MANHATTAN
+132972415-,latitude,40.847012
+132972415-,longitude,-73.93704
+132989768-,legal_name,Washington Heights-Inwood Coalition
+132989768-,address,652 West 187 Street
+132989768-,postcode,10033
+132989768-,borough,MANHATTAN
+132989768-,latitude,40.853696
+132989768-,longitude,-73.932537
+132999528-,legal_name,"Bronx Dance Theatre, Inc."
+132999528-,address,"585 East 187th Street, 2nd Floor"
+132999528-,postcode,10458
+132999528-,borough,BRONX    
+132999528-,latitude,40.855797
+132999528-,longitude,-73.888003
+133003112-,legal_name,"Studio in a School Association, Inc."
+133003112-,address,410 West 59th Street
+133003112-,postcode,10019
+133003112-,borough,MANHATTAN
+133003112-,latitude,40.769482
+133003112-,longitude,-73.9854
+133015965-,legal_name,"Dance Theatre Etcetera, Inc. (DTE)"
+133015965-,address,480 Van Brunt Street Ste 203
+133015965-,postcode,11231
+133015965-,borough,BROOKLYN 
+133015965-,latitude,40.674431
+133015965-,longitude,-74.016345
+133046424-,legal_name,West Brighton Community Local Development Corporation
+133046424-,address,1207 Castleton Avenue
+133046424-,postcode,10310
+133046424-,borough,STATEN IS
+133046424-,latitude,40.63412
+133046424-,longitude,-74.122617
+133083068-,legal_name,"Community Healthcare Network, Inc."
+133083068-,address,79 Madison Avenue
+133083068-,postcode,10016
+133083068-,borough,MANHATTAN
+133083068-,latitude,40.744096
+133083068-,longitude,-73.985619
+133087407-,legal_name,Inwood Community Services
+133087407-,address,651 Academy Street
+133087407-,postcode,10034
+133087407-,borough,MANHATTAN
+133087407-,latitude,40.866001
+133087407-,longitude,-73.924777
+133098397-,legal_name,"Neighborhood Housing Services of East Flatbush, Inc."
+133098397-,address,2806 Church Avenue
+133098397-,postcode,11226
+133098397-,borough,BROOKLYN 
+133098397-,latitude,40.650723
+133098397-,longitude,-73.951068
+133130146-,legal_name,"Gay Men's Health Crisis, Inc"
+133130146-,address,446 W 33rd Street
+133130146-,postcode,10001
+133130146-,borough,MANHATTAN
+133130146-,latitude,40.753552
+133130146-,longitude,-73.998784
+133166308-,legal_name,Aaron Davis Hall
+133166308-,address,150 Convent Avenue
+133166308-,postcode,10031
+133166308-,borough,MANHATTAN
+133166308-,latitude,40.818329
+133166308-,longitude,-73.95102
+133170676-,legal_name,"City Harvest, Inc."
+133170676-,address,8 East 109th Street
+133170676-,postcode,10029
+133170676-,borough,MANHATTAN
+133170676-,latitude,40.795967
+133170676-,longitude,-73.949119
+133187792-,legal_name,Asian Americans for Equality
+133187792-,address,108 Norfolk Street
+133187792-,postcode,10002
+133187792-,borough,MANHATTAN
+133187792-,latitude,40.718954
+133187792-,longitude,-73.987056
+133192793-,legal_name,"Midtown Management Group, Inc."
+133192793-,address,"630 Ninth Avenue, Ste. 802"
+133192793-,postcode,10036
+133192793-,borough,MANHATTAN
+133192793-,latitude,40.760038
+133192793-,longitude,-73.991449
+133212867-,legal_name,"Broadway Housing Communities, Inc."
+133212867-,address,583 Riverside Drive 7th Floor
+133212867-,postcode,10031
+133212867-,borough,MANHATTAN
+133212867-,latitude,40.821356
+133212867-,longitude,-73.957193
+133254484-,legal_name,"BronxWorks, Inc."
+133254484-,address,60 East Tremont Avenue
+133254484-,postcode,10453
+133254484-,borough,BRONX    
+133254484-,latitude,40.851176
+133254484-,longitude,-73.908192
+133268539-,legal_name,"HOPE Program, Inc., The"
+133268539-,address,1 Smith Street 4th Floor
+133268539-,postcode,11201
+133268539-,borough,BROOKLYN 
+133268539-,latitude,40.691306
+133268539-,longitude,-73.987419
+133286250-,legal_name,"New York Asian Women's Center, Inc."
+133286250-,address,39 Bowery PMB 375
+133286250-,postcode,10002
+133286250-,borough,MANHATTAN
+133286250-,latitude,40.715738
+133286250-,longitude,-73.996367
+133323168-,legal_name,"Caribbean Women's Health Association, Inc."
+133323168-,address,3512 Church Avenue
+133323168-,postcode,11203
+133323168-,borough,BROOKLYN 
+133323168-,latitude,40.651069
+133323168-,longitude,-73.944541
+133422660-,legal_name,ENACT
+133422660-,address,"630 Ninth Ave, Suite 301"
+133422660-,postcode,10036
+133422660-,borough,MANHATTAN
+133422660-,latitude,40.760038
+133422660-,longitude,-73.991449
+133442022-,legal_name,Urban Justice Center
+133442022-,address,123 William Street 16th Floor
+133442022-,postcode,10038
+133442022-,borough,MANHATTAN
+133442022-,latitude,40.709112
+133442022-,longitude,-74.006889
+133520970-,legal_name,Children's Museum of the Arts
+133520970-,address,182 Lafayette Street
+133520970-,postcode,10013
+133520970-,borough,MANHATTAN
+133520970-,latitude,40.72064
+133520970-,longitude,-73.998568
+133556132-,legal_name,Community Health Action of Staten Island (formerly SI AIDS Taskforce)
+133556132-,address,56 Bay Street
+133556132-,postcode,10301
+133556132-,borough,STATEN IS
+133556132-,latitude,40.640624
+133556132-,longitude,-74.075704
+133556768-,legal_name,"Momentum Project, Inc., The"
+133556768-,address,322 8th Avenue
+133556768-,postcode,10001
+133556768-,borough,MANHATTAN
+133556768-,latitude,40.747294
+133556768-,longitude,-73.997023
+133580813-,legal_name,"Community Works, Inc"
+133580813-,address,55 West End Avenue
+133580813-,postcode,10023
+133580813-,borough,MANHATTAN
+133580813-,latitude,40.774058
+133580813-,longitude,-73.988681
+133584616-,legal_name,"Indochina Sino-American Senior Citizen Center, Inc."
+133584616-,address,"170 Forsyth Street, 2nd Floor"
+133584616-,postcode,10002
+133584616-,borough,MANHATTAN
+133584616-,latitude,40.721238
+133584616-,longitude,-73.991385
+133591350-,legal_name,"Harlem Business Alliance, Inc."
+133591350-,address,275 Lenox Avenue
+133591350-,postcode,10027
+133591350-,borough,MANHATTAN
+133591350-,latitude,40.806911
+133591350-,longitude,-73.946127
+133597820-,legal_name,Gay Men of African Descent (GMAD)
+133597820-,address,44 Court Street Suite 1000
+133597820-,postcode,11201
+133597820-,borough,BROOKLYN 
+133597820-,latitude,40.692591
+133597820-,longitude,-73.990963
+133599121-,legal_name,"Bronx AIDS Services, Inc."
+133599121-,address,540 E. Fordham Rd. 
+133599121-,postcode,10457
+133599121-,borough,BRONX    
+133599121-,latitude,40.859386
+133599121-,longitude,-73.887003
+133601854-,legal_name,"Metrotech Area District Management Association, Inc."
+133601854-,address,15 MetroTech Center
+133601854-,postcode,11201
+133601854-,borough,BROOKLYN 
+133601854-,latitude,40.693707
+133601854-,longitude,-73.984786
+133632234-,legal_name,"Community Research Initiative on AIDS, Inc. (d/b/a AIDS Community Research Initiative of America)"
+133632234-,address,230 West 38th Street
+133632234-,postcode,10018
+133632234-,borough,MANHATTAN
+133632234-,latitude,40.753942
+133632234-,longitude,-73.989829
+133654087-,legal_name,East Sixties Neighbohood Association Inc
+133654087-,address,1173A Second Avenue
+133654087-,postcode,10065
+133654087-,borough,MANHATTAN
+133654087-,latitude,40.762332
+133654087-,longitude,-73.963097
+133682472-,legal_name,"Midori Foundation, Inc."
+133682472-,address,352 Seventh Avenue
+133682472-,postcode,10001
+133682472-,borough,MANHATTAN
+133682472-,latitude,40.748208
+133682472-,longitude,-73.992663
+133699201-,legal_name,"Iris House - A Center For Women Living with HIV/AIDS, Inc."
+133699201-,address,2271 Second Avenue
+133699201-,postcode,10035
+133699201-,borough,MANHATTAN
+133699201-,latitude,40.797347
+133699201-,longitude,-73.937535
+133759661-,legal_name,"Dream Yard Drama Project, Inc."
+133759661-,address,1085 Washington Avenue
+133759661-,postcode,10456
+133759661-,borough,BRONX    
+133759661-,latitude,40.827978
+133759661-,longitude,-73.908755
+133778489-,legal_name,New Destiny Housing Corporation
+133778489-,address,12 W 37th Street
+133778489-,postcode,10018
+133778489-,borough,MANHATTAN
+133778489-,latitude,40.750639
+133778489-,longitude,-73.983899
+133782555-,legal_name,Northern Manhattan Perinatal Partnership
+133782555-,address,127 West 127th Street
+133782555-,postcode,10027
+133782555-,borough,MANHATTAN
+133782555-,latitude,40.809488
+133782555-,longitude,-73.945496
+133865634-,legal_name,Mercy Center 
+133865634-,address,377 East 145th Street
+133865634-,postcode,10455
+133865634-,borough,BRONX    
+133865634-,latitude,40.81384
+133865634-,longitude,-73.920403
+133904936-,legal_name,"Gambian Society in New York, Inc."
+133904936-,address,1500 Boston Road Suite 2
+133904936-,postcode,10460
+133904936-,borough,BRONX    
+133904936-,latitude,40.834973
+133904936-,longitude,-73.894052
+133938080-,legal_name,"Center for Arts Education, The"
+133938080-,address,225 West 34th Street
+133938080-,postcode,10122
+133938080-,borough,MANHATTAN
+133938080-,latitude,40.751483
+133938080-,longitude,-73.991764
+133973196-,legal_name,"Making Opportunities for Upgrading Schools and Education (MOUSE), Inc."
+133973196-,address,Puck Building 295 Lafayette St 5th Flr
+133973196-,postcode,10012
+133973196-,borough,MANHATTAN
+133973196-,latitude,40.724537
+133973196-,longitude,-73.995761
+134082027-,legal_name,Mount Sinai Center for Community Enrichment Inc.
+134082027-,address,199 Victory Boulevard
+134082027-,postcode,10301
+134082027-,borough,STATEN IS
+134082027-,latitude,40.636343
+134082027-,longitude,-74.082383
+134104889-,legal_name,"Bayview Community Council, Inc."
+134104889-,address,457 Bay Street
+134104889-,postcode,10301
+134104889-,borough,STATEN IS
+134104889-,latitude,40.631072
+134104889-,longitude,-74.076464
+134122438-,legal_name,Renaissance - EMS
+134122438-,address,3485 Third  Avenue
+134122438-,postcode,10456
+134122438-,borough,BRONX    
+134122438-,latitude,40.830224
+134122438-,longitude,-73.906233
+134189808-,legal_name,"Wingspan Arts, Inc."
+134189808-,address,630 9th Avenue
+134189808-,postcode,10024
+134189808-,borough,MANHATTAN
+134189808-,latitude,40.760038
+134189808-,longitude,-73.991449
+135562191-,legal_name,"Children's Aid Society, The"
+135562191-,address,105 East 22nd Street
+135562191-,postcode,10010
+135562191-,borough,MANHATTAN
+135562191-,latitude,40.739265
+135562191-,longitude,-73.986215
+135562204-,legal_name,"Greenwich House, Inc."
+135562204-,address,224 West 30th Street
+135562204-,postcode,10001
+135562204-,borough,MANHATTAN
+135562204-,latitude,40.748848
+135562204-,longitude,-73.993377
+135562254-,legal_name,Inwood House
+135562254-,address,320 East 82nd Street
+135562254-,postcode,10028
+135562254-,borough,MANHATTAN
+135562254-,latitude,40.774993
+135562254-,longitude,-73.952937
+135562256-,legal_name,"Jewish Community Center of Staten Island, Inc."
+135562256-,address,1466 Manor Road
+135562256-,postcode,10314
+135562256-,borough,STATEN IS
+135562256-,latitude,40.594454
+135562256-,longitude,-74.125677
+135562265-,legal_name,Legal Aid Society
+135562265-,address,199 Water Street
+135562265-,postcode,10038
+135562265-,borough,MANHATTAN
+135562265-,latitude,40.70727
+135562265-,longitude,-74.004314
+135562308-,legal_name,New York University
+135562308-,address,70 Washington Square South
+135562308-,postcode,10012
+135562308-,borough,MANHATTAN
+135562308-,latitude,40.729766
+135562308-,longitude,-73.997027
+135562989-,legal_name,Hudson Guild 
+135562989-,address,441 West 26th Street
+135562989-,postcode,10001
+135562989-,borough,MANHATTAN
+135562989-,latitude,40.749196
+135562989-,longitude,-74.001815
+135563010-,legal_name,Seamen's Society for Children and Families
+135563010-,address,50 Bay Street
+135563010-,postcode,10301
+135563010-,borough,STATEN IS
+135563010-,latitude,40.640901
+135563010-,longitude,-74.075766
+135564937-,legal_name,"Jewish Board of Family and Children's Services, Inc. (aka Pride of Judea)"
+135564937-,address,135 West 50th Street
+135564937-,postcode,10020
+135564937-,borough,MANHATTAN
+135564937-,latitude,40.760374
+135564937-,longitude,-73.981533
+135596836-,legal_name,"Women's Prison Association's Hopper Home, Inc."
+135596836-,address,110 Second Avenue 
+135596836-,postcode,11201
+135596836-,borough,BROOKLYN 
+135596836-,latitude,40.672285
+135596836-,longitude,-73.993655
+135598710-,legal_name,Good Shepherd Services
+135598710-,address,305 Seventh Avenue 9th Floor
+135598710-,postcode,10001
+135598710-,borough,MANHATTAN
+135598710-,latitude,40.746817
+135598710-,longitude,-73.993655
+135604699-,legal_name,Wagner College
+135604699-,address,Wagner College
+135604699-,postcode,10301
+135604699-,borough,STATEN IS
+135604699-,latitude,40.615583
+135604699-,longitude,-74.094478
+135669201-,legal_name,Public Health Solutions
+135669201-,address,220 Church Street
+135669201-,postcode,10013
+135669201-,borough,MANHATTAN
+135669201-,latitude,40.71683
+135669201-,longitude,-74.006454
+135675643-,legal_name,Edwin Gould Services for Children & Families
+135675643-,address,151 Lawrence Street
+135675643-,postcode,11201
+135675643-,borough,BROOKLYN 
+135675643-,latitude,40.691506
+135675643-,longitude,-73.986297
+136146854-,legal_name,Jewish Museum
+136146854-,address,1109 Fifth Avenue
+136146854-,postcode,10128
+136146854-,borough,MANHATTAN
+136146854-,latitude,40.785298
+136146854-,longitude,-73.957263
+136202692-,legal_name,"Chinese American Planning Council, Inc."
+136202692-,address,136-18 39 Ave
+136202692-,postcode,11354
+136202692-,borough,QUEENS   
+136202692-,latitude,40.76033
+136202692-,longitude,-73.829831
+136277895-,legal_name,"Hospital Audiences, Inc."
+136277895-,address,548 Broadway
+136277895-,postcode,10012
+136277895-,borough,MANHATTAN
+136277895-,latitude,40.723624
+136277895-,longitude,-73.99829
+136400571-,legal_name,New York City Housing Authority
+136400571-,address,90 Church Street
+136400571-,postcode,10007
+136400571-,borough,MANHATTAN
+136400571-,latitude,40.712586
+136400571-,longitude,-74.009775
+14-6013200,legal_name,New York County Courts Public Access Law Library
+14-6013200,address,"80 Centre Street, Room 468"
+14-6013200,postcode,10013
+14-6013200,borough,MANHATTAN
+14-6013200,latitude,40.715447
+14-6013200,longitude,-74.00189
+141719016-,legal_name,"Crenulated Company LTD, The"
+141719016-,address,1512 Townsend Avenue
+141719016-,postcode,10018
+141719016-,borough,MANHATTAN
+141719016-,latitude,40.753475
+141719016-,longitude,-73.990594
+16-0743902,legal_name,American Cancer Society
+16-0743902,address,2 Lyon Place
+16-0743902,postcode,10314
+16-0743902,borough,STATEN IS
+16-0743902,latitude,40.617286
+16-0743902,longitude,-74.147833
+16-1759590,legal_name,Legal Services NYC - Bronx
+16-1759590,address,350 Broadway
+16-1759590,postcode,10013
+16-1759590,borough,MANHATTAN
+16-1759590,latitude,40.716954
+16-1759590,longitude,-74.003943
+160743902-,legal_name,American Cancer Society
+160743902-,address,41-60 Main Street Suite 307
+160743902-,postcode,11355
+160743902-,borough,QUEENS   
+160743902-,latitude,40.756477
+160743902-,longitude,-73.828725
+161759590-,legal_name,Legal Services for New York - Bronx
+161759590-,address,579 Courtlandt Avenue
+161759590-,postcode,10451
+161759590-,borough,BRONX    
+161759590-,latitude,40.817397
+161759590-,longitude,-73.919178
+20-0069773,legal_name,"Serving Those Who Serve, Inc."
+20-0069773,address,"345 West 86th Street, Site 812"
+20-0069773,postcode,10024
+20-0069773,borough,MANHATTAN
+20-0069773,latitude,40.789773
+20-0069773,longitude,-73.979943
+20-0092728,legal_name,Families United for Racial and Economic Equality (FUREE)
+20-0092728,address,"81 Willoughby Street, Suite 701"
+20-0092728,postcode,11210
+20-0092728,borough,BROOKLYN 
+20-0092728,latitude,40.692184
+20-0092728,longitude,-73.985753
+20-1923521,legal_name,Masbia
+20-1923521,address,4114 14th Avenue
+20-1923521,postcode,11219
+20-1923521,borough,BROOKLYN 
+20-1923521,latitude,40.638041
+20-1923521,longitude,-73.985407
+20-3235905,legal_name,"Trinity Healing Center, Inc."
+20-3235905,address,"7305 5th Avenue, PMB #272"
+20-3235905,postcode,11209
+20-3235905,borough,BROOKLYN 
+20-3235905,latitude,40.630867
+20-3235905,longitude,-74.022063
+20-4736648,legal_name,Gay and Lesbian Dominican Empowerment Organization (GALDE)
+20-4736648,address,"236 East Gun Hill Road, Box 55"
+20-4736648,postcode,10467
+20-4736648,borough,BRONX    
+20-4736648,latitude,40.880111
+20-4736648,longitude,-73.876492
+20-5559159,legal_name,New Amsterdam Public Market
+20-5559159,address,224 Front Street
+20-5559159,postcode,10038
+20-5559159,borough,MANHATTAN
+20-5559159,latitude,40.707487
+20-5559159,longitude,-74.002229
+200351906-,legal_name,Young Women's Christian Association of Queens (YWCA)
+200351906-,address,42-07 Parsons Blvd. 
+200351906-,postcode,11355
+200351906-,borough,QUEENS   
+200351906-,latitude,40.757857
+200351906-,longitude,-73.819077
+201209795-,legal_name,Sauti Yetu Center for African Women
+201209795-,address,2417 Third Avenue Suite 607
+201209795-,postcode,10453
+201209795-,borough,BRONX    
+201209795-,latitude,40.808492
+201209795-,longitude,-73.930665
+201458258-,legal_name,"Musical Chairs Chamber Ensemble, Inc."
+201458258-,address,850 Howard Avenue Suite 1J
+201458258-,postcode,10301
+201458258-,borough,STATEN IS
+201458258-,latitude,40.612648
+201458258-,longitude,-74.098623
+201923521-,legal_name,Masbia
+201923521-,address,4114 14th Avenue
+201923521-,postcode,11219
+201923521-,borough,BROOKLYN 
+201923521-,latitude,40.638041
+201923521-,longitude,-73.985407
+205332584-,legal_name,"Purelements: An Evolution in Dance, Inc."
+205332584-,address,1958 Fulton Street
+205332584-,postcode,11233
+205332584-,borough,BROOKLYN 
+205332584-,latitude,40.678793
+205332584-,longitude,-73.920384
+23-7039817,legal_name,Baruch College/Research Foundation
+23-7039817,address,1 Bernard Baruch Way
+23-7039817,postcode,10010
+23-7039817,borough,MANHATTAN
+23-7039817,latitude,40.740601
+23-7039817,longitude,-73.983389
+23-7061382,legal_name,"Special Olympics New York, Inc."
+23-7061382,address,"211 East 43rd Street, Suite 802"
+23-7061382,postcode,10019
+23-7061382,borough,MANHATTAN
+23-7061382,latitude,40.751238
+23-7061382,longitude,-73.973458
+23-7072915,legal_name,"Brooklyn Arts Council, Inc."
+23-7072915,address,55 Washington Street
+23-7072915,postcode,11201
+23-7072915,borough,BROOKLYN 
+23-7072915,latitude,40.70273
+23-7072915,longitude,-73.989602
+23-7091329,legal_name,"Camelot of Staten Island, Inc."
+23-7091329,address,"4442 Arthur Kill Road, Suite 4"
+23-7091329,postcode,10309
+23-7091329,borough,STATEN IS
+23-7091329,latitude,40.533816
+23-7091329,longitude,-74.236837
+23-7175609,legal_name,"Education and Assistance Corporation (EAC), Inc."
+23-7175609,address,50 Clinton Street
+23-7175609,postcode,11550
+23-7175609,borough,BROOKLYN 
+23-7175609,latitude,40.693307
+23-7175609,longitude,-73.991634
+23-7379930,legal_name,Staten Island Children's Museum
+23-7379930,address,1000 Richmond Terrace
+23-7379930,postcode,10301
+23-7379930,borough,STATEN IS
+23-7379930,latitude,40.645232
+23-7379930,longitude,-74.104674
+23-7448611,legal_name,"Thalia Spanish Theatre, Inc."
+23-7448611,address,41-17 Greenpoint Avenue
+23-7448611,postcode,11104
+23-7448611,borough,QUEENS   
+23-7448611,latitude,40.740108
+23-7448611,longitude,-73.9238
+237072915-,legal_name,"Brooklyn Arts Council, Inc."
+237072915-,address,55 Washington St.
+237072915-,postcode,11201
+237072915-,borough,BROOKLYN 
+237072915-,latitude,40.70273
+237072915-,longitude,-73.989602
+237169558-,legal_name,West Harlem Group Assistance
+237169558-,address,1652 Amsterdam Ave
+237169558-,postcode,10031
+237169558-,borough,MANHATTAN
+237169558-,latitude,40.823164
+237169558-,longitude,-73.949131
+237170675-,legal_name,"Bronx Opera Company, Inc."
+237170675-,address,5 Minerva Place
+237170675-,postcode,10468-1638
+237170675-,borough,BRONX    
+237170675-,latitude,40.871469
+237170675-,longitude,-73.891036
+237348989-,legal_name,"Korean Community Services of Metropolitan New York, Inc."
+237348989-,address,35-56 159th Street
+237348989-,postcode,11358
+237348989-,borough,QUEENS   
+237348989-,latitude,40.765263
+237348989-,longitude,-73.806158
+237379930-,legal_name,Staten Island Children's Museum
+237379930-,address,1000 Richmond Terrace
+237379930-,postcode,10301
+237379930-,borough,STATEN IS
+237379930-,latitude,40.645232
+237379930-,longitude,-74.104674
+237398279-,legal_name,"Neighborhood Housing Services of Jamaica, Inc."
+237398279-,address,89-70 162 Street
+237398279-,postcode,11432
+237398279-,borough,QUEENS   
+237398279-,latitude,40.705147
+237398279-,longitude,-73.798218
+237406410-,legal_name,"SBH Community Service Network, Inc. (Sephardic Bikur Cholim) "
+237406410-,address,425 Kings Highway
+237406410-,postcode,11223
+237406410-,borough,BROOKLYN 
+237406410-,latitude,40.604431
+237406410-,longitude,-73.974308
+237442256-,legal_name,"New York Junior Tennis League, Inc."
+237442256-,address,58-12 Queens Blvd
+237442256-,postcode,11377
+237442256-,borough,QUEENS   
+237442256-,latitude,40.741828
+237442256-,longitude,-73.907281
+26-0681729,legal_name,"Gowanus Canal Conservancy, Inc."
+26-0681729,address,"540 President Street, 3rd Floor"
+26-0681729,postcode,11215
+26-0681729,borough,BROOKLYN 
+26-0681729,latitude,40.677354
+26-0681729,longitude,-73.984973
+26-2214534,legal_name,"Brooklyn Community Pride Center, Inc."
+26-2214534,address,"93 Montague Street, 339"
+26-2214534,postcode,11201
+26-2214534,borough,BROOKLYN 
+26-2214534,latitude,40.695133
+26-2214534,longitude,-73.995503
+26-2671377,legal_name,"Border Crossers, Inc."
+26-2671377,address,"32 Broadway, Suite 1801"
+26-2671377,postcode,10004
+26-2671377,borough,MANHATTAN
+26-2671377,latitude,40.706045
+26-2671377,longitude,-74.013096
+260774611-,legal_name,"Imeinu, Inc."
+260774611-,address,3815 Avenue P
+260774611-,postcode,11234
+260774611-,borough,BROOKLYN 
+260774611-,latitude,40.617337
+260774611-,longitude,-73.936994
+264178283-,legal_name,Louis Armstrong House
+264178283-,address,34-56 107th Street
+264178283-,postcode,11368
+264178283-,borough,QUEENS   
+264178283-,latitude,40.754932
+264178283-,longitude,-73.861398
+30-0064721,legal_name,"161st Street Merchants Association, Inc."
+30-0064721,address,"2865 Kingsbridge Terrace, Suite 7M"
+30-0064721,postcode,10463
+30-0064721,borough,BRONX    
+30-0064721,latitude,40.874317
+30-0064721,longitude,-73.902631
+30-0493227,legal_name,"We Care Media Arts, Inc."
+30-0493227,address,100 East 73rd Street
+30-0493227,postcode,10021
+30-0493227,borough,MANHATTAN
+30-0493227,latitude,40.77164
+30-0493227,longitude,-73.962994
+31-1128984,legal_name,"Halloran Memorial Chapter #34, Disabled American Veterans"
+31-1128984,address,196 Stobe Avenue
+31-1128984,postcode,10305
+31-1128984,borough,STATEN IS
+31-1128984,latitude,40.582784
+31-1128984,longitude,-74.099169
+331194964-,legal_name,"Rosie's Broadway Kids, Inc."
+331194964-,address,445 West 45th Street
+331194964-,postcode,10036
+331194964-,borough,MANHATTAN
+331194964-,latitude,40.761177
+331194964-,longitude,-73.993156
+35-2262561,legal_name,"Zimmer Club Youth Conservation Program of Staten Island, Inc."
+35-2262561,address,35 Florence Place
+35-2262561,postcode,10309
+35-2262561,borough,STATEN IS
+35-2262561,latitude,40.524351
+35-2262561,longitude,-74.201524
+364391337-,legal_name,"Battalion Pentecostal Assembly, Inc."
+364391337-,address,454 BEACH 67 STREET
+364391337-,postcode,11692
+364391337-,borough,QUEENS   
+364391337-,latitude,40.593999
+364391337-,longitude,-73.796263
+431952083-,legal_name,"DWA Fanm, Inc."
+431952083-,address,30 THIRD AVENUE
+431952083-,postcode,11217
+431952083-,borough,BROOKLYN 
+431952083-,latitude,40.68581
+431952083-,longitude,-73.980385
+450476945-,legal_name,Sundog Theatre
+450476945-,address,370 Saint Marks Place 
+450476945-,postcode,10301
+450476945-,borough,STATEN IS
+450476945-,latitude,40.640357
+450476945-,longitude,-74.077614
+51-0135262,legal_name,"Black Spectrum Theatre Company, Inc."
+51-0135262,address,119-07 Merrick Boulevard
+51-0135262,postcode,11434
+51-0135262,borough,QUEENS   
+51-0135262,latitude,40.685612
+51-0135262,longitude,-73.772853
+51-0186869,legal_name,"Bronx Arts Ensemble, Inc."
+51-0186869,address,"80 Van Cortlandt Park South, Suite 7D-1"
+51-0186869,postcode,10463
+51-0186869,borough,BRONX    
+51-0186869,latitude,40.884706
+51-0186869,longitude,-73.889991
+51-0188251,legal_name,Flatbush Development Corporation
+51-0188251,address,1616 Newkirk Avenue
+51-0188251,postcode,11226
+51-0188251,borough,BROOKLYN 
+51-0188251,latitude,40.63604
+51-0188251,longitude,-73.962241
+51-0204121,legal_name,"Jamaica Service Program for Older Adults, Inc. (JSPOA)"
+51-0204121,address,"162-04 Jamaica Avenue, 3rd Floor"
+51-0204121,postcode,11432
+51-0204121,borough,QUEENS   
+51-0204121,latitude,40.704268
+51-0204121,longitude,-73.797827
+51-0477952,legal_name,Fiorentino Plaza Tenant Association
+51-0477952,address,2155 Pitkin Avenue
+51-0477952,postcode,11207
+51-0477952,borough,BROOKLYN 
+51-0477952,latitude,40.672343
+51-0477952,longitude,-73.892897
+51-0590963,legal_name,Iglesia Metodista Unida de Jamaica
+51-0590963,address,162-10 Highland Avenue
+51-0590963,postcode,11432
+51-0590963,borough,QUEENS   
+51-0590963,latitude,40.709879
+51-0590963,longitude,-73.800873
+510186869-,legal_name,Bronx Arts Ensemble
+510186869-,address,80 Van Courtlandt Park South
+510186869-,postcode,10463
+510186869-,borough,BRONX    
+510186869-,latitude,40.884706
+510186869-,longitude,-73.889991
+510192170-,legal_name,St. Nick's Alliance Corporation
+510192170-,address,2 Kingsland Avenue
+510192170-,postcode,11211
+510192170-,borough,BROOKLYN 
+510192170-,latitude,40.715895
+510192170-,longitude,-73.940025
+510204121-,legal_name,"Jamaica Service Program for Older Adults, Inc. (JSPOA)"
+510204121-,address,162-04 Jamaica Ave 3rd Floor
+510204121-,postcode,11432
+510204121-,borough,QUEENS   
+510204121-,latitude,40.704268
+510204121-,longitude,-73.797827
+52-2338321,legal_name,"Minerva Mirabal, Inc."
+52-2338321,address,839 Riverside Drive
+52-2338321,postcode,10032
+52-2338321,borough,MANHATTAN
+52-2338321,latitude,40.836368
+52-2338321,longitude,-73.946613
+52-2440116,legal_name,"CEC Stuyvesant Cove, Inc."
+52-2440116,address,43-10 11th Street
+52-2440116,postcode,11101
+52-2440116,borough,QUEENS   
+52-2440116,latitude,40.751565
+52-2440116,longitude,-73.948312
+521053406-,legal_name,"Open Space Institute, Inc."
+521053406-,address,1350 Broadway Suite 201
+521053406-,postcode,10018
+521053406-,borough,MANHATTAN
+521053406-,latitude,40.751306
+521053406-,longitude,-73.987656
+57-1147217,legal_name,"Real World Foundation, Inc."
+57-1147217,address,"131 Avenue B, 1st Floor"
+57-1147217,postcode,10009
+57-1147217,borough,MANHATTAN
+57-1147217,latitude,40.725911
+57-1147217,longitude,-73.98059
+58-2674169,legal_name,"Be Proud, Inc. "
+58-2674169,address,2805 East 26th Street
+58-2674169,postcode,11235
+58-2674169,borough,BROOKLYN 
+58-2674169,latitude,40.584616
+58-2674169,longitude,-73.942753
+61-1567317,legal_name,"Brooklyn Congregations United, Inc."
+61-1567317,address,2806 Newkirk Avenue
+61-1567317,postcode,11226
+61-1567317,borough,BROOKLYN 
+61-1567317,latitude,40.639872
+61-1567317,longitude,-73.950135
+62-1823291,legal_name,"Christ the Rock International, Inc."
+62-1823291,address,1958 Fulton Street
+62-1823291,postcode,11233
+62-1823291,borough,BROOKLYN 
+62-1823291,latitude,40.678793
+62-1823291,longitude,-73.920384
+651209580-,legal_name,Astoria Performing Arts Center
+651209580-,address,34-23 Steinway Street
+651209580-,postcode,11101
+651209580-,borough,QUEENS   
+651209580-,latitude,40.756202
+651209580-,longitude,-73.921241
+75-3046891,legal_name,"Council of Peoples Organization, Inc."
+75-3046891,address,1081 Coney Island Avenue
+75-3046891,postcode,11230
+75-3046891,borough,BROOKLYN 
+75-3046891,latitude,40.631068
+75-3046891,longitude,-73.966441
+75-3139502,legal_name,"Kids Creative 404, Inc."
+75-3139502,address,"32 Broadway, Suite 1801"
+75-3139502,postcode,10004
+75-3139502,borough,MANHATTAN
+75-3139502,latitude,40.706045
+75-3139502,longitude,-74.013096
+753260289-,legal_name,"Reversing the Projections, Inc. "
+753260289-,address,113-35 Farmers Boulevard
+753260289-,postcode,11412
+753260289-,borough,QUEENS   
+753260289-,latitude,40.698506
+753260289-,longitude,-73.762513
+83-0506416,legal_name,Center for New York City Neighborhoods
+83-0506416,address,74 TRINITY PLACE SUITE 1302
+83-0506416,postcode,10006
+83-0506416,borough,MANHATTAN
+83-0506416,latitude,40.708387
+83-0506416,longitude,-74.012563
+86-1056388,legal_name,"New York Classical Theatre, Inc."
+86-1056388,address,"40 West 116th Street, B1004"
+86-1056388,postcode,10026
+86-1056388,borough,MANHATTAN
+86-1056388,latitude,40.80145
+86-1056388,longitude,-73.948342
+133440226-,legal_name,Dynamic Forms Inc.
+133440226-,address,"107 suffolk Street, Suite 310"
+133440226-,postcode,10002
+133440226-,borough,MANHATTAN
+133440226-,latitude,40.718943
+133440226-,longitude,-73.986122
+133317188-,legal_name,"City-Wide Task Force on Housing Court, Inc."
+133317188-,address,125 Maiden Lane
+133317188-,postcode,10038
+133317188-,borough,MANHATTAN
+133317188-,latitude,40.706397
+133317188-,longitude,-74.006341
+200367608,legal_name,"ISSUE Project Room, Inc."
+200367608,address,232 3rd Street 3rd Floor
+200367608,postcode,11215
+200367608,borough,BROOKLYN 
+200367608,latitude,40.674909
+200367608,longitude,-73.987671
+13-3419786,legal_name,"Broadway Mall Maintenance Fund, Inc."
+13-3419786,address,255 West 90th Street
+13-3419786,postcode,10024
+13-3419786,borough,MANHATTAN
+13-3419786,latitude,40.791089
+13-3419786,longitude,-73.975132
+132605599-,legal_name,Brooklyn Legal Services Corporation A
+132605599-,address,256-260 Broadway
+132605599-,postcode,11238
+132605599-,borough,BROOKLYN 
+132605599-,latitude,40.708962
+132605599-,longitude,-73.95948
+13-3098397,legal_name,"Neighborhood Housing Services of East Flatbush, Inc."
+13-3098397,address,2806 Church Avenue 
+13-3098397,postcode,11226
+13-3098397,borough,BROOKLYN 
+13-3098397,latitude,40.650723
+13-3098397,longitude,-73.951068
+13-3682472,legal_name,"Midori Foundation, Inc., The (d/b/a Midori and Friends)"
+13-3682472,address,"352 7th Avenue, Suite 301"
+13-3682472,postcode,10001
+13-3682472,borough,MANHATTAN
+13-3682472,latitude,40.748208
+13-3682472,longitude,-73.992663
+13-2814763,legal_name,"New Federal Theatre, Inc."
+13-2814763,address,292 Henry Street
+13-2814763,postcode,10002
+13-2814763,borough,MANHATTAN
+13-2814763,latitude,40.713999
+13-2814763,longitude,-73.983118
+13-2612524,legal_name,Fund for the City of New York - Crown Heights Community Meditation Center
+13-2612524,address,"121 Avenue of the Americas, 6th Floor"
+13-2612524,postcode,10013
+13-2612524,borough,MANHATTAN
+13-2612524,latitude,40.723903
+13-2612524,longitude,-74.00469
+13-3987945,legal_name,"New York Road Runners Foundation, Inc."
+13-3987945,address,845 3rd Avenue 
+13-3987945,postcode,10022
+13-3987945,borough,MANHATTAN
+13-3987945,latitude,40.756688
+13-3987945,longitude,-73.970128
+11-2047151  ,legal_name,"Catholic Charities Neighborhood Services, Inc."
+11-2047151  ,address,191 Joralemon Street
+11-2047151  ,postcode,11201
+11-2047151  ,borough,BROOKLYN 
+11-2047151  ,latitude,40.692671
+11-2047151  ,longitude,-73.991785
+621823291-,legal_name,"Christ the Rock International, Inc."
+621823291-,address,1958 Fulton Street
+621823291-,postcode,11233
+621823291-,borough,BROOKLYN 
+621823291-,latitude,40.678793
+621823291-,longitude,-73.920384
+13-2605604,legal_name,Queens Legal Services Corporation
+13-2605604,address,350 Broadway
+13-2605604,postcode,10013
+13-2605604,borough,MANHATTAN
+13-2605604,latitude,40.716954
+13-2605604,longitude,-74.003943

@@ -1,0 +1,1137 @@
+tid,attribute,correct_val
+9780023606922,title,algorithms
+9780023606922,author_list,richard johnsonbaugh; marcus schaefer
+9780026648172,title,windows 98: the introductory program with 3.5 data disk
+9780026648172,author_list,mcgraw-hill
+9780028044071,title,windows 2000 : a tutorial to accompany peter nortons introduction to computers; student edition with cd-rom
+9780028044071,author_list,peter norton
+9780028048918,title,windows 98: complete course
+9780028048918,author_list,robert goldhamer
+9780028048970,title,windows 2000: complete course
+9780028048970,author_list,robert goldhamer
+9780028055879,title,a professional series approach: excel 2000 level 1 core student edition (professional approach s.)
+9780028055879,author_list,carole tobias
+9780028055893,title,a professional approach series: access 2000 levels 1 and 2 core and expert student edition
+9780028055893,author_list,kathleen stewart
+9780028055923,title,a professional approach series: word 2000 level 1 core student edition
+9780028055923,author_list,deborah hinkle
+9780070379909,title,schaum's outline of essential computer mathematics
+9780070379909,author_list,seymour lipschutz
+9780071345545,title,schaum's outline of introduction to computer science
+9780071345545,author_list,pauline cushman;ramon mata-toledo
+9780071362856,title,schaum's outline of computer networking
+9780071362856,author_list,ed tittel
+9780071374736,title,verilog computer-based training course
+9780071374736,author_list,zainalabedin navabi
+9780071409278,title,complete digital design: a comprehensive guide to digital electronics and computer system architecture (professional engineering)
+9780071409278,author_list,mark balch
+9780072223194,title,mcse windows server 2003 active directory infrastructure study guide (exam 70-294)
+9780072223194,author_list,dennis suhanovs
+9780072223224,title,mcse/mcsa managing and maintaining a windows server 2003 environment study guide (exam 70-290)
+9780072223224,author_list,anil desai
+9780072223255,title,mcse planning a windows server 2003 network study guide (exam 70-293) (certification press)
+9780072223255,author_list,diana huggins
+9780072224986,title,mcsa windows(r) 2000 boxed set (exams 70-210; 70-215;70-218)
+9780072224986,author_list,alan simpson
+9780072225648,title,hacking linux exposed; second edition
+9780072225648,author_list,brian hatch;james lee
+9780072225662,title,mcse/mcsa implementing a windows server 2003 network infrastructure study guide (exam 70-291)
+9780072225662,author_list,rory mccaw; kenneth s. lind
+9780072225754,title,mike meyers' mcse/mcsa windows server 2003 active directory certification passport (exam 70-294)
+9780072225754,author_list,brian culp
+9780072226324,title,introduction to pc hardware and troubleshooting
+9780072226324,author_list,michael meyers
+9780072226959,title,introduction to unix and linux
+9780072226959,author_list,john muster
+9780072226973,title,network security: the complete reference
+9780072226973,author_list,mark rhodes-ousley; roberta bragg; keith strassberg
+9780072227413,title,mike meyers' security+ certification passport (passport)
+9780072227413,author_list,trevor kay
+9780072227765,title,microsoft sql server 2005 new features
+9780072227765,author_list,michael otey
+9780072227840,title,hacknotes(tm) web security pocket reference
+9780072227840,author_list,mike shema
+9780072227857,title,hacknotes(tm) windows security portable reference
+9780072227857,author_list,michael o'dea
+9780072227864,title,hacknotes(tm) linux and unix security portable reference
+9780072227864,author_list,nitesh dhanjani
+9780072229233,title,the healthy pc: preventive care and home remedies for your computer
+9780072229233,author_list,carey holzman
+9780072230666,title,oracle database 10g pl/sql programming
+9780072230666,author_list,scott urman; ron hardman; michael mclaughlin
+9780072230932,title,fundamentals of network security
+9780072230932,author_list,eric maiwald
+9780072231182,title,mike meyersandapos; a+ guide to managing and troubleshooting pcs lab manual (m-h/cindas data series on material properties)
+9780072231182,author_list,michael meyers; lloyd jeffries
+9780072231199,title,mike meyers' a+ guide to pc hardware
+9780072231199,author_list,michael meyers
+9780072231236,title,mike meyers' a+ guide to operating systems lab manual
+9780072231236,author_list,michael meyers; michael meyers
+9780072231243,title,mike meyers' a+ guide to operating systems
+9780072231243,author_list,michael meyers
+9780072231465,title,mike meyers' a+ guide to managing and troubleshooting pcs
+9780072231465,author_list,michael meyers
+9780072231915,title,coreldraw 12 the official guide
+9780072231915,author_list,steve bain
+9780072232066,title,microsoft office access 2003: a professional approach; comprehensive student edition w/ cd-rom
+9780072232066,author_list,jon juarez; john carter; kathleen stewart
+9780072232196,title,mcse planning a windows(r) server network infrastructure study guide (exam 70-293) with windows(r) server 2003 180-day trial software
+9780072232196,author_list,diana huggins
+9780072232325,title,mcse/mcsa windows? server 2003 environment study guide (exam 70-290) with microsoft windows(r) server 2003 180-day trial
+9780072232325,author_list,anil desai
+9780072253603,title,scjp sun certified programmer for java 5 study guide (exam 310-055) (certification press study guides)
+9780072253603,author_list,katherine sierra; bert bates
+9780072253658,title,rhce red hat certified engineer linux study guide exam (rh302)
+9780072253658,author_list,michael jang
+9780072254280,title,oracle database 10g high availability with rac; flashback; and data guard (osborne oracle press series)
+9780072254280,author_list,matthew hart; scott jesse
+9780072254631,title,simnet concepts release 1.5
+9780072254631,author_list,triad interactive
+9780072254914,title,advanced programming using visual basic.net with student cd
+9780072254914,author_list,julia case bradley; anita c millspaugh
+9780072255539,title,the pc doctor's fix it yourself guide
+9780072255539,author_list,adrian kingsley-hughes
+9780072255881,title,photoshop and dreamweaver integration (one-off)
+9780072255881,author_list,colin smith
+9780072256758,title,hacking exposed computer forensics: secrets and solutions
+9780072256758,author_list,chris davis; aaron philipp; dave cowen
+9780072257045,title,capm(tm) certified associate in project management all-in-one exam guide
+9780072257045,author_list,joseph phillips
+9780072263206,title,cwsp certified wireless security professional official study guide (exam pw0-200); second edition
+9780072263206,author_list,tom carpenter; grant moerschel; richard dreger
+9780072263848,title,java : a beginner's guide; 4th ed
+9780072263848,author_list,herbert schildt
+9780072300413,title,computer concepts in econonomics
+9780072300413,author_list,donna thompson
+9780072320862,title,computer organization
+9780072320862,author_list,v. carl hamacher; zvonko g. vranesic; safwat g. zaky
+9780072337488,title,o'leary series: microsoft powerpoint 2000 introductory edition
+9780072337488,author_list,timothy j o'leary linda i o'leary
+9780072371925,title,the statistical imagination (with free computer applications cd-rom and student version spss 9.0)
+9780072371925,author_list,ferris j. ritchey
+9780072397024,title,business data communications
+9780072397024,author_list,behrouz a forouzan
+9780072472509,title,the o'leary series: windows xp- brief
+9780072472509,author_list,timothy j. o'leary; linda i. o'leary; linda o'leary
+9780072478808,title,annual editions: computers in education
+9780072478808,author_list,john hirschbuhl
+9780072499544,title,o'leary series: ms office 2000 enhanced edition
+9780072499544,author_list,timothy j o'leary linda i o'leary timothy o'leary
+9780072551877,title,simnet xpert combined pageout edition release 3.0
+9780072551877,author_list,triad interactive
+9780072552584,title,it today with interactive companion 3.0
+9780072552584,author_list,mcgraw-hill
+9780072560312,title,programming the web using xhtml and javascript
+9780072560312,author_list,larry randles lagerstrom; larry lagerstrom
+9780072565089,title,bluej the interactive environment cd
+9780072565089,author_list,rosenberg
+9780072565850,title,microsoft xp handbook: your guide to transitioning to office xp and windows xp
+9780072565850,author_list,harry knight
+9780072830613,title,i-series : microsoft office access 2003 introductory
+9780072830613,author_list,stephen haag; james t perry; merrill wells
+9780072830767,title,i-series: microsoft office access 2003 complete
+9780072830767,author_list,stephen haag; james t perry
+9780072834345,title,advantage series : microsoft office access 2003; complete edition
+9780072834345,author_list,glen coulthard; sarah hutchinson_clifford
+9780072835595,title,o'leary series : microsoft access 2003 introductory
+9780072835595,author_list,timothy j o'leary; linda i o'leary
+9780072844528,title,programming the web using visual studio .net w/student cd
+9780072844528,author_list,david mercer; david mercer
+9780072845501,title,programming the web using xml (web developer series)
+9780072845501,author_list,ellen pearlman; eileen mullin
+9780072847154,title,annual editions: computers in education 04/05
+9780072847154,author_list,john hirschbuhl
+9780072872156,title,simnet concepts: an interactive student cd-rom
+9780072872156,author_list,triad interactive
+9780072944792,title,simnet xpert combined pageout edition release 3.1
+9780072944792,author_list,triad interactive
+9780072944815,title,simnet xpert assessment pageout release 3.1
+9780072944815,author_list,triad interactive
+9780072944822,title,simnet xpert combined standard edition release 3.1
+9780072944822,author_list,triad interactive
+9780072944846,title,simnet xpert assessment standard edition release 3.1
+9780072944846,author_list,triad interactive
+9780072958706,title,simnet xpert release 4 combined standard edition
+9780072958706,author_list,triad interactive
+9780072958713,title,simnet xpert release 4 combined pageout edition
+9780072958713,author_list,triad interactive
+9780072966237,title,simnet xpert release 4 enterprise edition office suite
+9780072966237,author_list,triad interactive
+9780072971293,title,simnet for office 2003 standard edition
+9780072971293,author_list,triad interactive
+9780072978476,title,peter norton's computing fundamentals 6e
+9780072978476,author_list,peter norton
+9780072978902,title,peter norton's intro to computers 6/e
+9780072978902,author_list,peter norton
+9780073131122,title,computer accounting essentials using quickbooks
+9780073131122,author_list,carol yacht; susan crosson
+9780073131146,title,computer accounting with quickbooks 2006
+9780073131146,author_list,donna ulmer
+9780073273266,title,computer accounting with microsoft great plains 8.0 w/ software cd
+9780073273266,author_list,carol yacht; susan crosson
+9780073273273,title,computer accounting essentials w/great plains 8.0 cd
+9780073273273,author_list,carol yacht; susan crosson
+9780073288512,title,computer accounting with peachtree complete 2006; release 13.0 w/student cd-rom
+9780073288512,author_list,carol yacht; peachtree software
+9780073528328,title,computers in society 06/07
+9780073528328,author_list,paul de palma
+9780073660967,title,programming logic for business
+9780073660967,author_list,laura saret
+9780078204616,title,a professional approach series: office 2000 integrated applications student edition with cd-rom
+9780078204616,author_list,joyce gleason
+9780078216770,title,introduction to help desk concepts and skills
+9780078216770,author_list,susan sanderson
+9780120421718,title,network simulation experiments manual (the morgan kaufmann series in networking)
+9780120421718,author_list,emad aboelela
+9780120510405,title,information tasks (library and information science)
+9780120510405,author_list,bryce l. allen
+9780120884223,title,gmpls: architecture and applications (the morgan kaufmann series in networking)
+9780120884223,author_list,adrian farrel; igor bryskin
+9780120884773,title,network algorithmics;: an interdisciplinary approach to designing fast networked devices (the morgan kaufmann series in networking)
+9780120884773,author_list,george varghese
+9780120885602,title,smart phone and next generation mobile computing (morgan kaufmann series in networking (paperback))
+9780120885602,author_list,pei zheng; lionel ni
+9780120887989,title,data model patterns: a metadata map (the morgan kaufmann series in data management systems)
+9780120887989,author_list,david c. hay
+9780120887996,title,moving objects databases (the morgan kaufmann series in data management systems) (the morgan kaufmann series in data management systems)
+9780120887996,author_list,ralf hartmut guting; markus schneider
+9780120959709,title,modern information systems for managers
+9780120959709,author_list,hossein bidgoli
+9780121028206,title,the system engineer's handbook (the morgan kaufmann series in computer architecture and design)
+9780121028206,author_list,john black
+9780121339609,title,art and science of digital compositing
+9780121339609,author_list,ron brinkman
+9780121604523,title,carrington enterprise directory and security implementation guide
+9780121604523,author_list,charles carrington; tim speed; juanita ellis
+9780121631031,title,handbook of computer crime investigation: forensic tools and technology
+9780121631031,author_list,eoghan casey
+9780121631048,title,digital evidence and computer crime
+9780121631048,author_list,eoghan casey
+9780121631055,title,investigating child exploitation and pornography: the internet; law and forensic science
+9780121631055,author_list,monique ferraro; eoghan casey
+9780121942755,title,fuzzy modeling tools for data mining and knowledge discovery (the morgan kaufmann series in data management systems)
+9780121942755,author_list,earl cox
+9780122374715,title,the internet security guidebook: from planning to deployment (the korper and ellis e-commerce books series)
+9780122374715,author_list,juanita ellis; tim speed
+9780122513411,title,mac os x developer's guide
+9780122513411,author_list,jesse feiler
+9780122941511,title,supply chain design and management (academic press series in engineering)
+9780122941511,author_list,manish govil; jean-marie proth
+9780123116338,title,network security: a practical approach (the morgan kaufmann series in networking)
+9780123116338,author_list,jan l. harrington
+9780123229809,title,cache memory book; the; second edition (the morgan kaufmann series in computer architecture and design)
+9780123229809,author_list,jim handy
+9780123540515,title,rapid contextual design: a how-to guide to key techniques for user-centered design (the morgan kaufmann series in interactive technologies)
+9780123540515,author_list,karen holtzblatt; jessamyn burns wendell; shelley wood
+9780123694461,title,foundations of multidimensional and metric data structures (the morgan kaufmann series in computer graphics)
+9780123694461,author_list,hanan samet
+9780123694591,title,computers as components principles of embedded computing system design
+9780123694591,author_list,wayne wolf
+9780123694737,title,programming with quartz: 2d and pdf graphics in mac os x (the morgan kaufmann series in computer graphics)
+9780123694737,author_list,david gelphman; bunny laden
+9780123695123,title,joe celko's analytics and olap in sql (the morgan kaufmann series in data management systems)
+9780123695123,author_list,joe celko
+9780123695130,title,fastsoa: the way to use native xml technology to achieve service oriented architecture governance; scalability; and performance (the morgan kaufmann series in data management systems)
+9780123695130,author_list,frank cohen
+9780123695314,title,pattern recognition
+9780123695314,author_list,sergios theodoridis; konstantinos koutroumbas
+9780123725011,title,practical model-based testing: a tools approach
+9780123725011,author_list,mark utting; bruno legeard
+9780123735775,title,data preparation for data mining using sas (the morgan kaufmann series in data management systems)
+9780123735775,author_list,mamdouh refaat
+9780123735966,title,joe celko's sql puzzles and answers (morgan kaufmann series in data management systems)
+9780123735966,author_list,joe celko
+9780124383807,title,fundamentals of spatial information systems (apic studies in data processing)
+9780124383807,author_list,robert laurini; derek thompson
+9780124477513,title,ipv6 core protocols implementation (the morgan kaufmann series in networking)
+9780124477513,author_list,qing li; tatuya jinmei; keiichi shima
+9780124558403,title,enterprise knowledge management: the data quality approach (the morgan kaufmann series in data management systems)
+9780124558403,author_list,david loshin
+9780124650305,title,information services for innovative organizations (library and information science)
+9780124650305,author_list,carmel maguire
+9780124841406,title,computer simulation: a practical perspective
+9780124841406,author_list,roger mchaney
+9780125184069,title,usability engineering
+9780125184069,author_list,jakob nielsen
+9780125250955,title,fundamentals of optical waveguides (optics and photonics)
+9780125250955,author_list,katsunari okamoto
+9780125852630,title,high dynamic range imaging: acquisition; display; and image-based lighting (the morgan kaufmann series in computer graphics)
+9780125852630,author_list,erik reinhard; greg ward; sumanta pattanaik; paul debevec
+9780126542615,title,organizing information; first edition : principles of data base and retrieval systems (library and information science)
+9780126542615,author_list,dagobert soergel
+9780126565614,title,the personal internet security guidebook: keeping hackers and crackers out of your home (the korper and ellis e-commerce books series)
+9780126565614,author_list,tim speed; juanita ellis; steffano korper; timothy speed
+9780126567557,title,jstl : practical guide for jsp programmers (the practical guides)
+9780126567557,author_list,sue spielman
+9780127150512,title,network recovery: protection and restoration of optical; sonet-sdh; ip; and mpls (the morgan kaufmann series in networking)
+9780127150512,author_list,jean-philippe vasseur; mario pickavet; piet demeester
+9780127323503,title,multi-tier application programming with php: practical guide for architects and programmers (practical guides series)
+9780127323503,author_list,david wall
+9780127347608,title,mathematics mechanization and applications
+9780127347608,author_list,dongming wang xiao-shan gao
+9780127425030,title,grid computing : the savvy manager's guide (the savvy manager's guides)
+9780127425030,author_list,pawel plaszczak; jr.; richard wellner
+9780127427515,title,java cryptography extensions : practical guide for programmers (the practical guides)
+9780127427515,author_list,jason weiss
+9780127887746,title,compression algorithms for real programmers (the for real programmers series)
+9780127887746,author_list,peter wayner
+9780130166388,title,java 2 programmer's interactive workbook
+9780130166388,author_list,kevin chu; eric brower
+9780130174802,title,spatial databases a tour
+9780130174802,author_list,shashi shekhar
+9780130186614,title,essential discrete math for computer science
+9780130186614,author_list,todd feil; joan krone
+9780130286529,title,understanding relational database query languages
+9780130286529,author_list,suzanne w dietrich
+9780130460998,title,multimedia wireless networks: technologies; standards and qos
+9780130460998,author_list,aura ganz; zvi ganz; kitti wongthavarawat
+9780130467096,title,a balanced introduction to computer science
+9780130467096,author_list,david reed
+9780130481900,title,the art of compiler design: theory and practice
+9780130481900,author_list,thomas pittman james peters
+9780130486233,title,java programming today
+9780130486233,author_list,barbara johnston
+9780130602398,title,fundamentals of structured program design (2nd edition)
+9780130602398,author_list,dan robinson
+9780130654878,title,logic and language models for computer science
+9780130654878,author_list,henry hamburger; dana richards
+9780130669483,title,discrete math with proof
+9780130669483,author_list,eric gossett
+9780130853752,title,c++ programming today (with 2 cd-roms)
+9780130853752,author_list,barbara johnston
+9780130858504,title,data structures with c++ using stl (2nd edition)
+9780130858504,author_list,william ford; william topp
+9780130920652,title,business programming logic (4th edition)
+9780130920652,author_list,jay singelmann
+9780131013766,title,parallel and distributed programming using c++
+9780131013766,author_list,cameron hughes; tracey hughes
+9780131018570,title,database systems using oracle
+9780131018570,author_list,nilesh shah
+9780131176553,title,introduction to computing and programming with python; a multimedia approach
+9780131176553,author_list,mark guzdial
+9780131176867,title,discrete mathematics (6th edition) (jk computer science and mathematics)
+9780131176867,author_list,richard johnsonbaugh
+9780131401600,title,developing enterprise web services: an architect's guide
+9780131401600,author_list,sandeep chatterjee; james webber
+9780131420441,title,mips assembly language programming
+9780131420441,author_list,robert britton
+9780131424159,title,java; an eventful approach
+9780131424159,author_list,kim bruce; andrea danyluk; thomas murtagh
+9780131427815,title,practical debugging in java
+9780131427815,author_list,ann ford; toby teorey; sandy bartlett; gary tyson
+9780131436978,title,java application development with linux
+9780131436978,author_list,carl albing; michael schwarz
+9780131452541,title,computer graphics programming; problem solving; and visual communication
+9780131452541,author_list,steve cunningham
+9780131453494,title,imperfect xml : rants; raves; tips; and tricks ... from an insider
+9780131453494,author_list,david megginson
+9780131474345,title,java; java; java; object-oriented problem solving (3rd edition)
+9780131474345,author_list,ralph morelli; ralph walde
+9780131482395,title,agile java crafting code with test driven development
+9780131482395,author_list,jeff langr
+9780131492028,title,java: an introduction to problem solving and programming (4th edition)
+9780131492028,author_list,walter savitch
+9780131496989,title,introduction to programming with java: a multimedia approach
+9780131496989,author_list,ericson; barbara; guzdial; mark
+9780131498624,title,spring into php 5
+9780131498624,author_list,steven holzner
+9780131735798,title,java for students (5th edition)
+9780131735798,author_list,douglas bell; mike parr
+9780131739024,title,painting the digital river: how an artist learned to love the computer
+9780131739024,author_list,james faure walker
+9780131853546,title,spring into linux
+9780131853546,author_list,janet valade
+9780131856455,title,essential java class reference for programmers; the (3rd edition)
+9780131856455,author_list,brian durney
+9780131972599,title,synchronization algorithms and concurrent programming
+9780131972599,author_list,gadi taubenfeld
+9780131986190,title,data structures outside-in with java
+9780131986190,author_list,sesh venugopal
+9780132141710,title,discrete mathematical models; with applications to social; biological; and environmental problems
+9780132141710,author_list,fred s. roberts
+9780133350685,title,fundamentals of algorithmics
+9780133350685,author_list,gilles brassard; paul bratley
+9780134999975,title,introduction to the x window system
+9780134999975,author_list,oliver jones
+9780139194245,title,c++ for java programmers
+9780139194245,author_list,weiss; mark allen
+9780201157673,title,genetic algorithms in search; optimization; and machine learning
+9780201157673,author_list,david e. goldberg
+9780201179286,title,c traps and pitfalls
+9780201179286,author_list,andrew koenig
+9780201183955,title,standard c++ iostreams and locales: advanced programmer's guide and reference
+9780201183955,author_list,angelika langer; klaus kreft
+9780201183993,title,a book on c: programming in c (4th edition)
+9780201183993,author_list,al kelley; ira pohl
+9780201309447,title,directx; rdx; rsx; and mmx technology a jumpstart guide to high performance apis
+9780201309447,author_list,rohan coelho; maher hawash
+9780201309720,title,programming for the java virtual machine
+9780201309720,author_list,joshua engel
+9780201309805,title,digital certificates: applied internet security
+9780201309805,author_list,jalal feghhi; peter williams
+9780201310085,title,java(tm) language specification (2nd edition)
+9780201310085,author_list,bill joy; guy steele; james gosling; gilad bracha
+9780201310153,title,effective c++ cd:85 specific ways to improve your programs and designs
+9780201310153,author_list,scott meyers
+9780201325706,title,nfs illustrated
+9780201325706,author_list,brent callaghan
+9780201325713,title,applied software architecture
+9780201325713,author_list,christine hofmeister; robert nord; dilip soni
+9780201325744,title,scaling oracle8i: building highly scalable oltp system architectures
+9780201325744,author_list,james morle
+9780201325812,title,designing applications with msmq : message queuing for developers
+9780201325812,author_list,alan dickman
+9780201357424,title,network management principles and practice
+9780201357424,author_list,mani subramanian
+9780201379242,title,kerberos: a network authentication system
+9780201379242,author_list,brian tung
+9780201379365,title,essential winlnet: developing applications using the windows internet api with ras; isapi; asp; and com
+9780201379365,author_list,aaron skonnard
+9780201379372,title,the humane interface: new directions for designing interactive systems
+9780201379372,author_list,jef raskin
+9780201379433,title,object design: roles; responsibilities; and collaborations
+9780201379433,author_list,rebecca wirfs_brock; alan mckean
+9780201379501,title,efficient c++: performance programming techniques
+9780201379501,author_list,dov bulka; david mayhew
+9780201379617,title,dynamic html: the html developer's guide
+9780201379617,author_list,jeff rule
+9780201395198,title,c++ for c programmers; third edition (3rd edition)
+9780201395198,author_list,ira pohl
+9780201398151,title,software engineering (6th edition)
+9780201398151,author_list,ian sommerville
+9780201398182,title,multimedia communications: applications; networks; protocols; and standards
+9780201398182,author_list,fred halsall
+9780201398441,title,programming internet with java: revised edition
+9780201398441,author_list,darrel ince; adam freeman
+9780201407099,title,opengl programming for windows 95 and windows nt
+9780201407099,author_list,ron fosner
+9780201407877,title,lotus notes idea book
+9780201407877,author_list,jeff kovel;kent quirk;jay gabin
+9780201422191,title,cgi programming in c and perl
+9780201422191,author_list,thomas boutell
+9780201432947,title,the java(tm) virtual machine specification (2nd edition)
+9780201432947,author_list,tim lindholm; frank yellin
+9780201433319,title,collaborative web development: strategies and best practices for web teams
+9780201433319,author_list,jessica burdman
+9780201440997,title,computer security: art and science
+9780201440997,author_list,matt bishop
+9780201442342,title,multithreading applications in win32: the complete guide to threads
+9780201442342,author_list,jim beveridge; robert wiener
+9780201477085,title,operating system projects using windows nt
+9780201477085,author_list,gary nutt
+9780201483260,title,btrieve complete: a guide for developers and system administrators
+9780201483260,author_list,kyle jim
+9780201485554,title,practical issues in database management: a reference for the thinking practitioner
+9780201485554,author_list,fabian pascal
+9780201498349,title,surviving object-oriented projects
+9780201498349,author_list,alistair cockburn
+9780201498370,title,doing hard time: developing real-time systems with uml; objects; frameworks and patterns
+9780201498370,author_list,bruce powel douglass
+9780201517972,title,the art of human-computer interface design
+9780201517972,author_list,brenda laurel
+9780201523744,title,writing unix device drivers
+9780201523744,author_list,george pajari
+9780201533774,title,artificial intelligence (3rd edition)
+9780201533774,author_list,winston
+9780201544350,title,object-oriented software engineering: a use case driven approach
+9780201544350,author_list,ivar jacobson
+9780201548556,title,advanced c++ programming styles and idioms
+9780201548556,author_list,james o. coplien
+9780201550603,title,computers as theatre
+9780201550603,author_list,brenda laurel
+9780201563245,title,kornshell programming tutorial
+9780201563245,author_list,barry rosenberg
+9780201563337,title,gigabit networking
+9780201563337,author_list,craig partridge
+9780201563658,title,c++ programming style
+9780201563658,author_list,tom cargill
+9780201580426,title,on to c
+9780201580426,author_list,patrick henry winston
+9780201593884,title,the aix survival guide
+9780201593884,author_list,andreas siegert
+9780201604429,title,programming windows security
+9780201604429,author_list,keith brown
+9780201608427,title,tog on interface
+9780201608427,author_list,bruce tognazzini
+9780201609998,title,network management: a practical perspective (2nd edition)
+9780201609998,author_list,allan leinwand; karen fang
+9780201612462,title,c++ for java programmers
+9780201612462,author_list,timothy budd
+9780201612738,title,understanding object-oriented programming with java : updated edition (new java 2 coverage)
+9780201612738,author_list,timothy budd
+9780201615623,title,exceptional c++: 47 engineering puzzles; programming problems; and solutions
+9780201615623,author_list,herb sutter
+9780201615753,title,developing applications using outlook 2000; cdo; exchange; and visual basic
+9780201615753,author_list,raffaele piemonte;scott jamison
+9780201615760,title,the guru's guide to transact-sql
+9780201615760,author_list,ken henderson
+9780201615937,title,requirements: a unified approach (the addison-wesley object technology series)
+9780201615937,author_list,dean leffingwell; don widrig
+9780201615982,title,ssl and tls: building and designing secure systems
+9780201615982,author_list,eric rescorla
+9780201616163,title,python programming with the java class libraries a tutorial for building web and enterprise applications with jython
+9780201616163,author_list,richard hightower
+9780201616262,title,cmm in practice: processes for executing software projects at infosys
+9780201616262,author_list,pankaj jalote
+9780201616408,title,extreme programming applied: playing to win
+9780201616408,author_list,auer ken;miller roy
+9780201616460,title,practical java(tm) programming language guide
+9780201616460,author_list,peter haggar
+9780201619102,title,ip telephony
+9780201619102,author_list,olivier hersent
+9780201619188,title,distributed systems: concepts and design (3rd edition)
+9780201619188,author_list,george coulouris; jean dollimore; tim kindberg
+9780201622072,title,sad macs; bombs; and other disasters: and what to do about them
+9780201622072,author_list,ted landau
+9780201622171,title,windows internals: the implementation of the windows operating environment
+9780201622171,author_list,matt pietrek
+9780201632088,title,practical algorithms for programmers
+9780201632088,author_list,andrew binstock; john rex
+9780201632187,title,dos and windows protected mode: programming with dos extenders in c
+9780201632187,author_list,al williams
+9780201633382,title,unix systems for modern architectures symmetric multiprocessing and caching for kernel programmers
+9780201633382,author_list,curt schimmel
+9780201633627,title,large-scale c++ software design
+9780201633627,author_list,john lakos
+9780201633719,title,more effective c++: 35 new ways to improve your programs and designs
+9780201633719,author_list,scott meyers
+9780201634457,title,oracle designer/2000 handbook
+9780201634457,author_list,carrie anderson
+9780201634464,title,essential com.
+9780201634464,author_list,don box
+9780201634488,title,interconnections: bridges; routers; switches; and internetworking protocols (2nd edition)
+9780201634488,author_list,radia perlman
+9780201634501,title,windows telephony programming: a developer's guide to tapi
+9780201634501,author_list,chris sells
+9780201634600,title,design by contract by example
+9780201634600,author_list,richard mitchell; jim mckim
+9780201634976,title,forensic discovery
+9780201634976,author_list,dan farmer; wietse venema
+9780201648560,title,software engineering: a programming approach (3rd edition)
+9780201648560,author_list,douglas bell
+9780201657586,title,ldap programming with java(tm)
+9780201657586,author_list,rob weltman; tony dahbura
+9780201657609,title,implementing adsl
+9780201657609,author_list,david ginsburg
+9780201657647,title,developing e-commerce sites: an integrated approach
+9780201657647,author_list,vivek sharma rajiv sharma
+9780201657821,title,web content management: a collaborative approach
+9780201657821,author_list,russell nakano
+9780201657883,title,programming pearls (2nd edition)
+9780201657883,author_list,jon bentley
+9780201674729,title,linux and unix shell programming
+9780201674729,author_list,david tansley
+9780201675160,title,inside internet security: what hackers don't want you to know
+9780201675160,author_list,jeff crume
+9780201695878,title,c++ distilled : a concise ansi/iso reference and style guide
+9780201695878,author_list,ira pohl
+9780201699470,title,crystal clear: a human-powered methodology for small teams
+9780201699470,author_list,alistair cockburn
+9780201699692,title,agile software development
+9780201699692,author_list,alistair cockburn
+9780201700466,title,the guru's guide to sql server stored procedures; xml; and html
+9780201700466,author_list,ken henderson
+9780201700473,title,the guru's guide to sql server architecture and internals
+9780201700473,author_list,ken henderson
+9780201700534,title,ppp design; implementation; and debugging (2nd edition)
+9780201700534,author_list,james carlson
+9780201701036,title,the engineering of software: a technical guide for the individual
+9780201701036,author_list,dick hamlet; joe maybee
+9780201702798,title,c for java programmers
+9780201702798,author_list,tomasz muldner
+9780201703290,title,java card(tm) technology for smart cards: architecture and programmer's guide
+9780201703290,author_list,zhiqun chen
+9780201703931,title,the java(tm) tutorial: a short course on the basics (3rd edition)
+9780201703931,author_list,mary campione; kathy walrath; alison huml
+9780201704310,title,modern c++ design: generic programming and design patterns applied
+9780201704310,author_list,andrei alexandrescu
+9780201704341,title,more exceptional c++: 40 new engineering puzzles; programming problems; and solutions
+9780201704341,author_list,herb sutter
+9780201705027,title,jndi api tutorial and reference: building directory-enabled java(tm) applications
+9780201705027,author_list,rosanna lee; scott seligman
+9780201708523,title,developing apps with visual studio.net
+9780201708523,author_list,richard grimes
+9780201709148,title,essential xml: beyond markup
+9780201709148,author_list,don box; aaron skonnard; john lam
+9780201709155,title,modeling xml applications with uml: practical e-business applications
+9780201709155,author_list,david carlson
+9780201710144,title,writing cgi applications with perl
+9780201710144,author_list,kevin meltzer; brent michalski
+9780201710373,title,java network programming and distributed computing
+9780201710373,author_list,david reilly; michael reilly
+9780201710885,title,web protocols and practice: http/1.1; networking protocols; caching; and traffic measurement
+9780201710885,author_list,balachander krishnamurthy; jennifer rexford
+9780201711028,title,programming open service gateways with java embedded server(tm) technology
+9780201711028,author_list,kirk chen; li gong
+9780201711615,title,the art of objects object-oriented design and architecture
+9780201711615,author_list,yun-tung lau
+9780201713749,title,c by dissection: the essentials of c programming (4th edition)
+9780201713749,author_list,al kelley; ira pohl
+9780201714999,title,the wiki way: quick collaboration on the web
+9780201714999,author_list,bo leuf;ward cunningham
+9780201716238,title,the java class libraries poster; enterprise edition; v1.2
+9780201716238,author_list,patrick chan; rosanna lee
+9780201719345,title,linux system administration a user's guide
+9780201719345,author_list,marcel gagne
+9780201719543,title,java development on pdas: building applications for pocket pc and palm devices
+9780201719543,author_list,daryl wilding-mcbride
+9780201719628,title,building parsers with java
+9780201719628,author_list,metsker steve
+9780201721522,title,building secure software: how to avoid security problems the right way
+9780201721522,author_list,john viega; gary mcgraw
+9780201721843,title,patterns for effective use cases
+9780201721843,author_list,paul bramble; alistair cockburn; andy pols; steve adolph
+9780201722192,title,software design (2nd edition)
+9780201722192,author_list,david budgen
+9780201722314,title,c++ programming with design patterns revealed
+9780201722314,author_list,tomasz muldner
+9780201725889,title,java(tm) look and feel design guidelines (2nd edition)
+9780201725889,author_list,sun microsystems; inc.
+9780201725957,title,linux: the textbook
+9780201725957,author_list,syed mansoor sarwar; robert koretsky; syed aqeel sarwar
+9780201730463,title,developing distributed and e-commerce applications
+9780201730463,author_list,darrel ince
+9780201731149,title,squeak: a quick trip to objectland
+9780201731149,author_list,gene korienek; tom wrensch; doug dechow
+9780201733860,title,software craftmanship the new imperative
+9780201733860,author_list,pete mcbreen
+9780201734119,title,essentialnet. volume i: the common language runtime
+9780201734119,author_list,don box; chris sells
+9780201737332,title,object oriented software development using java (2nd edition)
+9780201737332,author_list,xiaoping jia
+9780201740950,title,essential xml quick reference: a programmer's reference to xml; xpath; xslt; xml schema; soap; and more
+9780201740950,author_list,aaron skonnard; martin gudgin
+9780201741285,title,data mining : a tutorial-based primer
+9780201741285,author_list,richard roiger ; michael geatz
+9780201742039,title,essential sql server(tm) 2000: an administration handbook
+9780201742039,author_list,buck woody
+9780201742251,title,project-based software engineering: an object-oriented approach
+9780201742251,author_list,evelyn stiller; cathie leblanc
+9780201745764,title,pair programming illuminated
+9780201745764,author_list,laurie williams; robert kessler
+9780201749625,title,effective stl: 50 specific ways to improve your use of the standard template library
+9780201749625,author_list,scott meyers
+9780201752809,title,the java(tm) developers almanac 1.4; volume 1: examples and quick reference (4th edition)
+9780201752809,author_list,patrick chan
+9780201752946,title,oracle sql and pl/sql handbook: a guide for data administrators; developers; and business analysts
+9780201752946,author_list,john adolph palinski
+9780201753066,title,component development for the java platform
+9780201753066,author_list,stuart dabbs halloway
+9780201758658,title,software project management: a real-world guide to success
+9780201758658,author_list,joel henry
+9780201758818,title,nitty gritty windows programming with c++
+9780201758818,author_list,henning hansen
+9780201760422,title,exceptional c++ style: 40 new engineering puzzles; programming problems; and solutions
+9780201760422,author_list,herb sutter
+9780201760439,title,agile software development ecosystems
+9780201760439,author_list,jim highsmith
+9780201761764,title,web hacking: attacks and defense
+9780201761764,author_list,mcclure stuart;shah saumil;shah shreeraj
+9780201768107,title,the java developers almanac 1.4; volume 2: examples and quick reference (4th edition)
+9780201768107,author_list,patrick chan
+9780201770186,title,programming in the .net environment
+9780201770186,author_list,watkins damien;hammond mark;abrams brad
+9780201771688,title,xml: language mechanics and applications
+9780201771688,author_list,dwight peltzer
+9780201773637,title,learning sql: a step-by-step guide using oracle
+9780201773637,author_list,richard earp; sikha bagui
+9780201775754,title,request for proposal: a guide to effective rfp development
+9780201775754,author_list,bud porter-roth
+9780201775808,title,j2ee connector architecture and enterprise application integration
+9780201775808,author_list,rahul sharma;beth stearns;tony ng
+9780201784725,title,java message service api tutorial and reference: messaging for the j2ee platform
+9780201784725,author_list,mark hapner; rich burridge; rahul sharma; joseph fialli; kim haase
+9780201786958,title,exploiting software : how to break code
+9780201786958,author_list,greg hoglund; gary mcgraw
+9780201787337,title,c++ by dissection
+9780201787337,author_list,ira pohl
+9780201787917,title,inside java 2 platform security: architecture; api design; and implementation (2nd edition)
+9780201787917,author_list,li gong; gary ellison; mary dageforde
+9780201791662,title,building j2ee applications with the rational unified process
+9780201791662,author_list,peter eeles; kelli a. houston; wojtek kozaczynski; kelli houston
+9780201794274,title,extreme programming for web projects
+9780201794274,author_list,doug wallace; isobel raggett; joel aufgang
+9780201845198,title,c programming faqs: frequently asked questions
+9780201845198,author_list,steve summit
+9780201847604,title,civilizing cyberspace: policy; power; and the information superhighway
+9780201847604,author_list,steven miller
+9780201853926,title,the art of computer programming; volume 1; fascicle 1: mmix -- a risc computer for the new millennium
+9780201853926,author_list,donald e. knuth
+9780201853933,title,the art of computer programming; volume 4; fascicle 2: generating all tuples and permutations
+9780201853933,author_list,donald e. knuth
+9780201853940,title,the art of computer programming; fascicle 3: generating all combinations and partitions
+9780201853940,author_list,donald ervin knuth
+9780201895506,title,object-oriented programming using c++ (2nd edition)
+9780201895506,author_list,ira pohl
+9780201896848,title,art of computer programming; volume 2: seminumerical algorithms (3rd edition)
+9780201896848,author_list,donald e. knuth
+9780321108944,title,applied c++: techniques for building better software
+9780321108944,author_list,philip romanik; amy muntz
+9780321108951,title,honeypots: tracking hackers
+9780321108951,author_list,lance spitzner
+9780321113559,title,testing extreme programming
+9780321113559,author_list,lisa crispin; tip house
+9780321113580,title,c++ coding standards: 101 rules; guidelines; and best practices
+9780321113580,author_list,herb sutter; andrei alexandrescu
+9780321116291,title,designing interactive systems: people; activities; contexts; technologies
+9780321116291,author_list,david benyon; phil turner; susan turner
+9780321118875,title,the java(tm) class libraries poster (7th edition)
+9780321118875,author_list,patrick chan; rosanna lee
+9780321119049,title,learning sql: a step-by-step guide using access
+9780321119049,author_list,sikha bagui; richard earp
+9780321127006,title,practical bgp
+9780321127006,author_list,russ white; danny mcpherson; srihari sangli
+9780321133458,title,troubleshooting microsoft technologies: the administrator's repair manual
+9780321133458,author_list,chris wolf
+9780321133540,title,beyond the c++ standard library: an introduction to boost
+9780321133540,author_list,bjorn karlsson
+9780321136176,title,the xml schema companion
+9780321136176,author_list,neil bradley
+9780321136190,title,practical software engineering: analysis and design for the .net platform (addison-wesley object technology series)
+9780321136190,author_list,enricos manassis
+9780321154200,title,a handbook of software and systems engineering: empirical observations; laws; and theories
+9780321154200,author_list,albert endres; dieter rombach
+9780321155726,title,from java to c#
+9780321155726,author_list,glenn rowe
+9780321159625,title,atl internals: working with atl 8 (2nd edition)
+9780321159625,author_list,christopher tavares; kirk fertitta; brent rector; chris sells
+9780321159830,title,distributed virtual machines : inside the rotor cli
+9780321159830,author_list,gary nutt
+9780321160775,title,graphics programming with gdi+
+9780321160775,author_list,manesh chand
+9780321166074,title,code quality: the open source perspective
+9780321166074,author_list,diomidis spinellis
+9780321166098,title,the rational unified process made easy: a practitionerandapos;s guide to the rup
+9780321166098,author_list,per kroll; philippe krutchten
+9780321168795,title,ospf and is-is choosing an igp for large-scale networks
+9780321168795,author_list,jeff doyle
+9780321169518,title,the visual basic.net programming language
+9780321169518,author_list,paul vick
+9780321174031,title,net compact framework programming with c#
+9780321174031,author_list,paul yao
+9780321174048,title,net compact framework programming with visual basic .net
+9780321174048,author_list,paul yao; david durant
+9780321180599,title,a first look at microsoft sql server 2005 for developers
+9780321180599,author_list,beauchemin bob;berglund niels;sullivan dan
+9780321180605,title,xquery from the experts: a guide to the w3c xml query language
+9780321180605,author_list,howard katz; don chamberlin; denise draper; mary fernandez; michael kay; jonathan robie; michael rys; jerome simeon; jim tivy; philip wadler
+9780321180612,title,essential check point firewall-1 ng: an installation; configuration; and troubleshooting guide
+9780321180612,author_list,dameon d. welch-abernathy
+9780321185563,title,principles of database systems with internet and java applications
+9780321185563,author_list,greg riccardi
+9780321193124,title,cascading style sheets: designing for the web (3rd edition)
+9780321193124,author_list,hakon wium lie; bert bos
+9780321193674,title,professional software development: shorter schedules; higher quality products; more successful projects; enhanced careers
+9780321193674,author_list,steve mcconnell
+9780321194046,title,understanding .net (2nd edition)
+9780321194046,author_list,david chappell
+9780321194442,title,microsoft content management server 2002: a complete guide
+9780321194442,author_list,bill english; olga londer; todd bleeker; shawn shell; stephen cawood
+9780321194459,title,net framework standard library reference; volume 2: networking library; reflection library; and xml library
+9780321194459,author_list,tamara abrams; brad abrams
+9780321197672,title,defend i.t.: security by example
+9780321197672,author_list,ajay gupta; scott laliberte
+9780321197696,title,smart client deployment with clickonce: deploying windows forms applications with clickonce
+9780321197696,author_list,noyes brian
+9780321197887,title,building solutions with the microsoft .net compact framework: architecture and best practices for mobile development
+9780321197887,author_list,dan fox; jon box
+9780321200983,title,windows forensics and incident recovery
+9780321200983,author_list,harlan carvey
+9780321204660,title,artificial intelligence: a guide to intelligent systems (2nd edition)
+9780321204660,author_list,michael negnevitsky
+9780321205612,title,seeing data: designing user interfaces for database systems using .net
+9780321205612,author_list,rebecca m. riordan
+9780321205636,title,windows xp networking
+9780321205636,author_list,kackie cohen; andrew daniels
+9780321210265,title,software engineering (7th edition)
+9780321210265,author_list,ian sommerville
+9780321213341,title,managing windows(r) with vbscript and wmi
+9780321213341,author_list,don jones
+9780321213358,title,refactoring to patterns
+9780321213358,author_list,joshua kerievsky
+9780321218735,title,high-tech crimes revealed: cyberwar stories from the digital front
+9780321218735,author_list,steven branigan
+9780321224095,title,privacy: what developers and it professionals should know
+9780321224095,author_list,j.c. cannon
+9780321227232,title,troubleshooting linux firewalls
+9780321227232,author_list,michael shinn; scott shinn
+9780321227256,title,c++ template metaprogramming concepts; tools; and techniques from boost and beyond
+9780321227256,author_list,david abrahams; aleksey gurtovoy
+9780321227317,title,unix: the textbook (2nd edition)
+9780321227317,author_list,syed mansoor sarwar; robert koretsky; syed aqeel sarwar
+9780321228352,title,thenet developer's guide to windows security
+9780321228352,author_list,keith brown
+9780321228475,title,eclipse: building commercial-quality plug-ins
+9780321228475,author_list,eric clayberg; dan rubel
+9780321237620,title,opengl: a primer (2nd edition)
+9780321237620,author_list,edward angel
+9780321245458,title,hands-on microsoft access: a practical guide to improving your access skills
+9780321245458,author_list,bob schneider
+9780321245663,title,effective c# 50 specific ways to improve your c#
+9780321245663,author_list,bill wagner
+9780321246776,title,the tao of network security monitoring: beyond intrusion detection
+9780321246776,author_list,richard bejtlich
+9780321247445,title,introduction to computer security
+9780321247445,author_list,matt bishop
+9780321256195,title,windows system programming (3rd edition)
+9780321256195,author_list,johnson m. hart
+9780321256638,title,swt: the standard widget toolkit; vol 1
+9780321256638,author_list,steve northover; mike wilson
+9780321262516,title,storage virtualization: technologies for simplifying data storage and management
+9780321262516,author_list,tom clark
+9780321263582,title,computer networking and the internet (5th edition)
+9780321263582,author_list,fred halsall
+9780321268174,title,file system forensic analysis
+9780321268174,author_list,brian carrier
+9780321268389,title,official eclipse 3.0 faqs
+9780321268389,author_list,john arthorne; chris laffra
+9780321268631,title,developing scalable series 40 applications: a guide for java developers
+9780321268631,author_list,michael juntao yuan; kevin sharp
+9780321268778,title,collaboration explained: facilitation skills for software project leaders
+9780321268778,author_list,jean tabaka
+9780321294319,title,rootkits: subverting the windows kernel
+9780321294319,author_list,greg hoglund; james butler
+9780321294326,title,java(tm) class libraries poster; java 2 platform enterprise edition; version 1.4; the (3rd edition) (java series)
+9780321294326,author_list,patrick chan; rosanna lee
+9780321304513,title,the executive guide to information security: threats; challenges; and solutions
+9780321304513,author_list,mark egan; tim mather
+9780321304520,title,mapping security: the corporate security sourcebook for today's global economy
+9780321304520,author_list,tom patterson; scott gleeson blue
+9780321304865,title,the art of software security testing: identifying software security flaws
+9780321304865,author_list,elfriede dustin; lucas nelson; chris wysopal
+9780321305015,title,windows server 2003 security : a technical reference
+9780321305015,author_list,roberta bragg
+9780321305497,title,psp(sm): a self-improvement process for software engineers
+9780321305497,author_list,watts s. humphrey
+9780321320735,title,cryptography in the database : the last line of defense
+9780321320735,author_list,kevin kenan
+9780321321305,title,agility and discipline made easy: practices from openup and rup
+9780321321305,author_list,per kroll bruce macisaac
+9780321321312,title,the software development edge: essays on managing successful projects
+9780321321312,author_list,joe marasco
+9780321321350,title,web usability a user-centered design approach
+9780321321350,author_list,jonathan lazar
+9780321321367,title,data mining
+9780321321367,author_list,pang-ning tan; michael steinbach; vipin kumar
+9780321321374,title,interactive computer graphics : a top-down approach using opengl (4th edition)
+9780321321374,author_list,edward angel
+9780321330239,title,absolute c++ (2nd edition)
+9780321330239,author_list,walter savitch
+9780321330246,title,absolute java
+9780321330246,author_list,walter savitch
+9780321334619,title,eclipse rich client platform: designing; coding; and packaging java applications
+9780321334619,author_list,jeff mcaffer; jean_michel lemieux
+9780321334879,title,effective c++
+9780321334879,author_list,scott meyers
+9780321334886,title,net programming for office: using c# with excel; word; outlook; andinfopath
+9780321334886,author_list,eric carter; eric lippert
+9780321336781,title,java puzzlers: traps; pitfalls; and corner cases
+9780321336781,author_list,joshua bloch; neal gafter
+9780321340795,title,computer systems architecture a networking approach
+9780321340795,author_list,rob williams
+9780321341389,title,net internationalization: the developerandapos;s guide to building global windows and web applications
+9780321341389,author_list,guy smith-ferrier
+9780321349804,title,the java programming language; 4th edition
+9780321349804,author_list,arnold ken; gosling james
+9780321349958,title,securing storage : a practical guide to san and nas security
+9780321349958,author_list,himanshu dwivedi
+9780321349965,title,extrusion detection : security monitoring for internal intrusions
+9780321349965,author_list,richard bejtlich
+9780321350176,title,the .net developerandapos;s guide to directory services programming
+9780321350176,author_list,joe kaplan; ryan dunn
+9780321356703,title,software security : building security in
+9780321356703,author_list,gary mcgraw
+9780321382184,title,a developer's guide to sql server 2005
+9780321382184,author_list,bob beauchemin; dan sullivan
+9780321398666,title,advanced vb.net alternate with vb.net cd's (3rd edition)
+9780321398666,author_list,kip irvine; tony gaddis
+9780321399830,title,essential windows workflow foundation
+9780321399830,author_list,dharma shukla; bobby schmidt
+9780321410139,title,introduction to software engineering design: processes; principles and patterns with uml2
+9780321410139,author_list,christopher fox
+9780321412997,title,the c++ standard library extensions : a tutorial and reference
+9780321412997,author_list,pete becker
+9780321423436,title,moving to free software
+9780321423436,author_list,marcel gagne
+9780321426420,title,own your space : keep your data and yourself safe online
+9780321426420,author_list,linda mccarthy
+9780321427229,title,moving to ubuntu linux
+9780321427229,author_list,marcel gagne
+9780321437297,title,innovation games: creating breakthrough products through collaborative play
+9780321437297,author_list,luke hohmann
+9780321440303,title,the old new thing: practical development throughout the evolution of windows
+9780321440303,author_list,raymond chen
+9780321447746,title,sql server 2005 practical troubleshooting : the database engine
+9780321447746,author_list,ken henderson
+9780321466754,title,why software sucks...and what you can do about it
+9780321466754,author_list,davids platt
+9780340613986,title,designing computer programs
+9780340613986,author_list,jim haigh
+9780672321467,title,oracle performance tuning
+9780672321467,author_list,edward whalen; mitchell schroeter
+9780672322167,title,understanding data communications (7th edition)
+9780672322167,author_list,gilbert held
+9780672322266,title,embedded linux: hardware; software; and interfacing
+9780672322266,author_list,craig hollabaugh
+9780672323423,title,micro java(tm) game development
+9780672323423,author_list,david fox;roman verhovsek
+9780672323546,title,jsp(tm) and xml: integrating xml and web services in your jsp application
+9780672323546,author_list,casey kochmer; erica frandsen
+9780750658553,title,mathematics for electrical engineering and computing
+9780750658553,author_list,mary attenborough
+9780750658959,title,e.biz: the anatomy of electronic business
+9780750658959,author_list,geoffrey sampson
+9780750660754,title,software design methodology : from principles to architectural styles
+9780750660754,author_list,hong zhu
+9780750661232,title,student guide to object-oriented development
+9780750661232,author_list,carol britton
+9780750661317,title,students essential guide to .net
+9780750661317,author_list,tony grimer
+9780750661409,title,value creation from e-business models
+9780750661409,author_list,wendy currie
+9780750661416,title,past and future of information systems
+9780750661416,author_list,kim viborg andersen; morten thanning vendelo
+9780750664714,title,real-time systems development
+9780750664714,author_list,rob williams
+9780750665070,title,competitive engineering: a handbook for systems engineering; requirements engineering; and software engineering using planguage
+9780750665070,author_list,tom gilb
+9780750667319,title,an introduction to e-business : management and strategy
+9780750667319,author_list,colin combe
+9780750670067,title,rechargeable batteries applications handbook (edn series for design engineers) (edn series for design engineers)
+9780750670067,author_list,gates energy products
+9780750670623,title,the art and science of analog circuit design (edn series for design engineers)
+9780750670623,author_list,jim williams
+9780750670630,title,inside orcad capture for windows (edn series for design engineers)
+9780750670630,author_list,chris schroeder
+9780750673297,title,power supply cookbook (edn series for design engineers)
+9780750673297,author_list,marty brown
+9780750674034,title,electromagnetics explained : a handbook for wireless/ rf; emc; and high-speed electronics (edn series for design engineers)
+9780750674034,author_list,ron schmitt
+9780750676137,title,investigative data mining for security and criminal detection
+9780750676137,author_list,jesus mena
+9780750677462,title,bulletproof wireless security; first edition : gsm; umts; 802.11; and ad hoc security (communications engineering)
+9780750677462,author_list,praphul chandra
+9780750677561,title,excel by example a microsoft excel cookbook for electronics engineers
+9780750677561,author_list,aubrey kagan
+9780750678483,title,trojans; worms; and spyware: a computer security professional's guide to malicious code
+9780750678483,author_list,michael erbschloe
+9780750681841,title,basic computing with windows xp: learning made simple
+9780750681841,author_list,p k mcbride
+9780750681858,title,spreadsheets with excel : learning made simple
+9780750681858,author_list,stephen morris
+9780750681865,title,databases with access: learning made simple
+9780750681865,author_list,moira stephen
+9780750681872,title,word processing with word: learning made simple
+9780750681872,author_list,keith brindley
+9780750681889,title,presentations with powerpoint
+9780750681889,author_list,moira stephen
+9780750690898,title,designus maximus unleashed! (edn series for design engineers)
+9780750690898,author_list,clive maxfield
+9780750695084,title,simplified design of ic amplifiers (edn series for design engineers)
+9780750695084,author_list,john lenk
+9780750696401,title,analog circuit design : art; science and personalities (edn series for design engineers)
+9780750696401,author_list,jim williams
+9780750697002,title,inside orcad (edn series for design engineers)
+9780750697002,author_list,chris schroeder
+9780805325478,title,artificial intelligence: theory and practice
+9780805325478,author_list,thomas dean
+9780073516677,title,computing essentials 2007; complete edition (o'leary series)
+9780073516677,author_list,timothy j o'leary; linda i o'leary
+9780072999389,title,computer accounting essentials using epeachtree
+9780072999389,author_list,yacht; carol; crosson; susan
+9780072922363,title,fundamentals of finite element analysis
+9780072922363,author_list,david v. hutton; david hutton
+9780072843996,title,i-series: ms windows xp: complete
+9780072843996,author_list,barrie sosinsky unknown; stephen haag; james t perry; efren estevez;
+9780072466850,title,an introduction to the finite element method (mcgraw hill series in mechanical engineering)
+9780072466850,author_list,j. n. reddy
+9780072255096,title,principles of computer security: security+ and beyond
+9780072255096,author_list,gregory white; roger davis; art conklin; dwayne williams; chuck cothren
+9780072230611,title,windows server 2003 (hacking exposed)
+9780072230611,author_list,joel scambray; stuart mcclure
+9780071357814,title,schaum's outline of computer graphics
+9780071357814,author_list,zhigang xiang; roy a. plastock
+9781576761069,title,a+ operating systems for technicians
+9781576761069,author_list,cheryl a. schmidt; todd meadors; meadors
+9781558609013,title,data mining; second edition; second edition : concepts and techniques (the morgan kaufmann series in data management systems) (the morgan kaufmann series in data management systems)
+9781558609013,author_list,jiawei han; micheline kamber
+9781558608894,title,innovation happens elsewhere : open source as business strategy
+9781558608894,author_list,ron goldman; richard p. gabriel
+9781558608108,title,ipv6; second edition: theory; protocol; and practice; 2nd edition (the morgan kaufmann series in networking)
+9781558608108,author_list,pete loshin
+9781558607873,title,non-photorealistic computer graphics: modeling; rendering and animation (the morgan kaufmann series in computer graphics and geometric modeling)
+9781558607873,author_list,thomas strothotte; stefan schlechtweg
+9781558607583,title,business process change: a manager's guide to improving; redesigning; and automating processes (the morgan kaufmann series in data management systems)
+9781558607583,author_list,paul harmon
+9781558606975,title,managing reference data in enterprise databases
+9781558606975,author_list,malcolm chisholm
+9781558606487,title,distributed systems architecture: a middleware approach
+9781558606487,author_list,arno puder; kay r&atilde; mer; frank pilhofer
+9781558606364,title,skew-tolerant circuit design (the morgan kaufmann series in computer architecture and design)
+9781558606364,author_list,david harris
+9781558605152,title,database design for smarties: using uml for data modeling (the morgan kaufmann series in data management systems)
+9781558605152,author_list,robert j. muller
+9781558603752,title,wavelets for computer graphics (the morgan kaufmann series in computer graphics)
+9781558603752,author_list,stollnitz; eric j.; derose; tony d.; salesin; david h.
+9781558603042,title,active database systems: triggers and rules for advanced database processing (the morgan kaufmann series in data management systems)
+9781558603042,author_list,jennifer widom stefano ceri
+9781558601369,title,cache and memory hierarchy design : a performance directed approach (the morgan kaufmann series in computer architecture and design)
+9781558601369,author_list,steven a. przybylski
+9781555583279,title,physical security for it
+9781555583279,author_list,michael erbschloe
+9781555582999,title,leveraging wmi scripting : using windows management instrumentation to solve windows management problems (hp technologies)
+9781555582999,author_list,alain lissoir
+9781555582791,title,getting started with openvms: a guide for new users
+9781555582791,author_list,michael d. duffy
+9781555580414,title,common lisp : the language; second edition
+9781555580414,author_list,guy steele
+9780750699389,title,managing legal and security risks in computers and communications
+9780750699389,author_list,paul shaw
+9780750694995,title,troubleshooting analog circuits (edn series for design engineers)
+9780750694995,author_list,robert a. pease
+9780750677950,title,risk management for computer security : protecting your network and information assets
+9780750677950,author_list,andy jones; debi ashenden; debi ashenden
+9780750664554,title,managing stakeholders in software development projects (the computer weekly professional series)
+9780750664554,author_list,john mcmanus
+9780750656832,title,applying uml: advanced applications
+9780750656832,author_list,rob pooley; pauline wilcox
+9780672323430,title,database access with visual basic .net (3rd edition)
+9780672323430,author_list,jeffrey p. mcmanus; jackie goldstein
+9780321444424,title,the art of software security assessment : identifying and avoiding software vulnerabilities
+9780321444424,author_list,dowd mark; mcdonald john
+9780321418708,title,software security library boxed set; first edition
+9780321418708,author_list,gary mcgraw; greg hoglund; john viega
+9780321397973,title,administratorandapos;s guide to sql server 2005
+9780321397973,author_list,buck woody
+9780321356413,title,the symantec guide to home internet security
+9780321356413,author_list,andrew conry-murray; vincent weafer
+9780321335722,title,secure coding in c and c++
+9780321335722,author_list,robert seacord
+9780321322210,title,languages and machines: an introduction to the theory of computer science (3rd edition)
+9780321322210,author_list,thomas a. sudkamp
+9780321312839,title,principles of concurrent and distributed programming
+9780321312839,author_list,mordechai ben-ari
+9780321304292,title,internet effectively: a beginner's guide to the world wide web
+9780321304292,author_list,tyrone adams; sharon scollard
+9780321287502,title,the guru's guide to sql server boxed set
+9780321287502,author_list,ken henderson
+9780321263544,title,distributed systems: concepts and design (4th edition)
+9780321263544,author_list,george coulouris; jean dollimore; tim kindberg
+9780321245441,title,vpns illustrated: tunnels; vpns; and ipsec
+9780321245441,author_list,jon c. snader
+9780321228109,title,open sourcenet development programming with nant; nunit; ndoc; and more
+9780321228109,author_list,brian nantz
+9780321219763,title,aspect-oriented software development
+9780321219763,author_list,robert e. filman; tzilla elrad; siobhan clarke; mehmet aksit
+9780321205216,title,designing web services with the j2ee 1.4 platform: jax-rpc; soap; and xml technologies
+9780321205216,author_list,inderjeet singh; sean brydon; greg murray; vijay ramachandran; thierry viol
+9780321194985,title,oracle 9i programming: a primer
+9780321194985,author_list,rajshekhar sunderraman
+9780321181435,title,user interface design : a software engineering perspective
+9780321181435,author_list,soren lauesen
+9780321165817,title,xquery: the xml query language
+9780321165817,author_list,michael brundage
+9780321150400,title,effective xml: 50 specific ways to improve your xml
+9780321150400,author_list,elliotte rusty harold
+9780321126986,title,inside windows storage: server storage technologies for windows server 2003; windows 2000 and beyond
+9780321126986,author_list,dilip naik
+9780321112293,title,software systems architecture: working with stakeholders using viewpoints and perspectives
+9780321112293,author_list,nick rozanski; eoin woods
+9780201889543,title,the c++ programming language (3rd edition)
+9780201889543,author_list,bjarne stroustrup
+9780201823769,title,unix for the impatient (2nd edition)
+9780201823769,author_list,paul w. abrahams; bruce r. larson
+9780201767919,title,software engineering and computer games
+9780201767919,author_list,rudy rucker
+9780201749601,title,xml topic maps: creating and using topic maps for the web
+9780201749601,author_list,jack park; sam hunting
+9780201734959,title,building applications and components with visual basic .net
+9780201734959,author_list,ted pattison; joe hummel
+9780201722291,title,performance solutions: a practical guide to creating responsive; scalable software
+9780201722291,author_list,connie u. smith lloyd g. williams connie smith lloyd williams
+9780201715842,title,practical oracle 8i: building efficient databases
+9780201715842,author_list,jonathan lewis
+9780201704471,title,human-computer interaction in the new millennium
+9780201704471,author_list,john m. carroll
+9780201699715,title,the ace programmer's guide: practical design patterns for network and systems programming
+9780201699715,author_list,stephen d. huston; james ce johnson; umar syyid
+9780201634921,title,win32 programming (addison-wesley advanced windows series) 2 volume set
+9780201634921,author_list,brent e. rector; joseph m. newcomer
+9780201633580,title,mfc programming
+9780201633580,author_list,alan r. feuer
+9780201615920,title,advanced use case modeling: software systems
+9780201615920,author_list,frank armour; granville miller
+9780201580433,title,on to c++
+9780201580433,author_list,patrick henry winston
+9780201543308,title,the design and evolution of c++
+9780201543308,author_list,bjarne stroustrup
+9780201489163,title,the student's guide to doing research on the internet
+9780201489163,author_list,dave campbell; mary campbell
+9780201400090,title,an introduction to the analysis of algorithms
+9780201400090,author_list,sedgewick; robert; flajolet; philippe
+9780201310054,title,effective java programming language guide
+9780201310054,author_list,joshua bloch
+9780201137446,title,functional programming : practice and theory
+9780201137446,author_list,bruce j. maclennan
+9780131872899,title,learning to program with alice
+9780131872899,author_list,wanda p. dann; stephen cooper; randy pausch
+9780131463059,title,core javaserver faces
+9780131463059,author_list,david geary; cay horstmann
+9780131227064,title,patterns of problem solving (2nd edition)
+9780131227064,author_list,moshe f. rubinstein; iris r. firstenberg
+9780130494986,title,tools for structured and object-oriented design: an introduction to programming logic; sixth edition
+9780130494986,author_list,marilyn bohl; maria rynn
+9780130284464,title,practical introduction to data structures and algorithm analysis (c++ edition) (2nd edition)
+9780130284464,author_list,clifford a. shaffer
+9780126445510,title,data modeling essentials 3/e
+9780126445510,author_list,graeme simsion; graham witt
+9780124499751,title,on time technology implementation: how to achieve implementation success with limited time and resources
+9780124499751,author_list,bennet p. lientz; kathryn p. rea
+9780122290633,title,3d game engine design; second edition: a practical approach to real-time computer graphics (the morgan kaufmann series in interactive 3d technology)
+9780122290633,author_list,david h. eberly
+9780120887972,title,joe celko's sql programming style (the morgan kaufmann series in data management systems)
+9780120887972,author_list,joe celko
+9781555581992,title,digital unix system administrator's guide (hp technologies)
+9781555581992,author_list,matthew cheek
+9780072232172,title,mcse windows server 2003 active directory infrastructure study guide (exam 70-294) with windows? server 2003 180-day trial software
+9780072232172,author_list,dennis suhanovs; press certification; certification press
+9780072226331,title,security+ certification all-in-one exam guide
+9780072226331,author_list,gregory white
+9781558609358,title,understanding your users: a practical guide to user requirements methods; tools; and techniques (the morgan kaufmann series in interactive technologies)
+9781558609358,author_list,catherine courage; kathy baxter
+9781558609341,title,bluetooth application programming with the java apis (the morgan kaufmann series in networking)
+9781558609341,author_list,c bala kumar; paul kline; tim thompson
+9781558609198,title,database modeling with microsoft visio for enterprise architects
+9781558609198,author_list,terry halpin; ken evans; pat hallock; bill maclean
+9781558608726,title,stochastic local search : foundations &amp; applications (the morgan kaufmann series in artificial intelligence)
+9781558608726,author_list,hoos; holger; stutzle; thomas
+9781558608597,title,policy-based network management : solutions for the next generation (morgan kaufmann series in networking)
+9781558608597,author_list,john strassner
+9781558608467,title,multicast sockets: practical guide for programmers (the practical guides)
+9781558608467,author_list,david makofske; kevin almeroth
+9781558608290,title,bioinformatics: managing scientific data (the morgan kaufmann series in multimedia and information systems)
+9781558608290,author_list,zoe lacroix
+9781558605954,title,swarm intelligence
+9781558605954,author_list,james kennedy; russell c. eberhart
+9781558605718,title,integrated management of networked systems : concepts; architectures and their operational application (the morgan kaufmann series in networking)
+9781558605718,author_list,heinz_gerd hegering; et al
+9781558604544,title,readings in information retrieval (morgan kaufmann series in multimedia information and systems)
+9781558604544,author_list,karen sparck jones
+9781555582609,title,computer systems performance evaluation and prediction
+9781555582609,author_list,paul fortier; howard michel
+9781555582180,title,digital visual fortran programmer's guide (hp technologies)
+9781555582180,author_list,michael etzel; karen dickinson
+9780750673273,title,information assurance managing organizational it security risks
+9780750673273,author_list,daniel jennings; joseph boyce
+9780444506733,title,parallel computational fluid dynamics 2000: trends and applications
+9780444506733,author_list,c. b. jenssen; t. kvamdal; h. i. andersson
+9780201776317,title,tcp/ip illustrated; 3 vols.
+9780201776317,author_list,w. r. stevens; gary r. wright
+9780201379235,title,stl tutorial and reference guide: c++ programming with the standard template library (2nd edition)
+9780201379235,author_list,david r. musser
+9780123704528,title,java data mining: strategy; standard; and practice: a practical guide for architecture; design; and implementation (the morgan kaufmann series in data management systems)
+9780123704528,author_list,hornick; mark f. marcade; erik venkayala; sunil
+9780120455997,title,xml in data management : understanding and applying them together (morgan kaufmann series in data management systems)
+9780120455997,author_list,peter aiken; m. david allen
+9781555582746,title,tru64 unix troubleshooting : diagnosing and correcting system problems (hp technologies)
+9781555582746,author_list,martin moore; steven hancock
