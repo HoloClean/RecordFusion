@@ -167,16 +167,3 @@ $ pip install -r requirements.txt
 
 *Note for macOS Users:*
 you may need to install XCode developer tools using `xcode-select --install`.
-
-
-## Running HoloClean
-
-See the code in `examples/holoclean_repair_example.py` for a documented usage of HoloClean.
-
-In order to run the example script, run the following:
-```bash
-$ cd examples
-$ ./start_example.sh
-```
-
-Notice that the script sets up the Python path environment to run HoloClean.
