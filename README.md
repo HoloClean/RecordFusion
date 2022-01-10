@@ -4,7 +4,7 @@ Dev:
 [![Build Status](https://travis-ci.org/HoloClean/holoclean.svg?branch=dev)](https://travis-ci.org/HoloClean/holoclean)
 
 # Record Fusion via Inference and Data Augmentation 
-(note that this code builds on and modifies original HoloClean)
+(note that this code builds on and modifies original [HoloClean](https://github.com/HoloClean/holoclean))
 
 
 We introduce a learning framework for the problem of unifying conflicting data in
